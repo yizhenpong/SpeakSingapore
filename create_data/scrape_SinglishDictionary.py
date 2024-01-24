@@ -13,7 +13,7 @@ https://www.singlish.net/category/dictionary/a/
 ...
 https://www.singlish.net/category/dictionary/z/
 '''
-
+import os
 import requests
 from bs4 import BeautifulSoup
 from utils import write_to_json_file

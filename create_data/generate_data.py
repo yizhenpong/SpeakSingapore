@@ -2,7 +2,7 @@ import os
 import openai
 from openai import OpenAI
   
-with open('./generate_data/secrets.txt') as f:
+with open('./create_data/secrets.txt') as f:
   key = f.readline()
 client = OpenAI(api_key=key)
 
