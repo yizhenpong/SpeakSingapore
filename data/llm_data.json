@@ -1,0 +1,130 @@
+{
+    "examples": [
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "Can you tell me what 'Atas' means in Singapore?"
+            },
+            {
+                "role": "assistant",
+                "content": "The term 'Atas' refers to someone or something that is considered high class. It can be used to describe a person who is perceived as snobbish or to describe things associated with good taste or a high standard of living."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "If someone calls me 'Abang', what does it mean?"
+            },
+            {
+                "role": "assistant",
+                "content": "The word 'Abang' is a Malay term for elder brother and is also commonly used to address a male Malay friend in a friendly manner, similar to saying 'Hi Bro' in English."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "I heard someone say 'Ah Huay'\u2014what's that?"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah Huay is a name, often a Hokkien pronunciation of the Chinese name \u963f\u82b1. It's used to refer to a woman and is generally a friendly, albeit casual, term."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "Someone mentioned 'Ah Lian' in a conversation. What does it mean?"
+            },
+            {
+                "role": "assistant",
+                "content": "'Ah Lian' is a Hokkien term that refers to a certain stereotype of young women in Singapore who are known for their distinct mannerisms and fashion sense. It's the Hokkien pronunciation of the Chinese name \u963f\u83b2."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "What is 'agar-agar' in the context of Singapore?"
+            },
+            {
+                "role": "assistant",
+                "content": "In Singapore, 'agar-agar' is a dessert similar to jelly, made from a type of seaweed. It's often served chilled and can come in a variety of flavors and colors. It can also be used as an ingredient in other dessert dishes."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "What does the exclamation 'Alamak' signify?"
+            },
+            {
+                "role": "assistant",
+                "content": "The exclamation 'Alamak' is used to express shock or surprise. It's similar to saying 'Oh my goodness!' or 'Oh no!' in English."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "What do people mean by 'Ang Moh' here in Singapore?"
+            },
+            {
+                "role": "assistant",
+                "content": "'Ang Moh' is a phrase of Hokkien origin that means 'red-haired' and is used colloquially in Singapore to refer to Caucasians."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "What's AWARE? I've seen it mentioned several times."
+            },
+            {
+                "role": "assistant",
+                "content": "AWARE stands for the Association of Women for Action and Research. It is a non-profit organization in Singapore focused on gender equality and women's rights."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
+            },
+            {
+                "role": "user",
+                "content": "My friend keeps saying 'Agak agak' when cooking. What does this mean?"
+            },
+            {
+                "role": "assistant",
+                "content": "The term 'Agak agak' means to estimate or guess, usually based on one's intuition or judgement. It's often used in cooking to suggest the approximate amounts of ingredients to use rather than measuring precisely."
+            }
+        ]
+    ]
+}
