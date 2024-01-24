@@ -1,12 +1,13 @@
 import os
 import openai
 from openai import OpenAI
-    
-openai.api_key = os.environ["OPENAI_API_KEY"]
-client = OpenAI()
+  
+with open('./create_data/secrets.txt') as f:
+  key = f.readline()
+client = OpenAI(api_key=key)
 
 response = client.chat.completions.create(
-  model="gpt-4 turbo",
+  model="gpt-4-32k",
   response_format={ "type": "json_object" },
   messages=[
     {"role": "system", "content": "You are a helpful assistant designed to output JSON."},
