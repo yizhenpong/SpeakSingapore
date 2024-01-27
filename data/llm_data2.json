@@ -1,0 +1,102 @@
+{
+    "examples": [
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "What does '7 Early, 8 Early' mean in Singlish?"
+            },
+            {
+                "role": "assistant",
+                "content": "'7 Early, 8 Early' is a phrase that refers to an hour in the morning, typically between 7 to 8 am, which might be annoyingly early for some. For example, you might hear, 'Aiyoh, why this construction noise so loud 7 early 8 early one? Can\u2019t even sleep in peace lah.'"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "What are the 5Cs in Singapore?"
+            },
+            {
+                "role": "assistant",
+                "content": "The 5Cs in Singapore represent the material aspirations of some Singaporeans. They include Cash, Credit Card, Condominium, Car, and Country Club Membership. As in, 'Wah lau, you see that guy ah, he got all the 5Cs leh, so solid!'"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "Explain '4D' to me."
+            },
+            {
+                "role": "assistant",
+                "content": "'4D' refers to a four-digit lottery game popular in Singapore. People often discuss their dreams of winning, like 'If I strike 4D one day, first thing I do is to buy my mama a big house, confirm plus chop!'"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "What is '13th Month'?"
+            },
+            {
+                "role": "assistant",
+                "content": "The '13th Month' is essentially the Annual Wage Supplement, an extra month's paycheck given typically at year-end. It's a hot topic when it comes to bonus talk, like 'This year company good leh, give 13th Month bonus, can go holiday liao!'"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "What is '7th Month' about?"
+            },
+            {
+                "role": "assistant",
+                "content": "The '7th Month' refers to the Hungry Ghost Festival when it\u2019s believed that the spirits return to the mortal world. You might overhear, 'Eh, during the 7th Month, better not to whistle at night, later invite those 'good brothers' to follow you back home ah.'"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "What does 10KKJ mean?"
+            },
+            {
+                "role": "assistant",
+                "content": "'10KKJ' is cheeky internet slang for Tampines, a neighborhood in Singapore. It\u2019s not often spoken, but you might see it in text like 'Meet you at 10KKJ MRT Station at 6pm'."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who can explain Singlish phrases."
+            },
+            {
+                "role": "user",
+                "content": "Tell me about '11B'."
+            },
+            {
+                "role": "assistant",
+                "content": "'11B' is a Military Identification Card issued to every full-time National Serviceman. When going out in uniform, servicemen often hear, 'Eh brother, remember to carry your 11B hor, if not later kena spot check how?'"
+            }
+        ]
+    ]
+}
