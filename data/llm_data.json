@@ -7,11 +7,11 @@
             },
             {
                 "role": "user",
-                "content": "Can you tell me what 'Atas' means in Singapore?"
+                "content": "Can you explain what '7 Early, 8 Early' means?"
             },
             {
                 "role": "assistant",
-                "content": "The term 'Atas' refers to someone or something that is considered high class. It can be used to describe a person who is perceived as snobbish or to describe things associated with good taste or a high standard of living."
+                "content": "'7 Early, 8 Early' is a Singlish phrase used to describe actions taken early in the morning, between 7am to 8am, that might disturb others who are still sleeping. It's often used to complain about loud noises or disturbances during these early hours."
             }
         ],
         [
@@ -21,11 +21,11 @@
             },
             {
                 "role": "user",
-                "content": "If someone calls me 'Abang', what does it mean?"
+                "content": "Explain the term '5Cs' in the context of Singapore."
             },
             {
                 "role": "assistant",
-                "content": "The word 'Abang' is a Malay term for elder brother and is also commonly used to address a male Malay friend in a friendly manner, similar to saying 'Hi Bro' in English."
+                "content": "The '5Cs' stands for Cash, Credit Card, Condominium, Car, and Country Club Membership. These are considered the five status symbols that many Singaporeans aspire to have. They indicate a person's success and are sometimes humorously referred to as the benchmarks for potential husbands."
             }
         ],
         [
@@ -35,11 +35,11 @@
             },
             {
                 "role": "user",
-                "content": "I heard someone say 'Ah Huay'\u2014what's that?"
+                "content": "What is '4D' in Singapore?"
             },
             {
                 "role": "assistant",
-                "content": "Ah Huay is a name, often a Hokkien pronunciation of the Chinese name \u963f\u82b1. It's used to refer to a woman and is generally a friendly, albeit casual, term."
+                "content": "'4D' in Singapore refers to a popular 4-digit lottery game run by Singapore Pools, with draws being conducted on Wednesdays, Saturdays, and Sundays. People try their luck to win by betting on a sequence of numbers from 0000 to 9999."
             }
         ],
         [
@@ -49,11 +49,11 @@
             },
             {
                 "role": "user",
-                "content": "Someone mentioned 'Ah Lian' in a conversation. What does it mean?"
+                "content": "What does '13th Month' mean?"
             },
             {
                 "role": "assistant",
-                "content": "'Ah Lian' is a Hokkien term that refers to a certain stereotype of young women in Singapore who are known for their distinct mannerisms and fashion sense. It's the Hokkien pronunciation of the Chinese name \u963f\u83b2."
+                "content": "The '13th Month' refers to the bonus payment, also known as the Annual Wage Supplement, given to permanent staff at the end of the year by most companies in Singapore. It's equivalent to one month's salary, and many people look forward to it for holiday spending or savings."
             }
         ],
         [
@@ -63,11 +63,11 @@
             },
             {
                 "role": "user",
-                "content": "What is 'agar-agar' in the context of Singapore?"
+                "content": "Could you tell me about the '7th Month' festival?"
             },
             {
                 "role": "assistant",
-                "content": "In Singapore, 'agar-agar' is a dessert similar to jelly, made from a type of seaweed. It's often served chilled and can come in a variety of flavors and colors. It can also be used as an ingredient in other dessert dishes."
+                "content": "The '7th Month' refers to the Hungry Ghost Festival observed by Singaporean Chinese when it's believed that the ghosts and spirits come out from the lower realm. During this period, people pay respects and offer prayers to the deceased by burning incense and joss paper. It's also a time for 'Getai' performances which provide entertainment for both the spirits and the living."
             }
         ],
         [
@@ -77,11 +77,11 @@
             },
             {
                 "role": "user",
-                "content": "What does the exclamation 'Alamak' signify?"
+                "content": "What does 10KKJ mean?"
             },
             {
                 "role": "assistant",
-                "content": "The exclamation 'Alamak' is used to express shock or surprise. It's similar to saying 'Oh my goodness!' or 'Oh no!' in English."
+                "content": "10KKJ is internet slang that stands for the town Tampines in Singapore, particularly used in online communications. The phrase originated from the Hokkien word 'Ku Ku Jiao', which means 'penis', making '10KKJ' a playful phonetic wordplay for the name of the town."
             }
         ],
         [
@@ -91,39 +91,11 @@
             },
             {
                 "role": "user",
-                "content": "What do people mean by 'Ang Moh' here in Singapore?"
+                "content": "What is an '11B' card?"
             },
             {
                 "role": "assistant",
-                "content": "'Ang Moh' is a phrase of Hokkien origin that means 'red-haired' and is used colloquially in Singapore to refer to Caucasians."
-            }
-        ],
-        [
-            {
-                "role": "system",
-                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
-            },
-            {
-                "role": "user",
-                "content": "What's AWARE? I've seen it mentioned several times."
-            },
-            {
-                "role": "assistant",
-                "content": "AWARE stands for the Association of Women for Action and Research. It is a non-profit organization in Singapore focused on gender equality and women's rights."
-            }
-        ],
-        [
-            {
-                "role": "system",
-                "content": "You are a friendly chatbot who is knowledgeable about Singapore and its culture"
-            },
-            {
-                "role": "user",
-                "content": "My friend keeps saying 'Agak agak' when cooking. What does this mean?"
-            },
-            {
-                "role": "assistant",
-                "content": "The term 'Agak agak' means to estimate or guess, usually based on one's intuition or judgement. It's often used in cooking to suggest the approximate amounts of ingredients to use rather than measuring precisely."
+                "content": "An '11B' is a military identification card given to Full-Time National Servicemen in Singapore. It acts as their official ID during their service period, replacing their National Registration Identity Card (NRIC). The 11B is associated with terms like ORD (Operationally Ready Date), ROD (Run Out Date), and MR (Ministry of Resilience)."
             }
         ]
     ]
