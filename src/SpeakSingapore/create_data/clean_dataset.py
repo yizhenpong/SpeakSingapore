@@ -1,9 +1,14 @@
 '''clean dataset module'''
+import pathlib
 
 class AbstractCleanDataset:
-    def __init__(self, name: str, SFP: list) -> None:
+    '''Abstract class'''
+    def __init__(self, name: str, SFP: list, data_path: pathlib.Path, clean_data_path: pathlib.Path) -> None:
+        '''initialise with dataset name and a list of sentence final particles to be identified'''
         self.name = name
         self.SFP = SFP
+        self.file_path = data_path
+        self.clean_data_path = clean_data_path
     
     def singlish_SFP_present(self, sentence: str) -> bool:
         '''Check if Singlish Sentence Final Particle is present in sentence'''
@@ -13,12 +18,12 @@ class AbstractCleanDataset:
         '''Place Singlish words within delimiters'''
         raise NotImplementedError
     
+    def save_sentence_to_file(self, sentence: str):
+        '''Save sentence to file'''
+        raise NotImplementedError
 
 class CleanDataset(AbstractCleanDataset):
-    def __init__(self, name: str, SFP: list) -> None:
-        '''initialise with dataset name and a list of sentence final particles to be identified'''
-        super().__init__(name, SFP)
-
+    '''Clean dataset -- generic'''
     def singlish_SFP_present(self, sentence: str) -> bool:
         '''check if singlish SFP in sentence'''
         sfp_set = set(self.SFP)
