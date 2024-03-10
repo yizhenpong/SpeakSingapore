@@ -8,7 +8,7 @@ class AbstractCleanDataset:
         '''initialise with dataset name and a list of sentence final particles to be identified'''
         self.name = name
         self.SFP = SFP
-        self.file_path = data_path
+        self.data_path = data_path
         self.clean_data_path = clean_data_path
         self.source = source
     
@@ -47,9 +47,19 @@ class CleanDataset(AbstractCleanDataset):
                     words[i] = f"{start_delimiter}{word}{end_delimiter}"
             return ' '.join(words)
         else:
-            raise Exception("Unexpected error when placing delimiters in sentence")
+            return ''
     
     def save_sentence_to_file(self, sentence: str):
         '''Save sentence to file'''
-        with open(self.clean_data_path, 'a') as file:
+        with open(self.clean_data_path, 'a', encoding='utf-8') as file:
             file.write(sentence + '\n')
+    
+    def run(self, start_delimiter, end_delimiter):
+        with open(self.data_path, 'r', encoding='utf-8') as file:
+            for sentence in file:
+                new_sentence = self.put_singlish_particle_within_delimiter(sentence, start_delimiter, end_delimiter)
+                if new_sentence != '':
+                    self.save_sentence_to_file(new_sentence)
+        self.save_sentence_to_file("====== end of run ======")
+        print(f"saved all cleaned sentence into {self.clean_data_path}")
+
