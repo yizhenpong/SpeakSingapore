@@ -1,0 +1,86 @@
+speaker,speech
+,<I>
+A,Alright so last year what when we talk about hazards and you know there are two types of hazards right
+A,Latent dependency hazards which is what you try to take care of by your data tagging internal body and the other type of hazards are job scheduling hazards and that's where we talk about collisions in the use of reservant table to prevent them
+A,Just one point the ladies brought up to my attention when we talk about order table co-ording mechanisms to be very strict about it if you want to say that this after all the ording mechanism that you use produces an end state that is identical to the original sequence of instructions then we really need to have this as well
+A,In another word or rather make he make it uh comes up like that alright to be strict about it
+A,Okay because the state of a system the state of a machine is determined by the contents of the internal registers alright at the end of this original set of instructions when mister RO would contain the result of that multiplication alright and that same result is <unclear> word </unclear> into memory but it still contain in RO after that copy of registers alright
+A,For that year at the end of it RO will also should also contain the result of that multiplication alright
+A,So that's latent depend dependency has okay then we started on job scheduling hazards and we define a <unclear> word </unclear> alright
+A,To simplify matters we talk about a unifunction pipeline okay you can do likewise or multifunction pipelines too but it's more complicated
+A,You know initiation is just referring to the starting of a job in the pipeline and the job scheduling hazard essentially refers to a collision when more than one job try to use a particular stage of the pipeline and we need to use the reservation table to help us prevent collisions between jobs alright
+A,The latency in time interval between successive initiations that means between successive jobs a latency sequence is just a sequence of just the interval between jobs right
+A,And in if that sequence happen of intervals se uhm sequence repeats itself we call it a latency cycle okay alright
+A,And I showed you this example of a reservating table and we know that if you try to start a second job one time unit later you will get a collision right here at square two two right
+A,Because job one is trying to use this stage job two is also trying to use the same stage okay job two is the blue mark job one is a red mark right
+A,So we know we need to obtain a set of forbidden latencies that means those tine intervals that we cannot start new jobs alright
+A,Okay we start new jobs during those intervals at those intervals you will lead to collisions okay
+A,And it turns out that forbidden latencies can be easily obtained from the reservation table by taking the distance between marks in any row
+A,For this particular case the mark in the rows give us this set forbidden latencies alright
+A,One five six and eight
+A,Okay you have marked it up one square apart here to there is five squares apart from here to here is six squares apart alright
+A,And from that to that there are eight squares apart okay so those are the forbidden latencies okay if you start a job at an interval equal to the spacing between any of those two marks then the utilisation of say stage two by the earlier job at the later time and by the later job at the earlier time you will clash
+A,What I'm trying to say is this supposing okay here is one two three four five so you start the first job and then you start the second job five times units later alright and at the time when the first job means stage two here that corresponds to a time when the second job meets stage two at this point alright because if you start your second job five times units later it may clash right
+A,Okay this mark here corresponding to a second job is collision at this point actually isn't it you know you know in its reservation table okay
+A,So we know we can get the forbidden latencies right and to make control of the pipeline easier all these collision uhm time intervals the forbidden latencies can be put into what is called a collision vector
+A,And a collision vector is simply is single bit positions alright where the bit position equal to a one bit position k equals to a one if k is an element of your forbidden set okay
+A,That's a collision vector
+A,All other bit position will be a zero
+A,So for this specific example then what we are going to have for the collision vector is position one two three four five six seven eight
+A,That's the collision vector for this example alright
+A,Position counting from right hand side starting at one okay
+A,So bit k is a one in k itself is in your forbidden latency and we make use of the shift register to decide when we can start a new job and you make use of it this way
+A,When we start a job in the pipeline you would load this vector into a shift register okay this collision vector goes into a shift register I mean start the job alright
+A,And then we start shifting one bit at a time for each clock cycle if you shift a one out then if that at that instant you cannot start a new job alright if you shift a zero out then you can start a new job okay
+A,Now we said over here forbidden latencies are one five six eight
+A,So your first after you have started a new job you loaded this in the next clock cycle you will shift a one out
+A,That way you cannot start at the next clock cycle alright
+A,Second clock cycle later you're shifting the zero out you can start a new job at the second clock cycle alright
+A,And that will not lead to a collision right because if you start one clock cycle later you see that collision at square two two if you start two cycles later there's no problem okay
+A,No clashes between the red and blue marks right
+A,So load this into a shift register and if you shift a one out then you cannot start a new job okay
+A,At that time instance right
+A,Each cycle you shift one bit right
+A,Okay now think of how the state of the pipeline will proceed from here
+A,Right we've started one job without this okay so we loaded this collision vector one clock cycle later we shifted a one out we cannot start a new job
+A,Second clock cycle after that you're shifting a zero you know you can start a new job fine and go ahead and start a new job alright
+A,If you do that then the new job is going to fit in it's going to start right here right
+A,Two cycles later and the usage pattern will follow the same as the first one so it will go this way this way
+A,That's the second job
+A,Now we need to know when can we start the third job okay
+A,When can we start the third job
+A,And so now we have job one and job two in the pipe
+A,Job one job two okay
+A,This initial collision vector was used to prevent collision between this alright
+A,Supposing after this case if you imagine you have another register okay we have more than one register for this collision vector
+A,After the new job we can load this same collision vector into the new register and then we start shifting out from the second register to decide when we start the third job right
+A,The situation is exactly the same as between job two and job one right
+A,Okay between now we're talking about between job three and job two okay
+A,So by looking at the second register checking for what is shifted out we can prevent collisions between job three and two but but that's not all that we have to worry about isn't it
+A,We need to worry about clashes between job three and one as well alright
+A,If you like we can think of it this way we started one job then one time unit passes two time unit passes we started job two right
+A,So job two is the one that this collision vector can protect from colliding with job three okay
+A,So looking at the second copy of this vector we can prevent collisions between this third job now and the second job that means the blue and the green mark we can prevent clashes using this vector okay
+A,We still need to take care of clashes between the third job and whatever is left of the earlier jobs between job three and job one we still need to take care of that between the blue mark and the red mark
+A,Right now we have not taken care of that yet alright
+A,Sound complicated but we can just use one register to take care of everything okay because turns out that the convenient technique for handling all of these is to fine we know this which is this same collision vector will protect us from collision between this and this okay
+A,Now we've started job two two time units later so we've shifted this out and we've shifted that one out
+A,So what is left for the first job is this pattern alright
+A,We need to OR them OR this one to this pattern okay
+A,So we'll OR this and we'll end up with this
+A,This becomes the new collision vector and it will protect you against all collisions alright between your new job and all the previous jobs okay
+A,Because this one prevents collision between three and two that one which is shifted from there prevents collision between the new job and the earlier jobs alright
+A,So this becomes the new collision vector for the whole pipeline for the whole system alright
+A,And you can proceed to do this for every single interval where you can start new jobs okay
+A,We say that this this collision vector represents the state of the pipeline alright and therefore we can obtain what is called a state diagram for the entire pipeline right that tells you exactly at any point in time when you can start another job okay no matter how many other jobs are still in the pipe
+A,So we need to get the state diagram alright
+A,Don't this any more so the initial collision vector is this one two three four five six seven eight
+A,I do the working on another sheet alright then this one will give the proper state diagram
+A,We cannot start one time unit later we can start a new job two time units later
+A,So what is left from here is after two time units later you'll have zero zero one one zero one alright
+A,That is what is left from the earlier job
+A,For the new job for the second job which is started two time units later we we get this same pattern we OR them we end up with this
+A,So this becomes the new state of the pipeline alright
+A,So we say this is initial alright your first one that comes in and then two time units later we started a new job the new state of the <unclear> word </unclear> of the system becomes characterised by this collision vector alright
+A,We can also start a job three time units later right after the first job okay so that will give us a different table
+A,Okay so that one will give us if you started three time units instead this is what is left again we have to OR it <X>
