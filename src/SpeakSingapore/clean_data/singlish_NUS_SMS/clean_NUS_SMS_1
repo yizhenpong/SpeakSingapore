@@ -1,3 +1,4 @@
+'''extract NUS SMS from json form to just sentences'''
 import json
 import pandas as pd
 

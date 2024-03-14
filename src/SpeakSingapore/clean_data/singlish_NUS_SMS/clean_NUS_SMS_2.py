@@ -1,3 +1,4 @@
+'''add delimiters to sentences'''
 from src.SpeakSingapore.clean_data.clean_dataset_main import CleanDataset
 
 SFP = ["lah", "leh", "lor"]
