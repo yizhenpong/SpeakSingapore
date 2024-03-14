@@ -37,9 +37,9 @@ speaker,speech
 1, That's why uhm we are trying to uh introduce you Progress how Progress can actually help you to solve the increasing business pressure in terms of lower the cost adapting to change business change and uh supporting machine uh of management structures
 1, Okay let me bring you uh to Progress uh product itself
 1, Progress actually offer the complete uh application development system
-1, Progress has got its own fourth <&>  4 </&> GL with SQL we also have a fast track what you call is a application user can actually paint screen uhm create menu and adhoc reports using this uh fast track
+1, Progress has got its own fourth * 4* GL with SQL we also have a fast track what you call is a application user can actually paint screen uhm create menu and adhoc reports using this uh fast track
 1, Progress also had its own data dictionary and its own relational database
-1, This uh Progress fourth <&>  4 </&> GL actually is a very elegant procedural and now you can create procedural and non-procedural statements uh if you are uh using the default or the uh Progress command uh you can actually uh cut short a lot of development time uh
+1, This uh Progress fourth * 4* GL actually is a very elegant procedural and now you can create procedural and non-procedural statements uh if you are uh using the default or the uh Progress command uh you can actually uh cut short a lot of development time uh
 1, Inside this uh there is a enter where it will do the normal syntax checking for you uh while you are phototyping your application
 1, You also have a on-line help facility within the enter
 1, You can do what are like key-stroke level programming control
@@ -48,8 +48,8 @@ speaker,speech
 1, Progress actually give you a high level support for many tasks common to transaction processing and information access such as database manipulation and screen and report processing enables creation of downsized application in a fraction of a time required inverted G
 1, If you are a this uh fast track is actually a menu-driven application user which is very ideal for uh rapid phototyping you can paste screens design menu and reports
 1, It can also perform uh ad-hoc database query and the fast track itself is actually written uh on Progress
-1, So uh whatever things you you are making use to do it will generate the reusable fourth <&>  4 </&> GL code for you
-1, So you can actually make use of this fourth <&>  4 </&> GL code and uh bring it in and cut and paste into your application procedure and you can save this uh course in the library and as and when you can uh bring this out to uh cut and paste or do some modification to suit your application requirement
+1, So uh whatever things you you are making use to do it will generate the reusable fourth * 4* GL code for you
+1, So you can actually make use of this fourth * 4* GL code and uh bring it in and cut and paste into your application procedure and you can save this uh course in the library and as and when you can uh bring this out to uh cut and paste or do some modification to suit your application requirement
 1, Progress also support development of uh application distributed across heterogeneous computer networks
 1, Uh it automatically handle uh the distributed processing such as uh communication re re remote processes and accessing the ah store in uh other computer and Progress actually support hundreds of uh hard hardware
 1, Uh we also support the operating system like DOS OS/2 uh in respaced kind of system running Unix or OS/2
@@ -67,7 +67,7 @@ speaker,speech
 1, The data dictionary will then dynamically connect or disconnect uhm to all databases required by your application
 1, If you do not <unclear> word </unclear> to uh have any uh transaction over the other databases uh Progress will disconnect it for you so that you will enhance the power and other things like uh it will host the <unclear> word </unclear> import and also the export facility within this uh data dictionary
 1, Progress has a uh its own relational database
-1, This actually eliminates the need to acquire or develop sep separate RDDMS interface routine and assure that application written in Progress fourth <&>  4 </&> GL are able to use all of the features of the RDDM MS
+1, This actually eliminates the need to acquire or develop sep separate RDDMS interface routine and assure that application written in Progress fourth * 4* GL are able to use all of the features of the RDDM MS
 1, You can uh access from the environment menu alone with the source code editor compiler debugger and other tools
 1, This will speed compiler development our database and the program that will use those databases
 1, Uh second it can it also provide capability to safeguard uh against system as well as human failure
@@ -79,7 +79,7 @@ speaker,speech
 1, You can have uh things like on-line data backup
 1, Uh Progress also support two face <unclear> word </unclear> this is for distributed database <unclear> word </unclear> and there are tool provided to you for performance monitoring and <unclear> word </unclear>
 1, Progress also uh support client server uh architecture
-1, Progress soft fourth <&>  4 </&> GL signif signifying the uh simplify the development of dispersed application possible by implementing a client server distributed computer model utilizing built-in protocol for co-ordination
+1, Progress soft fourth * 4* GL signif signifying the uh simplify the development of dispersed application possible by implementing a client server distributed computer model utilizing built-in protocol for co-ordination
 1, A client server model actually divide an application into two types of uh co-operating tasks: one those specific to the application and those common to a group of application
 1, A server perform the common task at the request of a client task and a client server model actually has uh several advantages:
 1, one it allow client to be developed uh independently of servers and reduce development time by eliminating
@@ -91,4 +91,4 @@ speaker,speech
 1, Right now Progress also uh support uh AS four hundred the OS four hundred uh okay
 1, The application regardless where you develop the source from whether is it uh DOS single-user or <unclear> word </unclear> system the source code where you are plotting to the next operating system or platform you do not have to rewrite any single code
 1, Progress also provide uh connectivity across all the standard uh network protocol such as NETBIO PCPIP <unclear> word </unclear> NET SPX IBX or OS5 <X>
-1, You can actually uh distribute your database across uh all other platforms when you are running the application Progress the will <unclear> word </unclear> will uh automatically point to you where the data is and you go and retrieve and access the data on the database regardless where it is stored Progress databases uh can be can also be independent I mean those fourth <&>  4 </&> GL uh application developed using Progress can access to ei either Progress or to other databases like ORACLE RDD or IMS Progress also uh give you uh robust gateway Uh besides the Progress ORACLE IMS RDD uh right now we can also support the CI <unclear> word </unclear> and uh <unclear> word </unclear> will be uh releasing very soon </X> </I>
+1, You can actually uh distribute your database across uh all other platforms when you are running the application Progress the will <unclear> word </unclear> will uh automatically point to you where the data is and you go and retrieve and access the data on the database regardless where it is stored Progress databases uh can be can also be independent I mean those fourth * 4* GL uh application developed using Progress can access to ei either Progress or to other databases like ORACLE RDD or IMS Progress also uh give you uh robust gateway Uh besides the Progress ORACLE IMS RDD uh right now we can also support the CI <unclear> word </unclear> and uh <unclear> word </unclear> will be uh releasing very soon </X> </I>

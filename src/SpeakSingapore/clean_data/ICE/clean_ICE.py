@@ -32,7 +32,11 @@ def run():
                     curr_speech = []
                     
                 elif not re.match(r"^<[\$I].*>", line) and line.rstrip():
-                    curr_speech.append(line.rstrip())
+                   
+                    pattern = r"<[Oo\&]>[ ](.*?)[ ]</[Oo\&]>" # all <O> </O> or <&> etc. are converted to * *.
+                    to_replace = r"*\1*"
+                    mline = re.sub(pattern, to_replace, line.rstrip())
+                    curr_speech.append(mline)
 
             chunk = (curr_speaker, ' '.join(curr_speech))
             convo.append(chunk)
