@@ -1,5 +1,5 @@
 speaker,speech
-,<I>
+,
 A,Alright so last year what when we talk about hazards and you know there are two types of hazards right
 A,Latent dependency hazards which is what you try to take care of by your data tagging internal body and the other type of hazards are job scheduling hazards and that's where we talk about collisions in the use of reservant table to prevent them
 A,Just one point the ladies brought up to my attention when we talk about order table co-ording mechanisms to be very strict about it if you want to say that this after all the ording mechanism that you use produces an end state that is identical to the original sequence of instructions then we really need to have this as well

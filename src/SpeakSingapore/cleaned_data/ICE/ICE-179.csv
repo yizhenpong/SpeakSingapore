@@ -1,5 +1,5 @@
 speaker,speech
-,<I> <X>
+,
 X,
 A,Good morning Mr Bek
 A,I'm glad that you are able to make it
@@ -54,7 +54,7 @@ B,I think that is fine with me
 B,What do you need
 B,My IC
 A,Yes
-A,Thank you </I> <I>
+A,Thank you </I>
 C,Okay Ming Chuan
 C,Lim Ming Chuan still under medical leave
 C,<unclear> word </unclear> Last time ago medical leave ah <unclear> word </unclear>
@@ -171,7 +171,7 @@ C,That's all my report
 C,Uh wait wait wait
 C,Okay another one August <unclear> word </unclear>
 X,
-I,<I>
+I,
 F,This must write in Malay or English
 G,Ah either either way
 F,there is no specified right

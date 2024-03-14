@@ -29,7 +29,7 @@ def run():
                     curr_speaker = line[-3:-2]
                     curr_speech = []
                     
-                elif not re.match(r"^<\$.*>", line) and line.rstrip():
+                elif not re.match(r"^<[\$I].*>", line) and line.rstrip():
                     curr_speech.append(line.rstrip())
 
 

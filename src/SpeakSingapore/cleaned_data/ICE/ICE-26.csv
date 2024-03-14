@@ -1,5 +1,5 @@
 speaker,speech
-,<I>
+,
 A,So what did you do yesterday
 B,Well I went for a swim and I made a pizza
 A,At home
@@ -105,7 +105,7 @@ B,So how are your kids
 A,Oh fine as ever I'm glad to say
 B,Is Nichole better now
 A,No no she has
-A,Thank you </I> <I> <X>
+A,Thank you </I>
 A,25 May 1992 </X>
 C,How did you spend your weekend
 D,Oh uh I went for a friend's wedding Saturday and that one took up the whole afternoon
