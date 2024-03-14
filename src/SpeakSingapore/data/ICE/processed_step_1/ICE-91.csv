@@ -1,5 +1,4 @@
 speaker,speech
-,
 A,Hello
 B,Hello Mary
 A,Yes Jenis ah
@@ -375,3 +374,4 @@ A,Okay lah so we talk again tonight lah
 C,Okay right
 A,Okay right hm
 C,Hm bye
+A,Bye bye </X> </I>

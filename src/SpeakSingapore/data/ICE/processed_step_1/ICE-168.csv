@@ -1,5 +1,4 @@
 speaker,speech
-,
 A,Doctor Pua who brought the patient Bachu Miah to you
 B,The police officers
 A,How many police officers
@@ -230,3 +229,4 @@ C,Were these scars deep
 B,No
 C,Consistent with a fight
 B,Yes
+C,Thank you doctor </I>

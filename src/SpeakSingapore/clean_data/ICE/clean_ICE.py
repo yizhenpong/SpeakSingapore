@@ -1,9 +1,10 @@
 import chardet
 import re
 import os
-import logging
 import glob
+import numpy as np
 import pandas as pd
+
 def run():
     '''
     clean data from ICE-Singapore
@@ -21,7 +22,7 @@ def run():
         convo = []
         
         with open(txt_file, 'r', encoding=detect_encoding(txt_file)) as file:
-            curr_speaker = None
+            curr_speaker = np.NaN
             curr_speech = []
             for line in file:
                 if re.match(r"^<ICE-SIN.*>", line):
@@ -32,6 +33,10 @@ def run():
                     
                 elif not re.match(r"^<[\$I].*>", line) and line.rstrip():
                     curr_speech.append(line.rstrip())
+
+            chunk = (curr_speaker, ' '.join(curr_speech))
+            convo.append(chunk)
+            convo = convo[1:] # omit first line
        
         speakers, speeches = zip(*convo)
         df = pd.DataFrame({
@@ -61,4 +66,3 @@ def write_to_file(path, content):
 
 if __name__ == "__main__":
     run()
-    logging.log(level=20, msg="success!")

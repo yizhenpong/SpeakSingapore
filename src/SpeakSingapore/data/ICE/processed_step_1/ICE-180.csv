@@ -1,5 +1,4 @@
 speaker,speech
-,
 X,
 A,Hi
 B,Hello
@@ -216,3 +215,4 @@ A,Ya I look forward to seeing you on that day again
 B,Okay see you then
 A,Bye
 B,Thank you bye
+A,Bye </X> </I>
