@@ -1,5 +1,5 @@
-import chardet
-import re
+
+import warnings
 import os
 import glob
 import pandas as pd
@@ -10,9 +10,10 @@ def run():
     create a dataframe of conversation chunks with Singlish particles from ICE-Singapore
     '''
     cleaned_data_path = os.path.abspath('./src/SpeakSingapore/data/ICE/processed_step_1/') 
-    dump_path = os.path.abspath('./src/SpeakSingapore/data/ICE/processed_step_2') 
+    dump_path = os.path.abspath('./src/SpeakSingapore/data/ICE/processed_step_2/') 
     csv_files = glob.glob(os.path.join(cleaned_data_path, '*.csv'))
-    
+
+    conv_to_csv = []
     for csv in csv_files:
         df = pd.read_csv(csv)
         
@@ -33,11 +34,28 @@ def run():
 
         df['speakerlead3'] = df.speaker.shift(-3)
         df['speechlead3'] = df.speech.shift(-3)
-        
-        
+        df = df.fillna("")
 
+        # reorder
 
-        break
+        with warnings.catch_warnings():
+            warnings.simplefilter(action='ignore', category=UserWarning)
+            filtered = df[df['speech'].str.contains(r'\b(lah|lor|meh|ah|la)\b', case=False)]
+            
+        filtered = filtered[list(filtered.columns)[2:8] + list(filtered.columns)[0:2] + list(filtered.columns)[8:]]
+       
+        
+        for _, row in filtered.iterrows():
+            tmp = row.tolist()
+            filtered_conv ='\n'.join(
+                [f"{tmp[i]}: {tmp[i+1]}" for i in range(0, len(tmp)-1, 2) if tmp[i] and tmp[i+1]]
+            )
+
+            conv_to_csv.append(filtered_conv)
+            
+
+    series = pd.Series(conv_to_csv)
+    series.to_csv(dump_path + '/convs.csv')
 
 if __name__ == "__main__":
     run()
