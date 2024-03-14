@@ -1,6 +1,7 @@
 
 import warnings
 import os
+import re
 import glob
 import pandas as pd
 pd.set_option('display.max_columns', None)
@@ -37,10 +38,13 @@ def run():
         df = df.fillna("")
 
         # reorder
-
+        LIST_OF_PARTICLES = ['lah', 'lor', 'meh', 'ah', 'la']
+        pattern = r"\b" + "|".join(LIST_OF_PARTICLES) + r"\b"
         with warnings.catch_warnings():
-            warnings.simplefilter(action='ignore', category=UserWarning)
-            filtered = df[df['speech'].str.contains(r'\b(lah|lor|meh|ah|la)\b', case=False)]
+            warnings.simplefilter(action='ignore')
+            filtered = df[df['speech'].str.contains(pattern, case=False)]
+            # focus on the particle filtered in the middle sentence.
+            filtered.speech = filtered.speech.map(lambda x: re.sub(r'\b(lah|lor|meh|ah|la)\b', r"[\1]", x))
             
         filtered = filtered[list(filtered.columns)[2:8] + list(filtered.columns)[0:2] + list(filtered.columns)[8:]]
        

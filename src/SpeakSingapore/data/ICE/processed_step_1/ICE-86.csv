@@ -2,7 +2,7 @@ speaker,speech
 A,I enjoyed myself
 B,You read for yourself is it
 A,Not even that
-A,<O> laughs </O>
+A,*laughs*
 A,I was so busy looking around
 A,That one I already got
 B,Sad lah
@@ -139,8 +139,8 @@ A,It's on Monday
 B,Oh so late ah
 A,End 11:45
 B,Aiyo
-A,You need something that runs fast <O> laughs </O>
-C,Then wind down your windows <O> laughs and coughs </O>
+A,You need something that runs fast *laughs*
+C,Then wind down your windows *laughs and coughs*
 C,Is it rain now
 C,The other side
 B,Yes
@@ -150,7 +150,7 @@ C,It's so long I mean
 A,That's why
 C,Ok it going to be
 A,Ok that's the other side
-A,<O> laughs </O>
+A,*laughs*
 C,She'll think I got very sensitive ears
 C,I know when the change is
 C,That's what she tells me
@@ -168,7 +168,7 @@ B,Chris can you start a car
 A,No
 B,Buy a car you know
 A,I yes I can buy a car
-A,<O> laughs </O>
+A,*laughs*
 A,Ya ya I can buy a car
 A,The man what
 C,Ya lah that's true
@@ -179,7 +179,7 @@ A,Ah my thinking of actually
 B,But quite expensive ah
 B,Four thousand for really nothing
 A,Ya it's actually really nothing lah but like
-A,<O> laughs </O>
+A,*laughs*
 B,And on top of that you pay extra to use the games
 A,Ya ten dollars right
 A,For members
@@ -200,7 +200,7 @@ B,You done homework yet
 A,What homework
 B,Like recording the that one
 A,Like it's being done right now
-A,<O> laughs </O>
+A,*laughs*
 B,Shut up meh
 B,What's your lecturer's name
 A,Dr Wee
@@ -227,7 +227,7 @@ B,When they put in your bag it's sha sha sha pick up sounds what
 A,It's behind you
 A,It's behind you
 A,It's not in my bag
-A,<O> laughs </O>
+A,*laughs*
 B,Where is it
 B,Can I have a look at it
 B,I thought you've done with it already
@@ -240,7 +240,7 @@ B,Right we go and eat in a restaurant
 B,So put it on one of the tables
 A,Oh that's not Singaporean English
 B,We can pick a Singaporean table
-B,Lots of Singaporeans there <O> laughs </O>
+B,Lots of Singaporeans there *laughs*
 A,Aiyah funny
 A,It's from what from what I've read from the instruction
 A,I don't know I don't know how much that's why
@@ -263,7 +263,7 @@ B,Is it very big
 A,Let's switch it off </I> 1346
 D,Where can I get soil <{> <[> ah </[>
 E,<[> This is so stupid </[> </{> okay
-E,<O> laughter </O>
+E,*laughter*
 E,Ah what
 E,For what
 D,Planting ah what else
@@ -342,8 +342,8 @@ D,Her beef is damn nice You just buy beef and eat one day
 D,Yucks
 D,Yucks
 D,Your backside uh
-E,<O> giggle </O> Yucks
-D,<O> slurp </O> Damn nice
+E,*giggle* Yucks
+D,*slurp* Damn nice
 D,Want some
 E,Don't want
 E,Eee I don't take beef
@@ -470,7 +470,7 @@ D,Yah lah He should be back lah
 E,Quite long right his leave
 D,He never put what
 E,What experiment
-D,Ethachum seyvaan Avan ellam <&>  Tamil </&> 'He'll do something He all'
+D,Ethachum seyvaan Avan ellam * Tamil* 'He'll do something He all'
 D,Sure got involve computer one ah
 E,Mm
 D,He don't believe in surveys
@@ -479,7 +479,7 @@ D,He don't believe in surveys ah
 E,so use computer
 D,Yah
 E,To do what
-D,His one all got timing Antha maathiri <&>  Tamil </&> 'Like that'
+D,His one all got timing Antha maathiri * Tamil* 'Like that'
 E,Oh
 D,Reaction-based time-based that kind based
 E,Oh don't wanna go and see
