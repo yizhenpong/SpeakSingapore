@@ -1,5 +1,5 @@
 speaker,speech
-,<I>
+,
 A,How come
 B,I I don't know I called leave messages
 B,You don't call back for one
@@ -154,7 +154,7 @@ A,Ya I'll call you next Wednesday
 B,Okay see you tomorrow then
 A,Okay
 B,Bye
-A,Bye </I> <I>
+A,Bye </I>
 A,Aye haven't heard from you in a long while
 C,Ya I'm doing a lot of things lah
 A,Like what

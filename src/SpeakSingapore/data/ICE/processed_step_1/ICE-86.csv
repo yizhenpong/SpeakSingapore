@@ -1,5 +1,5 @@
 speaker,speech
-,<I>
+,
 A,I enjoyed myself
 B,You read for yourself is it
 A,Not even that
@@ -261,7 +261,7 @@ A,It should be able to play right
 C,It's on
 A,It's on
 B,Is it very big
-A,Let's switch it off </I> 1346 <I>
+A,Let's switch it off </I> 1346
 D,Where can I get soil <{> <[> ah </[>
 E,<[> This is so stupid </[> </{> okay
 E,<O> laughter </O>

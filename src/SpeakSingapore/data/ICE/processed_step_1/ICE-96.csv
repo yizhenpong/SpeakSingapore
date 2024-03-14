@@ -1,5 +1,5 @@
 speaker,speech
-,<I>
+,
 A,Hello
 B,Hello
 B,May I speak to Alvin please
@@ -241,7 +241,7 @@ B,Okay
 C,Ya
 B,So thanks a lot Alvin
 B,Bye
-C,Bye </I> <I>
+C,Bye </I>
 D,I mean every weekend
 E,Huh
 D,Every weekend we're paying interest about
