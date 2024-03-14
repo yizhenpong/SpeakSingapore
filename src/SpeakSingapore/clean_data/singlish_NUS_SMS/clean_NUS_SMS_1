@@ -1,0 +1,15 @@
+import json
+import pandas as pd
+
+def clean_NUS_SMS_raw_run(input_file_path, output_file_path):
+    with open(input_file_path, 'r') as file:
+        data = json.load(file)
+    messages = [item['text']['$'] for item in data['smsCorpus']['message']]
+    singlish_text = pd.DataFrame({'Message': messages})
+    singlish_text.to_csv(output_file_path, sep='\t', index=False, header=False)
+
+
+if __name__ == "__main__":
+    input_file_path = 'src/SpeakSingapore/data/singlish_NUS_SMS/raw_data/smsCorpus_en_2015.03.09_all.json'
+    output_file_path = 'src/SpeakSingapore/data/singlish_NUS_SMS/processed_step_1/singlish_NUS_SMS.txt'
+    clean_NUS_SMS_raw_run(input_file_path, output_file_path)
