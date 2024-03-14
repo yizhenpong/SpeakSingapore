@@ -1,6 +1,7 @@
 import chardet
 import re
 import os
+import logging
 import glob
 import pandas as pd
 def run():
@@ -8,9 +9,9 @@ def run():
     clean data from ICE-Singapore
     '''
     
-    cleaned_data_path = os.path.abspath('./src/SpeakSingapore/cleaned_data/ICE/{name}.csv') 
+    cleaned_data_path = os.path.abspath('./src/SpeakSingapore/data/ICE/processed_step_1/{name}.csv') 
     
-    ice_path = os.path.abspath('./src/SpeakSingapore/data/ICE_data') 
+    ice_path = os.path.abspath('./src/SpeakSingapore/data/ICE/raw_data') 
     txt_files = glob.glob(os.path.join(ice_path, 'S1*.txt'))
    
     i = 1
@@ -31,10 +32,7 @@ def run():
                     
                 elif not re.match(r"^<[\$I].*>", line) and line.rstrip():
                     curr_speech.append(line.rstrip())
-
-
-
-            
+       
         speakers, speeches = zip(*convo)
         df = pd.DataFrame({
             'speaker': speakers,
@@ -63,3 +61,4 @@ def write_to_file(path, content):
 
 if __name__ == "__main__":
     run()
+    logging.log(level=20, msg="success!")
