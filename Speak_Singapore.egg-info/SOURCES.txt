@@ -1,6 +1,0 @@
-README.md
-setup.py
-Speak_Singapore.egg-info/PKG-INFO
-Speak_Singapore.egg-info/SOURCES.txt
-Speak_Singapore.egg-info/dependency_links.txt
-Speak_Singapore.egg-info/top_level.txt
