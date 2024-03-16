@@ -21,8 +21,7 @@ def format_prompt(convo):
     formatted = [
         {
             "role" : "user",
-            "content":  """Below is a transcript of a conversation involving Singaporeans who are speaking Singlish. Singlish is an English-based creole and contains particles such as "lah", "lor" and "leh". These particles have different pitches, depending\
-                         on the context of the conversation. For the provided conversation transcript, attach an appropriate pitch for the Singlish particles:\n""" + convo
+            "content":  """Below is a transcript of a conversation involving Singaporeans who are speaking Singlish. Singlish is an English-based creole and contains particles such as "lah", "lor" and "leh". These particles have different pitches, depending on the context of the conversation. For the provided conversation transcript, attach an appropriate pitch for the Singlish particles:\n""" + convo
         }
     ]
     return formatted
