@@ -1,3 +1,11 @@
+'''gpt 4 generate conversation module
+- uses OpenAI API to generate conversations of max 5 utterances
+    given input of a sentence with lah/lor/leh in square brackets
+    Translate the sentence to English (normalising it)
+        eg eh wat u doing [lah] -> hey what you doing [lah]
+    Create a short conversation of maximum 5 utterances between speakers
+        Speakers should be assiged "A/B/C: <some utterance>" 
+'''
 import os
 import json
 # from langchain.chat_models import ChatOpenAI
@@ -43,7 +51,7 @@ class generateSyntheticData():
         )
         translation_chain = LLMChain(llm=self.llm, prompt=translation_prompt)
 
-        conversation_template = """Craft a brief conversation incorporating the translated Singlish sentence. 
+        conversation_template = """Craft a brief conversation of at most 5 utterances, incorporating the translated Singlish sentence. 
                     Assign each speaker a label (A/B/C) followed by a colon for clarity. 
                     Ensure coherence in the dialogue by providing context and logical flow both before and after the translated Singlish sentence: 
                     '{translated_sentence}' """
@@ -68,10 +76,10 @@ class generateSyntheticData():
 
     
 
-if __name__ == "__main__":
-    sentences = ['Oh I was thkin of goin yogasana at 10 den no nd to go at 3 den can rush to parco 4 nb Okie [lor] u call me when ready',
-                 'Oh I was thkin of goin yogasana at 10 den no nd to go at 3 den can rush to parco 4 nb Okie [lor] u call me when ready', ]
+# if __name__ == "__main__":
+#     sentences = ['Oh I was thkin of goin yogasana at 10 den no nd to go at 3 den can rush to parco 4 nb Okie [lor] u call me when ready',
+#                  'Oh I was thkin of goin yogasana at 10 den no nd to go at 3 den can rush to parco 4 nb Okie [lor] u call me when ready', ]
     
-    output_data_path = 'src/SpeakSingapore/data/singlish_NUS_SMS/processed_step_3_gpt4/processed_step_3_gpt4.json'
-    generateData = generateSyntheticData(output_data_path, sentences)
-    generateData.run()
+#     output_data_path = 'src/SpeakSingapore/data/singlish_NUS_SMS/processed_step_3_gpt4/processed_step_3_gpt4.json'
+#     generateData = generateSyntheticData(output_data_path, sentences)
+#     generateData.run()

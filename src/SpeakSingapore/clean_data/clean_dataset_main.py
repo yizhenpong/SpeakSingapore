@@ -1,4 +1,8 @@
-'''clean dataset module'''
+'''clean dataset module
+be careful when u rerun this for the same dataset 
+as module is formatted to append to the text file clean_data_path
+and there is extra sentence "====== end of run ======" at the end
+'''
 import pathlib
 import re
 
