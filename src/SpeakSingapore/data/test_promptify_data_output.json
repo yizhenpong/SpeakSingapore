@@ -1,0 +1,28 @@
+[
+    {
+        "id": 0,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Below is a transcript of a conversation involving Singaporeans who are speaking Singlish. \n                Singlish is an English-based creole and contains particles such as \"lah\", \"lor\" and \"leh\". \n                These particles have different pitches, depending on the context of the conversation. \n\n                Here is the comprehensive law of Singlish pitches you must remember and follow when labeling the pitch: \n\n                \n\n                For the provided conversation transcript, there is a total of 2 Singlish particles,\n                attach an appropriate pitch for the Singlish particles:\n\\n\\nA: Aiyo, nearly hit leh, so scary ah!\\nB: Alamak, why you drive so fast?\\nA: You see lah, that driver in front of me suddenly changed lanes.\\nB: Wah, really dangerous sia. Good thing you were paying attention.\\nA: Yah, if not [confirm] accident already.\\n\""
+            },
+            {
+                "role": "bot",
+                "content": "Here is the conversation with labeled Singlish pitches: [leh1, lah3]"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "conversations": [
+            {
+                "role": "user",
+                "content": "Below is a transcript of a conversation involving Singaporeans who are speaking Singlish. \n                Singlish is an English-based creole and contains particles such as \"lah\", \"lor\" and \"leh\". \n                These particles have different pitches, depending on the context of the conversation. \n\n                Here is the comprehensive law of Singlish pitches you must remember and follow when labeling the pitch: \n\n                \n\n                For the provided conversation transcript, there is a total of 2 Singlish particles,\n                attach an appropriate pitch for the Singlish particles:\n\\n\\nA: \\\"Hey, I heard you got your phone confiscated. What happened?\\\"\\nB: \\\"Yeah, some bastard snitched on me to the teacher. Now kena [lah] confiscate.\\\"\\nA: \\\"That sucks. Who told on you?\\\"\\nB: \\\"I don't know, butok [lah] it was probably that busybody class monitor.\\\""
+            },
+            {
+                "role": "bot",
+                "content": "Here is the conversation with labeled Singlish pitches: [lah3, lah3]"
+            }
+        ]
+    }
+]

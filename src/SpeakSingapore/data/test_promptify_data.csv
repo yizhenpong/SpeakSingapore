@@ -1,0 +1,3 @@
+﻿index,conversation,num_singlish_particles,output
+0,"\n\nA: Aiyo, nearly hit leh, so scary ah!\nB: Alamak, why you drive so fast?\nA: You see lah, that driver in front of me suddenly changed lanes.\nB: Wah, really dangerous sia. Good thing you were paying attention.\nA: Yah, if not [confirm] accident already.\n""",2,"[leh1, lah3]"
+1,"\n\nA: \""Hey, I heard you got your phone confiscated. What happened?\""\nB: \""Yeah, some bastard snitched on me to the teacher. Now kena [lah] confiscate.\""\nA: \""That sucks. Who told on you?\""\nB: \""I don't know, butok [lah] it was probably that busybody class monitor.\""",2,"[lah3, lah3]"
