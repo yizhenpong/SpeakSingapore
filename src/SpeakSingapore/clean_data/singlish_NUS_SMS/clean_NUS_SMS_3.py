@@ -13,4 +13,4 @@ def generate_data(lines):
 
 if __name__ == "__main__":
     sentences = get_sentences()
-    generate_data(sentences[:3])
+    generate_data(sentences)
