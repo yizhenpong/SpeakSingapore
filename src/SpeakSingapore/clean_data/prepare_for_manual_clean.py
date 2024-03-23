@@ -2,7 +2,7 @@ import json
 import openpyxl
 import pandas as pd
 
-class prepareManualLabel():
+class prepareManualClean():
     def __init__(self, original_sentence_file_path, 
                 json_input_file_path, 
                 csv_output_file_path) -> None:
