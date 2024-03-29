@@ -31,12 +31,12 @@ class GenericFormatForCleaning:
 if __name__ == "__main__":
     import os
     print(os.getcwd()) 
-    format = GenericFormatForCleaning("./src/SpeakSingapore/clean_data/test_generic_format_data/final_dataset.xlsx", "conversation", "output", "Sheet1")
+    format = GenericFormatForCleaning("./src/SpeakSingapore/final_clean_data/aligned_labels/aligned_NUS_SMS.xlsx", "conversation", "output", "Sheet1")
 
     pd.set_option('display.max_columns', 10)
     out = format.run()
     print(out)
-    out.to_excel("./src/SpeakSingapore/clean_data/test_generic_format_data/output.xlsx")
+    out.to_excel("./src/SpeakSingapore/final_clean_data/aligned_labels_with_source/final_dataset.xlsx")
    # print(format.run().to_csv("./src/SpeakSingapore/clean_data/test_generic_format_data/output.csv"))
 
 
