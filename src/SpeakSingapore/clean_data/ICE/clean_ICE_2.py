@@ -38,7 +38,7 @@ def run():
         df = df.fillna("")
 
         # reorder
-        LIST_OF_PARTICLES = ['lah', 'lor', 'meh', 'la']
+        LIST_OF_PARTICLES = ['lah', 'lor', 'leh']
         pattern = r"\b" + "|".join(LIST_OF_PARTICLES) + r"\b"
         with warnings.catch_warnings():
             warnings.simplefilter(action='ignore')
