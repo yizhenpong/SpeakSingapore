@@ -3,9 +3,10 @@ import json
 import re
 
 class GenericFormatForCleaning:
-    def __init__(self, path, input_col_name, label_col_name, sheetname):
+    def __init__(self, path, input_col_name, label_col_name, sheetname, stop_at = 999999999):
         df = pd.read_excel(path, sheet_name=sheetname)
-        for i in range(df.shape[0]):
+        
+        for i in range(min(df.shape[0], stop_at)):
             try:
                 json.loads(df.loc[i, label_col_name])
             except Exception as e:
@@ -20,8 +21,8 @@ class GenericFormatForCleaning:
             text = text.replace(particle[:-2], particle, 1)
         return text
 
-    def run(self) -> pd.DataFrame:
-        self.df[self.label_col_name] = self.df.apply(lambda row: self.replace_text(
+    def run(self, outputcol="output") -> pd.DataFrame:
+        self.df[outputcol] = self.df.apply(lambda row: self.replace_text(
             row[self.input_col_name], row[self.label_col_name]
             )
         , axis=1)
@@ -29,15 +30,22 @@ class GenericFormatForCleaning:
     
 
 if __name__ == "__main__":
-    import os
-    print(os.getcwd()) 
+   
+    pd.set_option('display.max_columns', 10)
     format = GenericFormatForCleaning("./src/SpeakSingapore/final_clean_data/aligned_labels/aligned_NUS_SMS.xlsx", "conversation", "output", "Sheet1")
 
-    pd.set_option('display.max_columns', 10)
+    
     out = format.run()
-    print(out)
-    out.to_excel("./src/SpeakSingapore/final_clean_data/aligned_labels_with_source/final_dataset.xlsx")
-   # print(format.run().to_csv("./src/SpeakSingapore/clean_data/test_generic_format_data/output.csv"))
+    #print(out)
+    out = out[["output", "conversation"]]
+    format = GenericFormatForCleaning("./src/SpeakSingapore/final_clean_data/aligned_labels/aligned_NUS_ICE.xlsx", "conversation", "hylabel", "ice_data")
+    out_2 = format.run()
+    out_2 = out_2[["output", "conversation"]]
+    
+    out_combined = pd.concat([out, out_2])
+
+    out_combined.to_excel("./src/SpeakSingapore/final_clean_data/aligned_labels_formatted/final_dataset.xlsx")
+   
 
 
            

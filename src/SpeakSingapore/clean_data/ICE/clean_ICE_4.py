@@ -13,6 +13,9 @@ def run():
     df['num_singlish'] = temp.apply(lambda x: len(x))
     df['output'] = temp
     df.to_csv(chunked_data_path, index=False)
+    '''
+    Manual edits follow this. After manual edits, csv is deposited in the same folder in processed_step_3.
+    '''
 
     
 if __name__ == "__main__":

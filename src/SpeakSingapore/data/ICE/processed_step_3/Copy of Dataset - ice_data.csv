@@ -1,0 +1,1500 @@
+0,,hylabel,yz_label,agreed,num_singlish,num_singlish_yz,num_particles_match
+"[{'role': 'user', 'content': '\nA: Ya but then yet, there are many churches that allow us to book, but they only allow us to book three months in advance.\n\nB: Uhm.\n\nA: You know, all the confusion.\n\nB: So, you have to make your list lah, which one allows you to book, which one can convey the order.\n\nA: And now, with the phone rates.\n\nB: You have to spend a lot of money on it, so you try.\n\nA: So I try to call as many as possible last week.'}]","A: There are many churches that allow us to book, but some only allow us to book three months in advance. That is so confusing!
+B: So, you have to make your list lah, which one allows you to book, which one can convey the order.","[""lah51""]",['lah51'],TRUE,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Just for that afternoon.\n\nA: Ya, and then uhm we wrote in, but already taken up. That day we wanted, they said still available, you know. So by that time, we wrote in our letter. Two weeks later already taken up.\n\nA: Maybe it\'s also good that it\'s been taken up, so quite expensive leh - uh, nine hundred dollars. But on average, about four hundred to five hundred dollars both lah - the reception and the sanctuary.\n\nB: How much have you to pay?\n\nA: Four hundred as a church member is it?\n\nB: Are you a church member?'}]","
+B: Just for that afternoon?
+
+A: Ya, and then we wrote in, but already taken up. That day we wanted, they said still available, you know. So by that time, we wrote in our letter. Two weeks later already taken up.
+
+A: Maybe it\'s also good that it\'s been taken up, so quite expensive leh, nine hundred dollars. But on average, about four hundred to five hundred dollars both lah - the reception and the sanctuary.
+
+","[""leh33"", ""lah21""]","[""leh33"", ""lah21""]",TRUE,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Where\'s the West?\nB: Near to the camp. Or you know, if you\'re facing there, there\'s a road. Right, Chua Chu Kang way.\nA: Ya, facing Chua Chu Kang Way.\nB: I think that\'s the West. Not exactly West lah, probably slanted.\nA: Can\'t see sunset ah?\nB: Ya, probably you\'ll see sunset but only from the third floor.'}]","
+
+A: Where's Clementi? Is it in the west?
+B: I think that\'s in the West. Or maybe not exactly West lah, but around there.
+","[""lah21""]","[""lah21""]",TRUE,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Up towards, uh, my side.\nA: Up hah.\nA: Then the three sides, all flats.\nB: The other side lah.\nA: No, no, uhm... my the other side is like, a multi-storey car-park.'}]","
+B: You got lost? okay tell me your surroundings.
+A: On my right is like a mall
+B: The other side leh?
+A: My other side is like, a multi-storey car-park.","[""leh33""]","[""leh33""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Then we spend what, huh? Five hours traveling and waiting.\nA: I left my house at one, met in school at two.\nA: Supposed to meet at two.\nA: Then some students came late, you know? Came about two plus almost three. So we left West coast lah, at three.\nA: Then we traveled, uh, okay. We waited for a long time for Fifty-One. After that, took the train. Then up till Eunos.\nA: Uh, the train broke down.\nB: Aiyoh.'}]","
+A: Then we spend around five hours traveling and waiting. I left my house at one, met in school at two. Supposed to meet at two. Then some students came late, you know? Came about two plus almost three. So we left West coast lah, at three.
+A: Uh, the train broke down.
+B: Aiyoh, what terrible luck.","[""lah51""]","[""lah51""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: How come you all go all the way to Pasir Ris, where you could have gone West Coast?\n\nA: Ya lor, because... ya, they couldn\'t get fully booked at west coast, so they could get it but Pasir Ris not bad leh. Their new park just beside NTUC quite nice quite nice. Then the sea part is quite ah, the beach is quite broad also ah. Different from west coast because west coast is very crowded what.'}]","
+B: How come you all go all the way to Pasir Ris, where you could have gone West Coast?
+
+A: Ya lor, because... ya, they couldn\'t get fully booked at west coast, so they could get it but Pasir Ris not bad leh. Their new park just beside NTUC quite nice. Then the beach is quite broad also. Different from west coast because west coast is very crowded what.","[""lor33"", ""leh21""]","[""lor33"", ""leh21""]",,2,2,TRUE
+"[{'role': 'user', 'content': '\nA: Then the sea part is quite broad, the beach is quite spacious also. Different from West Coast, \'cos West Coast is very crowded, right? All the ships and all that over there are very clear, so it\'s good. Ya lah, so that day was the last time. I won\'t be going down anymore for their practices.\n\nB: The other teacher has taken over.\n\nA: She has taken over since she joined in July. But she\'s away now in the States. So we just leave it to them on their own to carry out whatever practices lah.'}]","
+A: Then the sea part is quite broad, the beach is quite spacious also. Different from West Coast, \'cos West Coast is very crowded, right? All the ships and all that over there are very clear, so it\'s good. Ya lah, so that day was the last time. I won\'t be going down anymore for their practices.
+
+B: The other teacher has taken over.
+
+A: She has taken over since she joined in July. But she\'s away now in the States. So we just leave it to them on their own to carry out whatever practices lah.","[ ""lah51"", ""lah21""]","[""lah21"", ""lah21""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: We\'ll just show them how to use a catalogue, show them all our library. Bring them to the different departments, tell them what to do and all that.\n\nA: You know most of the lecturers?\n\nA: Not almost. It depends on the department. Like some new, some new lecturers and all that lah. When it comes, then...\n\nA: And then make an appointment with them. Then I know them by face.\n\nA: And all that. Others is like, based on what I know, is as an undergrad. Then I\'m supposed to do, uh, estate management, architecture.'}]","
+A: You know most of the lecturers at the university?
+
+A: Not really. It depends on the department. Also, some lecturers are quite new lah. Maybe I would not have a chance to bump into them
+","[""lah21""]","[""lah21""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Ah, hah!\nB: Oh.\nA: I just took a break lah.\nA: Had to go back to my work just now.\nB: How many classes do you have to mark?\nA: Three.'}]","
+B: Ah, hah! So you were slacking all day, is it?
+A: I just took a break lah. Had to go back to my work just now.
+","[""lah21""]","[""lah24""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Oh.\nA: You know what I mean because I would have marked the paper I am going to get on Tuesday. It\'s not too difficult to mark.\nB: Who does the scheduling?\nA: The head of department (HOD) lah.\nB: Ah, okay.\nA: Ya, but I don\'t know. I\'ll see if I can\'t cope. If so, I might tell her. Then maybe, second next term, they can do something about it lah.\nA: Ya.'}]","
+B: Oh.
+A: You know what I mean because I would have marked the paper I am going to get on Tuesday. It\'s not too difficult to mark.
+B: Who does the scheduling?
+A: The head of department (HOD) lah.
+B: Ah, okay.
+A: Ya, but I don\'t know. I\'ll see if I can\'t cope. If so, I might tell her. Then maybe, second next term, they can do something about it lah.
+A: Ya.","[""lah51"", ""lah21""]","[""lah51"", ""lah21""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, very lucky cat.\nB: Don\'t need to worry, we want to go already.\n\nA: Aiyoh, ya lah, your cats are so lucky lah...\nB: Hah.\nA: The animals who live in your house, they really very lucky one.'}]","
+B: What a cute cat! Don\'t need to worry, we want to go already and we won\'t bother your cat anymore.
+A: Ya lor, your cats are so lucky leh...
+B: Hah, thank you very much.
+A: The animals who live in your house, they really very lucky one.","[""lor33"", ""leh21""]","[""lor33"", ""leh21""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, you know, then he became rich... (unclear word)\nA: Ya lor, got many people like that.\nA: Like from rags to riches kind of story.\nB: No lah, Carol. Not so many.\nA: Quite a lot leh, I mean.\nB: I mean, got.\nA: Just that we don\'t know, especially those from China and all that.'}]","
+B: Eh, you know, then he became rich...
+A: Ya lor, got many people like that, like from rags to riches kind of story.
+B: No lah, Carol. Not so many.
+A: Quite a lot leh, I mean.
+B: I mean, got a few, Just that we don\'t know, especially those from China and all that.","[""lor33"", ""lah21"", ""leh21""]","[""lor33"", ""lah51"", ""leh33""]",,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Most of the collies that came here, well, maybe they became middle class over generations but they didn\'t become rich overnight.\n\nA: Not overnight lah, of course not overnight. They worked very hard.\n\nB: They, as individuals, did not...'}]","
+B: Most of the collies that came here, well, maybe they became middle class over generations but they didn\'t become rich overnight.
+
+A: Not overnight lah, of course not overnight. They worked very hard.
+
+","[""lah51""]","[""lah51""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Not possible either.\nB: Whatever lah.\n\nA: Ya lor.\nA: I suppose you mean you can hold to your own beliefs is it?\n\nB: But it\'s just like God. I mean, sometimes you man, I mean, ""Oh"", did you read the latest Reader\'s Digest?\n\nA: Oh on what?\n\nB: Steven Hawking.'}]","
+B: Not possible to convince him, whatever lah, I give up.
+
+A: Ya lor, he is a lost cause.
+
+","[""lah21"", ""lor33""]","[""lah21"", ""lor33""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Ya, it is the movie that you cannot tell me the ending, right?\nA: You are not supposed to tell me.\nA: Ya, it will be kind to me if you let me watch it first.\nA: I have to see it eventually lah.\nB: You have to see it yourself.\nA: Ya, the thing is that I don\'t know which theatre it\'s showing at though.\nA: It\'s kind of obscure places.'}]","
+
+A: Please don't spoil the movie for me lah. it will be kind to me if you let me watch it first.
+","[""lah24""]","[""lah24""]",,3,1,FALSE
+"[{'role': 'user', 'content': '\nB: You have to see it, lah.\nA: Ya, the thing is that I don\'t know which theatres though.\nA: It\'s kind of obscure places.\nB: No lah.\nB: There are all sorts of interesting twists to it.\nA: Uhm.\nB: You know, it is like it is very British.'}]","
+A: I heard a new James Bond movie just got released.
+B: It is such a good movie, you have to see it lah.
+","[""lah24""]","[""lah24""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, aiyoh, my friend went to see it already, he said it was very good leh.\nA: You know you said it was very good, right?\nB: Uh huh.\nA: Yah lah, must go see it!\nB: I think got two months plus, only can watch the movie here, after America already watch it.\nB: Uhm.'}]","
+A: Eh, aiyoh, my friend went to see the James Bond movie already, he said it was very good leh.
+A: You know you said it was very good, right?
+B: Uh huh.
+A: Yah lah, must go see it!
+","[""leh21"", ""lah51""]","[""leh21"", ""lah51""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nD: Eh...\nA: Are you still reading that one?\nB: No, I just need the acting one.\nA: You should read the other one lah.\nB: Eh...\nA:Although I\'m sure you must have read it already.'}]","
+
+A: Are you still reading that book?
+B: No, I finished it. I am thinking of reading another one.
+A: You should read the book I recommended to you lah.
+","[""lah24""]","[""lah24""]",,3,1,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, for me also, I work in the library because I have to conduct course visits, right?\nB: Ah.\nC: For the students, I mean when they come, some of them are from, uh, very bad schools lah. From quite lousy schools, okay?\nB: Uhm, uhm.\nC: So when I talk to them, if I want to make myself understood, let\'s say to the lower primary students in Primary 2 or Primary 4, and they\'re from, these courses, I will have to...'}]","
+C: I do my work work in the school library because I am a visiting lecturer.
+B: Ah I see...
+C: For the students, I mean when they come, some of them are from very good schools lah.
+","[""lah21""]","[""lah21""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, I have to speak business English with the bankers?\nC: Ya, I think so.\nB: Proper English.\nA: Be more professional lah, you know.\nC: I think Peck See probably won\'t have that kind of problem lah.'}]","
+A: Eh, I have to speak business English with the bankers?
+C: Ya, I think so.
+B: Proper English.
+A: Be more professional lah, you know.
+C: I think Peck See probably won\'t have that kind of problem lah.","[""lah21"", ""lah21""]","[""lah21"", ""lah24""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, I really hate people who slang. Wah, I cannot stand it and I also cannot understand leh. That\'s the worst part.""\n\nC: ""Ya lor. Then, \'A\', we\'re talking about the tour, is it? How ah?""'}]","
+B: ""Eh, I really hate people who slang. Wah, I cannot stand it and I also cannot understand leh. That\'s the worst part.""
+
+C: ""Ya lor. Then, \'A\', we\'re talking about the tour, is it? How ah?""","[""leh33"", ""lor33""]","[""leh33"", ""lor33""]",,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: It\'s only thirty dollars leh. Other tour agencies charge fifty to sixty dollars.\nC: Four-star hotel is it?\nB: Uhm, I think so, around there.\nB: That\'s why I\'m not sure, up to you'}]","
+B: It\'s only thirty dollars leh. Other tour agencies charge fifty to sixty dollars.
+C: Four-star hotel is it?
+B: Uhm, I think so, around there.
+","[""leh21""]","[""leh21""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, you see this is four seven nine.""\n\nA: ""But when you go there, you have to buy things what.""\n\nB: ""Okay, plus. Eh, provided you don\'t buy things lor.""\n\nC: ""Wait wait wait.""\n\nC: ""You said it\'s four seven nine for three days ah?""\n\nB: ""Ah, four seven nine then plus twelve dollars airport tax.""'}]","
+
+A: What do I do if my professor does not want to compromise?
+B: Liddat lor, just suck thumb. There is nothing you can do about it.
+","[""lor33""]","[""lor33""]",,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, four seven nine then plus twelve dollars airport tax lah.""\nA: ""Ya.""\nB: ""Ya.""\nC: ""But then the food leh? Do they cover all meals or not?""\nB: ""They covered all meals except for the third day, only breakfast. So you settle your own dinner and lunch.""'}]","
+B: How good are the accomodations?
+A: Not bad lah, not bad.
+B: Then the food leh?
+","[""lah21"", ""leh33""]","[""lah21"", ""leh33""]",,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, inside the tour there\'s no such lunch. If you want to go, you have to go on your own.\nC: So, what else can we do? \nB: Caves lah.'}]","
+
+
+C: So, what do we do during the tour? 
+B: Explore the caves lah.","[""lah51""]","[""lah51""]",,5,1,FALSE
+"[{'role': 'user', 'content': '\nC: Actually, mostly it\'s going there to shop lor.\nB: Ah lah!'}]","
+B: What will we do in Venice?
+C: Mostly it\'s going there to shop lor.
+","[""lor33""]","[""lor33""]",,5,2,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, I heard it\'s because they have to import the goods directly from Bangkok itself.\nA: They are selling imported goods, is it?\nC: So, actually, Bangkok is cheaper lah.\nA: Ya.\nB: Bangkok itself is very cheap. I tell you, if you ask Ee Lan about that, she will tell you about it vigorously.'}]","
+B: Ya, I heard it\'s because they have to import the goods directly from Bangkok itself.
+A: They are selling imported goods, is it?
+C: So, actually, Bangkok is cheaper lah.
+A: Ya, Bangkok goods are very cheap. ","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Really?\nC: Cheap in terms of what?\nB: Ya lah, things are very cheap.\nB: She bought so much for Christmas last year.\nC: Ha.'}]","
+C: Really?
+C: Cheap in terms of what?
+B: Ya lah, things are very cheap.
+B: She bought so much for Christmas last year.
+C: Ha.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Wanna go Bangkok?\nC: I\'m...\n\nB: But you know, one thing about Bangkok is that it\'s very congested.\nC: Ya lah, that\'s true.\nB: And there\'s also a lot of pollution.\n\nC: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.\nB: The beach.'}]","
+C: Wanna go Bangkok?
+C: I\'m...
+
+B: But you know, one thing about Bangkok is that it\'s very congested.
+C: Ya lah, that\'s true.
+B: And there\'s also a lot of pollution.
+
+C: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.
+B: The beach.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Laze around and do nothing.\nB: Eh, beach.\nC: Ya lah, beach.\nC: But then eh, beach got a lot of those Ang Moh lang leh.\nB: So?\nC: I mean, I\'ve been there and then it\'s nice lah. You know, like nice sand, nice white sand, you know very fine.'}]","
+
+
+C: Johnny say we should chill at the beach. But then, beach got a lot of those Ang Moh lang leh.
+B: So?
+C: I mean, I\'ve been there and then it\'s nice lah. You know, like nice sand, nice white sand, you know very fine.","[""leh21"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, really or not?\nA: My goodness!\nA: Wah, you really open up when you are there.\nC: No lah, I don\'t have the figure for a bikini.\nC: I mean, I\'m saying you can wear one.\nB: Because she won\'t meet anybody else except us.\nC: No.'}]","
+
+A: Wah, you are so smart!
+C: No lah, I am not that good at math.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Ya.\nB: Oh dear.\nC: I don\'t know, I mean, so ya lah. It\'s nice lah. I would say.\nB: So how?'}]","
+B: How is the taste of the chicken rice?
+C: I don\'t know how to describe it, I mean, ya lah, it\'s nice lah, I would say.
+","[""lah51"", "" lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: So, I think parents can be asked to fork out there.\n\nB: Okay, so these are some of the ways, and some very specific ways would be uh, written communication where there are class bulletins, there are newsletters - especially for parents - got to bring the facts there.\n\nA: Now, I was in the hospital last time *laughs*.\n\nB: Yeah, okay so there are special newsletters for parents, involve parents in school and future events and uh, some achievements of students there and things like that lah, okay.\n\nA: Uh, as far as I know, ACS has one Report Express.\n\nB: Not sure about other schools.\n\nA: Have you come across any?'}]","
+A: So, I think parents can be asked to fork out there.
+
+B: Okay, so these are some of the ways, and some very specific ways would be uh, written communication where there are class bulletins, there are newsletters - especially for parents - got to bring the facts there.
+
+A: Now, I was in the hospital last time *laughs*.
+
+B: Yeah, okay so there are special newsletters for parents, involve parents in school and future events and some achievements of students there and things like that lah.
+
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\n1.0: ""Eh, you asking or not?""\n1.0: ""Come, come, ask lah.""\n1.0: ""Can all of you hear or not?""\n1: ""Louder lah, come on!""\n1.0: ""The mike cannot hear, hurry up, louder!""\n1.0: ""Okay, how come got reverse bias to the p and the n is it?""\n1.0: ""Let\'s say I don\'t have this one, okay?""'}]","
+A: ""Eh, are you asking the teacher or not?""
+C: ""Probably not""
+B: ""You wanted to ask a question? Come come, just ask lah.""
+","[""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nD: Eh, am I speaking properly?\nC: Dunno leh.\n\nD: I always speak like this one.'}]","
+D: Eh, am I speaking properly?
+C: Dunno leh.
+D: I always speak like this one.","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: Aiyo, she haven\'t had lunch yet?\nA: Yea, and B also.\nC: Oh no, poor thing. And you just waited for us.\nA: No lah, I was doing something lah.\nC: Then what time were you expecting us actually?\nA: I was finishing my work around three-ish or four-ish for twenty minutes.'}]","
+D: Aiyo, she haven\'t had lunch yet?
+A: Yea, and B also.
+C: Oh no, poor thing. And you just waited for us.
+A: No lah, I was doing something lah.
+C: Then what time were you expecting us actually?
+A: I was finishing my work around three-ish or four-ish for twenty minutes.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: ""But if she really wants to leave, she should. But she should give herself a year or two to really decide, you know.""\n\nB: ""Can she tahan (tolerate) a year or two?""\n\nC: ""That, or she can try another school.""\n\nA: ""No, she was never cut out for teaching lah, anyway.""\n\nA: ""But she doesn\'t mind teaching, you know. It\'s all the...""\n\nC: ""That\'s what all teachers say, uh.""\n\nA: ""Ya ya.""'}]","
+C: ""But if she really wants to leave, she should. But she should give herself a year or two to really decide, you know.""
+
+B: ""Can she tahan (tolerate) a year or two?""
+
+C: ""That, or she can try another school.""
+
+A: ""No, she was never cut out for teaching lah, anyway.""
+
+A: ""But she doesn\'t mind teaching, you know. It\'s all the...""
+
+C: ""That\'s what all teachers say, uh.""
+
+A: ""Ya ya.""","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: So there\'s nothing much lah, is there?\nA: Why work for admin?\nD: So are you looking around for a job as well?\nB: aiyah, teaching is boring lah. You know what I mean, they\'re just not interested. So this year, I got very bored\nC: You\'re teaching first-year is it this year?'}]","
+D: So there\'s nothing much lah, is there?
+A: Why work for admin?
+D: So are you looking around for a job as well?
+B: aiyah, teaching is boring lah. You know what I mean, they\'re just not interested. So this year, I got very bored
+C: You\'re teaching first-year is it this year?","[""lah51"", "" lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Do they see beyond \'A\' levels?\nA: I mean, what do they see beyond \'A\' levels?\nB: University, which they can\'t get into.\nA: Ya lah, be realistic.'}]","
+A: Do they see beyond \'A\' levels?
+A: I mean, what do they see beyond \'A\' levels?
+B: University, which they can\'t get into.
+A: Ya lah, be realistic.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: I mean, two years from now, right?\nC: Once I\'ve spent two years there, I\'m gonna feel the same way lah, you know.\nB: No lah.\nB: What are you trying to say?\nC: So, I\'ll look for a new job again.'}]","
+C: I mean, two years from now, right?
+C: Once I\'ve spent two years there, I\'m gonna feel the same way lah, you know.
+B: No lah.
+B: What are you trying to say?
+C: So, I\'ll look for a new job again.","[""lah21"", "" lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Sorry, I didn\'t catch that word for the rest of the year.\nA: Yeah?\nB: Yeah.\nC: So he\'s looking for other things, you know. They said they prefer internal transfers, but they need someone who can jump in right away. He doesn\'t have marketing experience.\nC: But he will gain marketing experience soon, and then they can employ him, okay?\nC: Already he can do freelance lah, you know. Because he doesn\'t want to jeopardize his future.'}]","
+C: Sorry, I didn\'t catch that word for the rest of the year.
+A: Yeah?
+B: Yeah.
+C: So he\'s looking for other things, you know. They said they prefer internal transfers, but they need someone who can jump in right away. He doesn\'t have marketing experience.
+C: But he will gain marketing experience soon, and then they can employ him, okay?
+C: Already he can do freelance lah, you know. Because he doesn\'t want to jeopardize his future.","[""lah21""]",,,1,0,FALSE
+"[{'role': 'user', 'content': '\nC: So he\'s looking for other things, lah. So they said, ""Uhm, we prefer internal transfers. But we need someone who can jump in right away, and he doesn\'t have marketing experience.""\n\nC: But he will gain marketing experience soon, and then they can employ him, okay. Already he can do freelance, lah. You know, because he doesn\'t want to jeopardize his future. Who knows? Your company might close down or what, huh?""\n\nA: ""Ya, don\'t know. I wonder how much we\'ll need.""'}]","
+C: So he\'s looking for other things, lah. So they said, ""Uhm, we prefer internal transfers. But we need someone who can jump in right away, and he doesn\'t have marketing experience.""
+
+C: But he will gain marketing experience soon, and then they can employ him, okay. Already he can do freelance, lah. You know, because he doesn\'t want to jeopardize his future. Who knows? Your company might close down or what, huh?""
+
+A: ""Ya, don\'t know. I wonder how much we\'ll need.""","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, until the man and the woman selling it look very old. They\'re not even selling it for very long.""\n\nD: ""Excuse me, please lah. You\'re spreading people\'s doom like that, confirm plus chop.""\n\nA: ""No lah, sometimes you see these old couples selling stuff, you know""'}]","
+B: ""Eh, until the man and the woman selling it look very old. They\'re not even selling it for very long.""
+
+D: ""Excuse me, please leh. You\'re spreading people\'s doom like that, confirm plus chop.""
+
+A: ""No lah, sometimes you see these old couples selling stuff, you know""","[""leh33"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nD: It\'s very hard work.\nA: You know what I mean.Like this couple I know, they sell Hokkien mee, but nobody, I mean, buys from them you know?\nD: Because not nice lah.\nB: Then how they survive?\nA: Don\'t know'}]","
+D: It\'s very hard work.
+A: You know what I mean. Like this couple I know, they sell Hokkien mee, but nobody buys from them you know?
+D: Because the food is not nice lah.
+B: Then how did the couple survive?
+A: Don\'t know
+","[""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, do you swim?\nB: No, but you can go snorkeling what.\nA: I don\'t even know how to snorkel.\nB: Wear a life-jacket lah.'}]","
+A: Eh, do you swim?
+B: No, but you can go snorkeling what.
+A: I don\'t even know how to snorkel.
+B: Wear a life-jacket lah.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, how is she?\nA: Eh, she\'s very busy.\nB: Eh, eh...\nA: I used to talk to her every day. Until last week, she told me not to call her because she will be not around lah.'}]","
+B: Eh, how is she?
+A: She\'s very busy. I used to talk to her every day. Until last week, she told me not to call her. I think she will be not around lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Then we\'ll go without a car, is it?\nB: Ya, until the COE comes down.\nB: You have to walk to the main road lah.\nA: Ah, then take the MRT.\nTake the bus, but it\'s a lot of inconvenience lah.'}]","
+A: Then we\'ll go without a car, is it?
+B: Ya, until the COE comes down.
+B: You have to walk to the main road lah.
+A: Ah, then take the MRT. You can also take the bus, but it\'s a lot of inconvenience lah.","[""lah21"" , ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, it\'s less than one, for sure.\nA: My area only got bungalows can fetch one.\nA: Even semi-detached, maybe eight only lah. Because until now, still not considered very prime, you see.'}]","
+
+A: My area only got bungalows can fetch one.
+A: Even semi-detached, maybe eight only lah. Because until now, still not considered very prime, you see.","["" lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: This thing ah?\nB: Mmm...\nA: After we finish lor. After you finish, it will stop.\nB: I feel very uncomfortable, very uneasy.'}]","
+A: This thing ah?
+B: Mmm...
+A: After we finish lor. After you finish, it will stop.
+B: I feel very uncomfortable, very uneasy.","[""lor33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Wei Ho changed his whole style of dressing.\nB: Eh, I saw him in shocking yellow the other day leh!\nA: Yah lor, we call him ""the Frank"" you know because Frank also wear yellow sometimes.\nA: Actually, we had a bet with him lah. Ah John said, if he changes his image, then he will buy him new shirts.'}]","
+A: Wei Ho changed his whole style of dressing.
+B: Eh, I saw him in shocking yellow the other day leh!
+A: Yah lor, we call him ""the Frank"" you know because Frank also wear yellow sometimes.
+A: Actually, we had a bet with him lah. Ah John said, if he changes his image, then he will buy him new shirts.","[""leh51"", ""lor33"", ""lah21""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: If he change, he give us ten dollars. \nA: Actually, we challenge him for two years already lah. But he never take on the challenge.'}]","
+A: If he change, he give us ten dollars. 
+A: Actually, we challenge him for two years already lah. But he never take on the challenge.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: He must lose some weight.\nA: Ya lah, it\'s true, no joke.'}]","
+B: He must lose some weight.
+A: Ya lah, it\'s true, no joke.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: I know I depend on my husband for all the practical things in life. He depends on me for the emotional support that I can give, you know? So it\'s a partnership lah, you know.\nD: I have come to think, in a sense, it's just sad lah, you know'}]","
+B: I know I depend on my husband for all the practical things in life. He depends on me for the emotional support that I can give, you know? So it\'s a partnership lah, you know.
+D: I have come to think, in a sense, it's just sad lah, you know","[""lah51"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: This year's winner is team forty-eight.\nA: Oh.Then what leh? Uh, the second prize is what?'}]","
+B: This year's winner is team forty-eight.
+A: Oh.Then what leh? Uh, the second prize is what?","[""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Anyway, your children are free also what?\nB: Ya, but aiyah, have to look after them. Then also too late already... \nA: Maybe you bring one instead of two lah. '}]","
+A: Anyway, your children are free also what?
+B: Ya, but aiyah, have to look after them. Then also too late already... 
+A: Maybe you bring one instead of two lah. ","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: If we bring him along, you still have to rush back to fetch him.\nA: That night don\'t bring him along lor. Can or not?\nB: I think it\'s very bad.\nA: It\'s okay lah, once in a while, don't need to always attend relative's wedding dinner.'}]","
+B: If we bring him along, you still have to rush back to fetch him.
+A: That night don\'t bring him along lor. Can or not?
+B: I think it\'s very bad.
+A: It\'s okay lah, once in a while, don\'t need to always attend relative's wedding dinner.","[""lor33"", ""lah24""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh,\nB: So tomorrow, let me know what prize you got lah.'}]","
+A: Eh, the competition is tomorrow. I think I will do well!
+B: So tomorrow, share with me the prize money lah.","[""lah24""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Oh.\nB: Then who, who are those two?\nA: He got another son and daughter lor.'}]","
+B: Oh.
+B: Then who, who are those two?
+A: He got another son and daughter lor.","[""lor33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: How much money you need?\nB: I think $300 lah, for Dr. Teo lah.'}]","
+A: How much money you need?
+B: I think $300 lah, for Dr. Teo lah.","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""$200 for two tickets, is it? Whoa, that means this ride is more expensive than the previous one.""\n\nA: ""Ya lah, confirm plus chop. I think it is too expensive. What about this other ride leh?""'}]","
+B: ""$200 for two tickets, is it? Whoa, that means this ride is more expensive than the previous one.""
+
+A: ""Ya lah, confirm plus chop. I think it is too expensive. What about this other ride leh?""","[""lah51"", ""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: So Eileen going or not?\nA: Eileen not lah.'}]","
+B: So Eileen going or not?
+A: Eileen not lah.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, you see Yen Jing these days or not?""\n\nA: ""Eh, once in a while lah.""\n\nB: ""Wah, very slim leh.'}]","
+B: ""Eh, you see Yen Jing these days or not?""
+
+A: ""Eh, once in a while lah.""
+
+B: ""Wah, very slim leh.","[""lah21"", ""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\n\nB: I wonder who will get the first prize leh.\nA: Yah lor, last time Sandra got it.'}]","
+
+B: I wonder who will get the first prize leh.
+A: Yah lor, last time Sandra got it.","[""leh33"", ""lor33""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\n\nB: Who do you think will get first prize leh?'}]","
+
+B: Who do you think will get first prize leh?","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: So, back to the topic about my suite. So the glass is transparent lah. You can actually see the number of people inside the room lor.\nA: Oh, I see. But the suite is just a sofa only, right?\nB: Ah, got it.'}]","
+B: So, back to the topic about my suite. So the glass is transparent lah. You can actually see the number of people inside the room lor.
+A: Oh, I see. But the suite is just a sofa only, right?
+B: Ah, got it.","[""lah51"", ""lor33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Oh, is your husband a member of the company?.\nA: Ya, he is leh. It is his company'}]","
+B: Oh, is your husband a member of the company?.
+A: Ya, he is leh. It is his company","[""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: One day we should go karaoke leh.\nB: Ah, you want?\nA: Ya, if we have more people lah.'}]","
+A: One day we should go karaoke leh.
+B: Ah, you want?
+A: Ya, if we have more people lah.","[""leh33"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: What do you want to eat leh?'}]","
+A: What do you want to eat leh?","[""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Ya.\nA: Only $2, it\'s worth.\nB: That\'s excluding drinks, ah?\nA: Ya lah, no drinks one. '}]","
+B: Ya.
+A: Only $2, it\'s worth.
+B: That\'s excluding drinks, ah?
+A: Ya lah, no drinks one. ","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': ':\nB: ""Maybe I did, I can\'t remember, I\'ll try.""\n\nA: ""You see if you can find lah.""\nB: ""Ya.""'}]",":
+B: ""Maybe I did, I can\'t remember, I\'ll try.""
+
+A: ""You see if you can find lah.""
+B: ""Ya.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: In the letter, your rehearsal time is from what time to what time, then another organization\'s time is from what time to what time? Tell the banquet manager to prepare. For example,  we need how many standing mics and all that lah.'}]","
+A: In the letter, your rehearsal time is from what time to what time, then another organization\'s time is from what time to what time? Tell the banquet manager to prepare. For example,  we need how many standing mics and all that lah.","[""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: If anything happens, here is my number.\nA: Just in case, right?\nB: For emergency cases lah. Because there are no embassies around here.'}]","
+B: If anything happens, here is my number.
+A: Just in case, right?
+B: For emergency cases lah. Because there are no embassies around here.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: The deejay\'s thing on stage, the rostrum and all that then.\n\nA: Then I ask her, ""do we have a day-room that we can store our props?""\n\nB: Uhm.\n\nA: Then she say, ""No, just at the usual  place lah.""'}]","
+B: The deejay\'s thing on stage, the rostrum and all that then.
+
+A: Then I ask her, ""do we have a day-room that we can store our props?""
+
+B: Uhm.
+
+A: Then she say, ""No, just at the usual  place lah.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Will they have enough rooms for you and your family and friends?\\nA: So I think not enough lah, there are too many people around.'}]","
+B: Will they have enough rooms for you and your family and friends?\
+A: So I think not enough lah, there are too many people around.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Please sign over here.\nB: Okay, I copy here?\nA: Ya lah, here'}]","
+A: Please sign over here.
+B: Okay, I copy here?
+A: Ya lah, here","[""lah21""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nA: So, I have to go to Germany first, then come back again to Amsterdam, is it?\nB: Oh my gosh!\nB: Why leh?\nA: I don\'t know lah... I don\'t know whether I should or not.'}]","
+A: So, I have to go to Germany first, then come back again to Amsterdam, is it?
+B: Oh my gosh!
+B: Why leh?
+A: I don\'t know lah... I don\'t know whether I should or not.","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: So gaudy sia, so gaudy. Like rococo or the ice-cream cake topping?\nB: All of them?\nA: No lah, don't want.'}]","
+A: So gaudy sia, so gaudy. Like rococo or the ice-cream cake topping?
+B: All of them?
+A: No lah, don\'t want.","[""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Belvedere is nice because of the painting, ah?\nB: Ha.\nA: This one also nice because got gardens.\nB: Ya lah.'}]","
+A: Belvedere is nice because of the painting, ah?
+B: Ha.
+A: This one also nice because got gardens.
+B: Ya lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Ya.\nB: So you have about two to one hour to catch the train in Italy.\nA: Ya, but I don\'t trust the Italian trains.\nB: So a bit earlier lah, say reach there about five o\'clock.'}]","
+B: Ya.
+B: So you have about two to one hour to catch the train in Italy.
+A: Ya, but I don\'t trust the Italian trains.
+B: So a bit earlier lah, say reach there about five o\'clock.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""His health issue was presented for more than two years after the accident, you know? And I would therefore assume that it would be permanent.""\n\nA: ""From this injury to his brain, would there be any side effects like for instance, loss of memory, headaches, relapses?""\n\nB: ""He could have mental problems, but by his own testimony, he did not complain of headaches and said he was otherwise normal leh. '}]","
+B: ""His health issue was presented for more than two years after the accident, you know? And I would therefore assume that it would be permanent.""
+
+A: ""From this injury to his brain, would there be any side effects like for instance, loss of memory, headaches, relapses?""
+
+B: ""He could have mental problems, but by his own testimony, he did not complain of headaches and said he was otherwise normal leh. ","[""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: I am going to bring my credit card overseas.\nC: Okay, what about cash leh?'}]","
+A: I am going to bring my credit card overseas.
+C: Okay, what about cash leh?","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""They might not have loose change.""\nB: ""In fact, they might want to sing dollars from you.""\nC: ""Then they might ask you to buy less sing dollar is it?""\nB: ""Ya lor.""\nA: ""Doesn\'t matter lah.'}]","
+B: ""They might not have loose change.""
+B: ""In fact, they might want to buy sing dollars from you.""
+C: ""Then they might ask you to buy less sing dollar is it?""
+B: ""Ya lor.""
+A: ""Doesn\'t matter lah.","[""lor33"", ""lah21""]",,,7,6,FALSE
+"[{'role': 'user', 'content': '\nA: Let's see, we need to calculate how many cakes we have per person. 500 cakes divide by 24 people.\nB: About 20 lor.'}]","
+A: Let's see, we need to calculate how many cakes we have per person. 500 cakes divide by 24 people.
+B: About 20 lor.","[""lor33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: You must try and catch a fish lah.\nB: Oh, the doesn\'t matter lah.\nB: Ya, you could just catch ten smaller ones.'}]","
+C: You must try and catch a fish lah.
+B: Oh, the doesn\'t matter lah.
+B: Ya, you could just catch ten smaller ones.","[""lah21"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Miss P, how many days are we in Austria leh?\nD: Calculate lah, got itinerary right there what.'}]","
+A: Miss P, how many days are we spending in Austria leh?
+D: Calculate lah, got itinerary right there what.","[""leh33"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: So, what would you do before giving a presentation to your boss?\nB: Wait, let me collect my thoughts first. Hmm, maybe I would just run through a bit about the background lah'}]","
+A: So, what would you do before giving a presentation to your boss?
+B: Wait, let me collect my thoughts first. Hmm, maybe I would just run through a bit about the background lah","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: How old are they?\n\nA: Just about maybe around two years, I think.\n\nB: You mean you took them together one after another?\n\nA: They, uh, sort of almost lah.\n'}]","
+B: How old are they?
+
+A: Just about maybe around two years, I think.
+
+B: You mean you took them together one after another?
+
+A: They, uh, sort of almost lah.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Uhm\nB: If you have visions for your sons, you know, you should tell them, maybe for post-graduate studies or something.\nA: Uhm\nB: You know you will have to plan for more lah.\nA: Okay okay.\nB: Uhm, which adverts do you like?\nA: I think the latest one I received is from CIGNA.'}]","
+B: If you have a vision for your sons, you know, you should tell them, maybe for post-graduate studies or something. You know you will have to plan for more lah.
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, then maybe make an assessment whether I can afford or I can\'t afford.\nB: Ah, okay leh. Let me just run through quickly.\nA: Uhm...\nB: Uhm, they come in many names lah, okay. Basically, they\'re of a temporary nature.\nA: Uhm...'}]","
+A: Eh, then maybe make an assessment whether I can afford or I can\'t afford.
+B:  Let me just run through quickly.
+B: Umm... actually you are okay leh.","[""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh...\nB: Okay lah.\nA: Eh...\nB: But you know, generally got two ways lah, either one or the other.\nA: Eh...\nB: Okay, okay. Main thing is, the difference is whether you want to make sure it can do its job or not.'}]","
+
+B: Generally got two ways lah, either one or the other.
+A: Okay so which way is better?
+
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Okay.\nB: Okay. Eh, what else do they have? I think that\'s basically it lah. It\'s only in the packaging.\nA: Uhm.\nB: Uhm, I don\'t know whether...'}]","
+
+B: Eh, what else do they sell, other than cakes and bread? 
+A: I think that\'s basically it l","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Of course lah.\nB: That\'s just the trend, you know?\nA: Okay lah.\nB: Uhm, these things tend to be more popular nowadays, you see?\nA: Uhm, ya lor.'}]","
+
+B: That\'s just the trend, you know?
+A: Of course lah.
+","[""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: ""There\'s no loss, leh.""\n\nA: ""I see, I see, okay lah.""\n\nB: ""Uhm...""\n\nA: ""So all the interest, ah?""\n\nB: ""Ya, but there\'s I think got some offsetting along the way. Finally, can catch up, you know?""\n\nA: ""Is that right or not?""\n\nB: ""Got a small cost involved, also got insurance.""'}]","
+B: ""There\'s no loss leh. Why are you so scared to take the chance?""
+
+A: ""I see, I see, okay lah.""
+","[""leh33"", ""leh21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: ""Eh, word.""\nB: ""Uh huh, if you look at it from that point of view.""\nA: ""Uhm, uhm, okay.""\nB: ""Okay, that\'s what I meant lah.""\nA: ""Uhm.""'}]","
+
+B: ""If you look at it from that point of view, I guess you're right.""
+
+A: ""Yes that\'s what I meant lah.""
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: It\'s just not up to the thirtieth of November, but of course don\'t wait until the last minute, because there might be some complications, who knows?\nB: You think something like a telecoms rush?\nA: Yeah, yeah, you\'d be surprised, you know?\nB: No lah, what telecoms rush? You won\'t have another telecoms rush.\nA: No, what I mean is of course not. But what I\'m trying to say is, okay, give us two weeks, you know? Because maybe you need a medical check-up, you know.'}]","
+A: Don\'t wait until the last minute to submit your assignment, because there might be some complications, who knows?
+B: You think something might happem?
+A: Yeah, yeah, you\'d be surprised, you know?
+B: No lah, no way.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: I thought you were doing pretty well.\nA: Uhm, I think it was more for the long term, but uh, right now is running into difficulties because of all these extensions.\nB: Oh, I see.\nB: In that case, you maybe you have expanded too fast lah, over the last two to three years.\nA: Maybe a bit too fast lah.\nB: I see, I see.\nB: Well, anyway, you are not the only customer.'}]","
+B: I thought you were doing pretty well.
+A: Right now I'm running into difficulties because of all these extensions.
+B: In that case, maybe you have expanded your company too fast lah, over the last two to three years.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, I, it was more for the long term but now got difficulties because of all these extensions.\nB: Oh, I see.\nB: In that case, maybe you expand too fast lah, the last few years.\nA: Ya, maybe a bit too fast lah.\nB: I see, I see.\nB: Well anyway, you not the only customer. In fact, I just visited two other customers yesterday at Jurong, everybody looks like got some problem here and there.'}]","
+
+B: Well anyway, you not my only customer. In fact, two other customers visited yesterday, everybody looks like got some problem here and there, I don\'t know why leh.","[""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Right.\nB: Ya, what about Indonesia? Do you think they would be of any help if they win over the elections and a more stable government is in place?\nA: Uh, I think it\'s going to take time lah, with all the violence going around there. I think it will still take years, even when a stable government is elected.\nB: Well, that\'s very sad. I mean, as bankers, we always hear such comments. It makes us jittery, man. Anyway, thanks for allowing us to come by to visit you today.'}]","
+
+B: Ya, what about Indonesia? Do you think they would be of any help if they win over the elections and a more stable government is in place?
+A: Uh, I think it\'s going to take time lah, with all the violence going around there. I think it will still take years, even when a stable government is elected.
+B: Well, that\'s very sad.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, what about Indonesia?\nB: You think Indonesia would be of any help if they really win over the elections and a more stable government is in place?\nA: Uh, I think it\'s going to take time lah, with all the violence going around there.\nA: I think it\'s still going to take years, even when a stable government is elected.\nB: Well, that\'s very sad man.\nB: I mean, as bankers, we always hear these kinds of comments that make us jittery. Anyway, thanks for allowing us to come by to visit you today.\nB: Actually, we just want to come up to update you on our annual exercises lah.'}]","
+B: You think Indonesia would be of any help if they really win over the elections and a more stable government is in place?
+A: Uh, I think it\'s going to take time lah, with all the violence going around there. I think it\'s still going to take years, even when a stable government is elected.
+B: Well, that\'s very sad man. I mean, as bankers, we always hear these kinds of comments that make us jittery. Anyway, thanks for allowing us to come by to visit you today. We just want to come up to update you on our annual exercises lah.","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, must reduce.\n\nA: So I try call as many as possible, see how.\nB: Ah, I know already a bit difficult. Given the situation what, times are bad and all. But we really really must come out today to tell you, basically these are some of the intentions that the bank is adopting.\n\nA: But my business already so bad, I really got strict cash flow problem. All my facilities in this factory already stretched to the maximum, then how come you come and tell me you want reduce my OD line some more?\n\nA: I really don\'t know lah. I really don\'t know.\n\nB: Uh, but actually what we can do is, we understand your problem. But we really hope that Mr Tan, you can understand our position also lah.\n\nB: Although a lot of time people say banks during rainy days will take away the umbrella.'}]","
+
+A: But my business already so bad, I really got strict cash flow problem. All my facilities in this factory already stretched to the maximum, then how come you come and tell me you want reduce my OD line some more?
+
+A: I really don\'t know lah. I really don\'t know.
+
+B: Uh, but actually what we can do is, we understand your problem. But we really hope that Mr Tan, you can understand our position also lah.
+","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, but my business already so bad leh. I really got this serious cash flow problem, and all my factory\'s facilities already stretched until almost max out liao. How can you all come and tell me need to reduce my OD line some more?\n\nA: I really don\'t know leh...\n\nB: Uh, but you see lah, what we can do is understand your problem. But we really hope Mr Tan, you can understand our position also lah.\n\nB: Although people always say banks will take away the umbrella during rainy days, but you all also must know that we also quite affected, you know? Property value drop, got that also.'}]","
+A: Eh, but my business already so bad leh. I really got this serious cash flow problem, and all my factory\'s facilities already stretched until almost max out liao. How can you all come and tell me need to reduce my OD line some more?
+
+A: I really don\'t know leh...
+
+B: Uh, but you see, what we can do is understand your problem. But we really hope Mr Tan, you can understand our position also lah.
+","[""leh33"", ""leh33"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nB: So, if that’s the case, then I would suggest: is to reduce it back to the point again. It’s five, meaning, what I said earlier was that head office imposed 200,000 on your account. But I’m looking at maybe a gradual basis, what about 5,000 per month? Can you manage that for now?\n\nSo every month, we reduce by 5,000 lah.'}]","
+B: So, if that’s the case, then I would suggest: is to reduce it back to the point again. It’s five, meaning, what I said earlier was that head office imposed 200,000 on your account. But I’m looking at maybe a gradual basis, what about 5,000 per month? Can you manage that for now?
+
+So every month, we reduce by 5,000 lah.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, within a week\'s time, then we see how we go from there. If got any problem, then what we do is this: after six months, okay, we will come back to you again. Then we can sit down and discuss further.\n\nB: I mean, let\'s hope that the economy will recover by then. Right now, the biggest problem we have is that we actually sitting on a lot of properties, you know? For example, these factories that you have now. Last year when I came in, it was something like three point five million. Today, we are looking at two million only, so straightaway we are looking at a negative network of about one point five million. This is the biggest headache we are facing.\n\nB: But never mind lah, don\'t worry. I will come to you in say, one week\'s time. Then we see how we go from there.""\n\nA: ""What about your bank?""'}]","
+
+B: I mean, let\'s hope that the economy will recover by then. Right now, the biggest problem we have is that we actually sitting on a lot of properties, you know? For example, these factories that you have now. Last year when I came in, it was something like 3.5 million. Today, we are looking at 2 million only, so straightaway we are looking at a negative network of about 1.5 million. This is the biggest headache we are facing.
+
+B: But never mind lah, don\'t worry. I will come to you in say, one week\'s time. Then we see how we go from there.
+
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, banks also affect, we affect.\nB: In fact, if you read the annual reports of all the local banks, they are making hefty provisions for the affected industries. So you know, we are also badly hit lah.\nB: We are badly hit lah.\nB: So you know, we are not spared.\nB: Okay, we are not spared lah.\nA: Uhm, nice to know that I\'m not alone in all this.\nB: You also not spared, okay.'}]","
+
+B: In fact, if you read the annual reports of all the local banks, they are making hefty provisions for the affected industries. So you know, we are also badly hit lah.
+","[""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Uhm, nice to know that I\'m not alone in all this.\nB: You\'re not spared, okay? All of us, we\'re business... uh, private organizations. We\'re not spared, but we have to be prudent, huh, just like living in Singapore, we have to be prudent.\nB: We have to, uh, protect the interests of our shareholders, depositors, and all that lah. But never mind, let\'s see how it goes.\nB: More important, I think, is that we want to see that we can help our local enterprises here to ride through these bad times. That\'s why I said we are always open for discussion. Although our intention is to reduce your OD limit by two hundred thousand, I think we can always look into a restructured payment.\nB: Five thousand, if it\'s too difficult for you, we can try it for six months.\nB: After six months, if you really have problems, come back to us, okay? Our doors are open anytime.'}]","
+A: Uhm, nice to know that I\'m not alone in this.
+B: All of us, we\'re business... uh, private organizations. We\'re not spared, but we have to be prudent.
+B: We have to protect the interests of our shareholders, depositors, and all that lah. But never mind, let\'s see how it goes.
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Lim Ming Chuan still under medical leave. Last time also medical leave, you know?\nC: He went for a major operation.\nC: As for the rest, I don\'t know lah.\nC: Okay, anyway, before I go ahead, let me introduce our October issue and the balance.\nC: Okay.\nC: Okay then, I\'ll go through the Matter Arising.'}]","
+C: Lim Ming Chuan still under medical leave. Last time also medical leave, you know?
+C: He went for a major operation.
+C: As for the rest, I don\'t know lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, sorry leh. Before I go ahead, any amendments ah?\nD: Whose report?\nC: Never mind lah, you just go through. If got any amendments or corrections needed, just correct lah.\nC: Okay, Matter Arising...\nC: Okay, then I go through the Chairman\'s report.\nC: Okay, for item 4.1, P A Y invited a member to join the monthly competition, representing our...'}]","
+C: Eh, sorry about that leh. Please forgive me.","[""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: ""Eh, this National Day dinner, will be held on the first of August, it\'s a Saturday leh. Our role is to get this thing, I mean our duty is to be in charge of this thing with a stage there lor. The decoration at the stage, I think lah.\n\nE: ""Decoration ah this thing?""'}]","
+C: ""This National Day dinner will be held on the first of August, it\'s a Saturday. Our duty is to be in charge of this thing with a stage there lor. The decoration at the stage, I think lah.
+
+E: ""This decoration?""","[""lor33"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: Okay, another one will be ""Great & Great Win"". \nC: Okay, will be. \nC: The proposed date will be 12th of November 1998. \nC: So, weekday lah, but the committee has a... \nC: Because it falls on a weekday, they scared they can\'t get helper, lah. \nC: Then, they want to change to weekend, but they need to check with E and V. E and V, <unclear> word </unclear>. \nC: Okay, once I got more confirmed date then I\'ll...'}]","
+C: The proposed date will be 12th of November 1998. 
+C: So, weekday lah, but because it falls on a weekday, they scared they can\'t get helper.","[""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Yeah yeah.\n\nH: Ah, we can mix lah, you know?\n\nG: My concern is I\'d like to see this platform as a means to develop your trainer skills. So if you see yourself in the future as a consultancy, use this as a 90% English and the remaining 10% Malay lah.\n\nH: You can\'t help it if you\'re a bit mixed up.\n\nG: Yeah lah, but as my concern, our medium is a rojak concept. But what we don\'t know is how to use Malay and English in one statement together lah.'}]","
+B: I'm not sure whether to speak Malay or English leh.
+
+H: Ah, we can mix lah, you know? Since our respondents are Malay, maybe 20% English and 80% Malay lor.
+","[""leh33"", ""lah21"", ""lor33""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nG: Eh, the commitment is four hours leh.\nH: So for Class A, got one presenter, Class B also got one presenter is it?\nG: Ya lah, because you know what? In our thingy, we rent two classrooms for one class only leh.\nG: So, usually hor, when we engage our activity, there will be one girl and one guy.\nH: Actually not necessary one like that.\nG: Ya lah, you don\'t have to be so strict one.\nH: Is this monthly or weekly basis?'}]","
+G: The commitment is four hours leh.
+H: So for Class A, got one presenter, Class B also got one presenter is it?
+G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh.
+","[""leh33"", ""leh33""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nB: Role-play, ah?\nA: Ya lah.\nB: Come.\nA: I\'m the interviewer, you you why you\'re the interviewee?\nB: You\'re not interviewing for a job, is it?\nA: I am lah, confirm plus chop.\nB: So since when you got promoted?'}]","
+B: You want to role-play an interview, is it?
+A: I want to be the interviewee, you want to be the interviewer?
+B: You\'re not practicing for a job interview, is it?
+A: I am lah, confirm plus chop.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: ""It\'s correct lah.""\nA: ""Oh, that means if she include all the vulgarities, is it?""\nA: ""This one, don\'t know how to rate already.""\nB: ""Don\'t worry lah, the vulgarities won\'t be censored leh.""\nA: ""Usually you know what happens in a candid camera one, when it comes to vulgarities, right?""\nA: ""So this guy is damn \'beep beep beep beep\' one.""'}]","
+B: ""Don\'t worry lah, the vulgarities won\'t be censored one.""
+","[""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Ya ya,\nA: But it\'ll be all men\'s talk, uh.\nB: I don\'t mean my vulgarity all coming out, uh.\nA: You just say ""beep beep"" lah.\nA: Beep.\nB: So, \'A\'?\nA: Is she your friend?'}]","
+
+B: I don\'t mean my vulgarity all coming out.
+A: You just say ""beep beep"" lah. (A is mimicking the sound of being censored)
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Oh.\nB: I can\'t rem (remember) the name of the building lah.\nA: Is it the mike on?\nB: Just happened to meet her there lah. That\'s it.\nA: Oh, she was the one that you\'re talking about. You have the card, right?'}]","
+B: I can\'t rem (remember) the name of the building lah. Just happened to meet her there lah. That\'s it.
+","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Every short interval.\nB: There\'s a diskette for this type of piano.\nB: Uh, I don\'t know what kind of disk, uh.\nA: I don\'t know lah, but you should have.\nA: I thought you should play if you have a compo set.\nA: You can play.\nB: Compo set.'}]","
+B: There\'s a diskette for this type of piano.
+B: Uh, I don\'t know what kind of disk that is.
+A: I don\'t know lah, but you should have.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Compo set.\n\nA: Using whatever.\n\nB: We can ask them to change the CD, or else it\'ll be playing that word round and round.\n\nB: Never mind lah.\n\nA: I want to talk to Shirley.\n\nB: Talk to Shirley, ah? Is she here?'}]","
+
+B: We can ask them to change the CD, or else it\'ll be playing that word round and round. Actually, never mind lah.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: So two leh. Audio specialist offering it at two eight five five.\nB: Audio specialist? No lah, the other time we went to that Audio specialist, not Delphi what.\nA: No, yes. Yesterday one is more expensive what.\nB: Ya, they quoted a higher price.\nA: Yesterday, we were quoted a price of three one.'}]","
+A: Audio specialist offering it at $2855.
+B: Audio specialist? No lah, the other time we went to that Audio specialist, not Delphi what.
+A: No, yes. Yesterday one is more expensive what.
+B: Ya, they quoted a higher price.
+A: Yesterday, we were quoted a price of $3100.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Two seven plus a pair of speakers.""\nB: ""Round about three.""\nA: ""You can get a Celestron, uh, SL-5.""\nB: ""No lah, cannot.""\nB: ""I don\'t like the sound, sounds too...""\nA: ""Session 5, uh, session 5 or session...""'}]","
+
+A: ""You can get a Pikachu toy with $1.""
+B: ""No lah, cannot.""
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, I want to try the Rotel you know, and power.\nA: Although no doubt.\n\nB: Oh, Rotel is it?\nA: No lah, I don\'t think it\'s no good.\nB: I don\'t think the sound is fantastic, the sound keeps sticking there.\nA: No lah.'}]","
+
+
+B: Oh, you're staying at the Fullerton Hotel is it?
+A: No lah, I don\'t think it\'s good.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: I don\'t think the sound is fantastic, the sound is sticking there leh.\nA: No lah.\nB: (Unclear word)...\nA: No lah, no lah.\nB: (Unclear word)... Okay lah, but...\nA: No, because it may be that the Rogers was too much for the Rotel.\nA: It doesn\'t match, you know.'}]","
+B: Hey, don\'t forget to turn off the stove when you leave leh! Later the whole apartment catch fire then you know.","[""leh51""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nA: Hi.\nB: Hello.\nA: Hello, umm, what can I help you?\nB: Umm, I am actually browsing, lah. Because I am umm looking for some toys to start my own collection.\nA: Oh. Okay. We have many toys here. Okay, so you got to decide what you are really interested in.'}]","
+
+A: Hello, how can I help you?
+B: I am actually just browsing leh. Because I am looking for some toys to start my own collection.
+A: Oh. Okay. We have many toys here. What are you interested in?","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Okay, so I will bring down my friend.\nB: Eh, eh, can I bring my friend along?\nA: Oh sure.\nB: Ya, so probably a Sunday lah.\nA: Okay, that will be good.\nA: Eh, you open that day or not?\nA: Yes, definitely.'}]","
+B: Okay, so I will bring down my friend.
+C: Can I bring my friend along too?
+A: Oh sure.
+B: Ya, so probably a Sunday lah.
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Really?\nD: Ya, these guys were doing that.\nB: Are they... guy guys or what?\nD: Dunno leh, dunno lah.\nB: Where\'s the disco anyways?\nC: Downstairs lah.\nD: In the hotel leh.'}]","
+B: Really?
+D: Ya, these guys were doing that.
+B: What were they doing?
+D: Dunno leh","[""leh33""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nB: I remember this.\nB: Eh, are there any cover charge or anything like that?\nD: No no cover charge, don\'t worry lah.\nB: Not too bad lah, I think. We\'re all doing fine.\nB: We all look very good now, very presentable.'}]","
+B: I remember this.
+B: Eh, are there any cover charge or anything like that?
+D: No no cover charge, don\'t worry lah.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, no lah, boxes not us print, we ask somebody print for us.""\n\nB: ""So if you calculate again, how much roughly?""\n\nB: ""Boxes about two fifty-five only, around two fifty-five.""\n\nC: ""But still cheaper right, compared to <unclear> word </unclear>.""\n\nB: ""Ya lor, confirm plus chop we spend less than one thousand.""\n\nC: ""Heh.""\n\nB: ""We order from Shangri-la.""'}]","
+B: ""Boxes not we print, we ask somebody print for us.""
+
+B: ""So if you calculate again, how much roughly?""
+
+B: ""Boxes about $255.""
+
+C: ""But still cheaper lah, compared Shangri-la.""
+
+B: ""Ya lor, confirm plus chop we spend less than one thousand.""
+","[""lah51"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, he\'s got a hand in everything also.""\n\nC: ""And he charged you quite okay.""\n\nB: ""Flowers quite reasonable. Uhm, okay lah, compared to other shops we\'ve seen.""\n\nB: ""How much is it?""\n\nB: ""One bridal bouquet is a hundred. One posy bridal bouquet is about eighty. Hair pieces forty. He gave free.""'}]","
+B: ""Eh, he\'s got a hand in everything also.""
+
+C: ""And he charged you quite okay.""
+
+B: ""Flowers quite reasonable. Uhm, okay lah, compared to other shops we\'ve seen.""
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Oh,\nC: You\'re gonna have flowers for, eh, the church. I mean your church.\nB: Church, umm yes, but this church is a bit fussy lah. So he gave us the name of a florist, can\'t stick anything on the chairs, you see.\nC: Then the bouquet that you have, you have it here with you, ah?\nB: Ah no, he has it.'}]","
+
+C: You\'re gonna have flowers for your church?
+B: Church, umm yes, but this church is a bit fussy lah. Like he gave us the name of a florist, and I can\'t stick anything on the chairs.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: So it\'s confirmed, is it?\nC: She went for a sex change operation.\nD: Ya lah.\nB: Sex change, ah?\nB: Whoa.\nD: Ya.'}]","
+B: So it\'s confirmed, is it?
+C: She went for a sex change operation.
+D: Ya lah, she did
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""Very creative, you see.""\nB: ""But generally, they are very creative people.""\nB: ""So, you\'re scouting around, is it, Wilma?""\n\nC: ""Oh, not yet lah.""\nC: ""I\'m just relieved the engagement was over.""\n\nB: ""Was it very big one, ah?""\nC: ""Uh, not really lah.""'}]","
+
+
+B: ""So, you\'re marrying him, is it, Wilma?""
+
+C: ""Oh, not yet lah.""
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, not yet lah.\nC: I\'m just relieved the engagement was over.\nB: Was it very big thing meh?\nC: Uh, not really lah.\nC: Actually we wanted it to be smaller thing then my mum said must call her sister and all leh.\nC: So in the end about thirty people only lah.\nB: Thirty ah?'}]","
+
+C: I\'m just relieved the engagement was over.
+B: Was it very big thing?
+C: Uh, not really lah, Actually we wanted it to be smaller thing then my mum said must call her sister and all lah.
+","[""lah21"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nB: ""Probably something for them to take home, lor.""\nC: ""My brother didn\'t want to have, then we force and force him. So he had, ya. But it\'s nice, lah. People look forward to taking home the cake.""\nB: ""Ya, it\'s something to take home, and it\'s also something for them to remember. Wilma, I get you a drink.""'}]","
+A: ""I heard your brother won a cake at the competiton? Why is the cake a reward?""
+B: ""Probably something for them to take home lor.""
+C: ""My brother didn\'t want it, then we force and force him. So he got it ya. But it\'s nice lah. People look forward to taking home the cake.""
+","[""lor33"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: ""That\'s at Katong, right?""\nB: ""Mm.""\nC: ""Alkaff Mansion.""\nB: ""No lah. It\'s at Telok Blangah Hill.""\nC: ""Oh, I thought it\'s in the Katong area.""\nB: ""But it\'s really nice.""'}]","
+C: ""That\'s at Katong, right? Alkaff Mansion.""
+B: ""No lah. It\'s at Telok Blangah Hill.""
+C: ""Oh, I thought it\'s in the Katong area.""
+","[""lah21""]",,,2,1,FALSE
+['lah51'],"
+A: I won a trip to America on the talent show, guess what\'s the date on the ticket?
+B: I don\'t know, what is it?
+A: June the 16th, my birthday! What luck!
+B: Just nice lah, can fly there and celebrate your birthday.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Ya ya ya ya.\nB: Presentation itself also my birthday, you know.\nA: And then...\nB: Just give lah, you know what to do.\nA: It\'s LT 25, you know.\nB: I see.\nA: Big LT, you know.'}]","
+
+B: I have a presentation on my birthday.
+A: Wah, that is so sad leh.","[""leh21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: So you try to call as many as possible, lor, see how?\n\nB: See how.\nB: Surprised, I thought it\'s just a poster only.\nB: So you don\'t have to make poster, lah, for your case.\n\nA: But I have to make slides, uh.\nA: Ya, look.'}]","
+A: So you try to call as many as possible lor, see how many people will hire you.
+
+B: Ya lor, no choice, getting a job is tough.
+","[""lor33"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Ya.\nA: But can I make it less than eight minutes ah?\nA: But even now I say down here at eight minutes.\nB: I think seven, six minutes should be quite alright lah.\nA: Five minutes.\nB: Five minutes maybe too short leh, you know.\nB: Five minutes is only about sixty percent of the time only.'}]","
+
+A: I;m running late, for the meeting, can I make it less than eight minutes ah?
+B: I think seven, six minutes should be quite alright lah.
+A: Five minutes?
+B: Five minutes maybe too short leh, you know.","[""lah21"", ""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Oh, maybe his is a poster or not?\nA: So, I can swop with him, is it?\nB: You can swop with him. Uh, or if his is a talk, then too bad lah, you know. I think it may be quite difficult, you know? Because they already allocated the time everything for you already. So, it\'s quite difficult for you to withdraw like that.\nA: Why aiyah, stupid me lah.'}]","
+B: Wow, the castle is very big leh!
+A: Ya lor, it is.
+","[""leh51"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, if it\'s a talk then it\'s too bad lah, you know?\nB: I think it may be quite difficult, you know? Because they already allocated the time for everything for you.\nB: So it\'s quite difficult for you to withdraw.\n\nA: Why aiyah, stupid me lah.\nA: Then...\n\nB: But the good thing is, for a talk, you just go there and finish up the whole thing.\nB: Eight minutes only, you see.'}]","
+A: I should not have registered to conduct the talk, I really have no time...
+B: I think it may be quite difficult to withdraw you know? Because they already allocated the time for everything for you. 
+A: Aiyah, stupid me lah.
+","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Who says so?\nA:Cannot you know?\n\nB:Is it?\nB:Change a bit lah, change a bit.\n\nA:Even change a bit also cannot.\nA:They say according to Ken, you must have additional information when you approach someone for conference and papers.\n\nB:Uhm uhm uhm uhm...'}]","
+
+A:What if they say I plagiarised this idea from someone else?
+B:Change a bit lah, change a bit.
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: That\'s because Serene has been blur (unclear)\nB: Blur (unclear) leh\nA: I don\'t care lah\nB: Wen de lor\nA: Okay, I will ask then lah\nB: Now, you go ask ah?\nA: I see, got it.'}]","
+B: Why don\'t you trust Serene to lead the presentation?
+A: That\'s because Serene is quite blur leh
+B: I don\'t think so lah
+A: If you don\'t trust her, then ask Joshua to do lor.
+","[""leh33"", ""lah21"", ""lor33""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nB: (Unclear) word lah.\nA: I don\'t care leh.\nB: Why you so like that?\nA: Okay, I will see lah.\nB: Now, you go and ask ah?\nA: I see, I see.'}]","
+B: Lottery is not you want win then you will win one leh. If you buy, you have some hope lor, but don\'t expect to win lah!","[""leh21"", ""lor33"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Does it?\nB: Probably, they say there\'s a limit, lah you know. Maybe you can go, definitely below eight minutes, uh.\nA: Okay, five minutes will do, lah hor. Okay, right, hor.\nB: Five six. Five minutes is a bit too short, lah.'}]","
+A: Do you think I can run 2.4km in 7 minutes?
+B: Probably, they say there\'s a limit lah you know. Maybe you can go definitely below eight minutes. But 7 minutes is stretching it.
+","[""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Ehm\nA: And I haven\'t even started working on it yet, you know, the Washington one.\nB: I also haven\'t started working on anything yet what.\nA: I mean I haven\'t even finished the task yet lah, I don\'t have any results to report yet.\nB: Oh, results ah?\nA: Haven\'t finished the task, haven\'t gotten any results yet. I haven\'t made my clones for that one yet, you know.'}]","
+A: And I haven\'t even started working on it yet, you know, the project.
+B: I also haven\'t started working on anything yet what.
+A: I mean I haven\'t even finished the task yet lah, I don\'t have any results to report yet.
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: They\'re quite alright lah.\nA: You mean they were alright ah?\nA: What do you mean by they were alright?\nB: In the sense that whatever that was faxed under my name, they just give it to me. They don\'t really question or anything like that, you see. But I don\'t know about taxes.\nB: We are we are doing a mini-project, testing out our voice. We\'re sending this to Kenneth.\nA: Ya, we\'ll send this to Kenneth. Then he\'ll play it and hopefully he\'ll remember her sweet voice, you see.'}]","
+A: How are the new interns?
+B: They\'re quite alright lah. They work pretty hard lor.
+","[""lah21"", ""lor33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Probably, but this is to the PRC lady lah.\n\nA: The point is, I asked for a poster, they gave me a talk. I\'m supposed to present a talk, and it\'s so nerve-racking that I don\'t want that one lah.\n\nB: By the way, they have upgraded her to Dr. Helen Chai.\n\nA: Please lah, I mean I\'m not joking, you know? I don\'t want to have a talk, you know.\n\nB: But this company, this company is a very famous company, you know?'}]","
+
+
+A:  I\'m supposed to present a talk, and it\'s so nerve-racking that I don\'t want that anymore.
+
+B: But why leh? This company is very famous, you know?
+
+","[""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: So sorry.\nB: You went straight home after dinner, right?\nA: Ya ya. No lah. I mean, after coffee, my goodness.\nB: Very tired.\nA: Were you?'}]","
+B: You went straight home after dinner, right?
+A: No lah, I made coffee first.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eee.\nA: Don\'t ""eeee"" at me now.\nB: I mean, you do walk through the reservoir, right?\nA: No lah, I think I walked through SBC. That\'s what I did.\nA: But it doesn\'t smell.\nB: I think there\'s something at Seven or Studio Tangs, and Tang Studio.'}]","
+B: Eee. so smelly.
+A: Don\'t ""eeee"" at me now. It doesn\'t smell that bad
+B: No lah, I was just joking.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Ya but they\'re not my size.\n\nA: At such great prices.\n\nB: If you can get your size lah.\n\nA: Ya lah, you snatch the pair that\'s in the other woman\'s hand.\n\nA: That\'s not my size leh.\n\nB: You know your own size mah!\n\nB: No, I can\'t really get shoes my size there.'}]","
+B: The shirts are sold at such great prices! What a steal, if I can get my size.
+
+A: Ya, so you snatch the pair that\'s in the other woman\'s hand?
+
+B: That\'s not my size leh.
+","[""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Hehe, Jonathan did my family.\nA: You know who\'s Jonathan meh?\nB: No lah.\nA: That Jonathan, mix ah, like that lah. Half Indian, half Chinese.\nA: Eh, he means he so... what we?\nB: You guys are like church friends ah?'}]","
+A: Hehe, Jonathan did my family.
+A: You know who\'s Jonathan meh?
+B: No lah.
+A: That Jonathan, mix ah, like that lah. Half Indian, half Chinese.
+A: Eh, he means he so... what we?
+B: You guys are like church friends ah?","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Or either that or she?""\nA: ""No, but if she agreed.""\nB: ""Didn\'t she tell her what she\'s filming?""\nA: ""It\'s bluff lah, come on, you know.""\nB: ""That\'s quite...it\'s very unfair to the family, what.""\nA: ""It\'s very unfair and then never mind, you know.""'}]","
+B: ""Or either that or she?""
+A: ""No, but if she agreed.""
+B: ""Didn\'t she tell her what she\'s filming?""
+A: ""It\'s bluff lah, come on, you know.""
+B: ""That\'s quite...it\'s very unfair to the family, what.""
+A: ""It\'s very unfair and then never mind, you know.""","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: ""Three.""\nA: ""The divorce one just finished.""\nB: ""How was the divorce one?""\nA: ""I don\'t know lah, but you know very depressing lah.""\nA: ""Entire three weeks, you know the way they did the trainers, you know.""\nA: ""Whoa, very sad.""\nB: ""That\'s the way it is what.""'}]","
+B: ""How did the divorce go?""
+A: ""I don\'t know leh, but it was very depressing lah.""
+","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, no lah, not how they cope only, but also how difficult it is for them, you know?\nB: Like that lah.\nA: You see? But then, the thing isn\'t well-rounded because they keep saying, you know, from only their perspective.\nB: So it\'s just milking sympathy is it?'}]","
+B. Wait, so the documentary is only about how they cope?
+A: Eh, no lah, not how they cope only, but also how difficult it is for them, you know?","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: So it\'s just milking sympathy, is it?\nA: Ya, because they keep on saying that these poor chaps...\nB: Not hard, not hard.\nB: Look at it lah, at at the...\nA: You know, employers don\'t want to give them a job, you know? Poor things and all that you see.\nB: So it\'s just like mental illness awareness kind of thing.'}]","
+B: So it\'s just milking sympathy, is it?
+A: Ya, because they keep on saying that these poor chaps...
+B: Not hard, not hard.
+B: Look at it lah, at at the...
+A: You know, employers don\'t want to give them a job, you know? Poor things and all that you see.
+B: So it\'s just like mental illness awareness kind of thing.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Then see how much blood did they?\nB: One jar.\nA: A lot ah?\nB: No lah.\nB: One tube uh.\nA: One tube.\nA: That\'s a lot.'}]","
+A: Then see how much blood did they get from the donor?
+B: One jar.
+A: Is that a lot?
+B: No lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: One tube only lah.\nA: One tube only.\nA: Wah, that\'s a lot.\nB: Just want to find out the sugar and cholesterol level leh.\nA: Aiyah, I should have gone with you.\nB: Then the whole thing became so messy, don\'t know whether the reading is correct or not.\nB: Don\'t know whether it\'s really my reading or someone else\'s.'}]","
+
+B: The patient's blood sugar and cholesterol levels are very high leh.
+A: Don\'t know whether it\'s really my reading or the machine is faulty leh.","[""leh21"", ""leh33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Ya, eh...\nA: No, but if you...\n\nB: You should have tested for HIV, ah...\nA: Uh, no lah...\nA: What for?\n\nB: Then people won\'t know, you see...\nA: No, if they do that, our dear Bachtiar will be most...'}]","
+B: You should have tested for HIV, ah...
+A: Uh, no lah... What for?","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: He\'ll be most aghast.\nB: Why?\nA: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah you see.\nB: No, but I think as long as you go to a government clinic and you know that they are going to test for HIV, then you\'re...\nA: Then it\'s okay.\nB: You have no right already.'}]","
+A: He\'ll be most aghast.
+B: Why?
+A: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah you see.
+B: No, but I think as long as you go to a government clinic and you know that they are going to test for HIV, then you\'re...
+A: Then it\'s okay.
+B: You have no right already.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, but you never say, if you say don\'t test for HIV, they also cannot ah?\nB: Then don\'t go to a government clinic lah.\nA: Wah, like that also can ah?\nA: Aiyah, I really don\'t know lah.\nA: This HIV thing is so complicated leh.\nA: Actually got so many issues, you know? Even if you talk about AIDS already...'}]","
+A: What if the clinic forces you to take a HIV test?
+B: Then don\'t go to a government clinic lah.
+A: Wah, like that also can ah?
+A: Aiyah, I really don\'t know lah.
+A: This HIV thing is so complicated leh.
+A: Actually got so many issues, you know? Even if you talk about AIDS already...","[""lah51"", ""lah21"", ""leh21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, two batches leh.\nC: One batch only lah.\nB: Aiyah, one batch also got to estimate lor. Got to count the sugar, the goods, all those things leh.\nC: At that time during the first round, you have the stock take meh?\nB: Only for four bottles only lah.'}]","
+B:  Eh, we only have two batches leh.
+C: One batch only lah.
+","[""leh21"", ""lah21""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nC: At that time, for the first round, did you have the word?\nB: It\'s only for four bottles.\nC: Yeah, but just multiply lah.\nB: Yeah lah, but it doesn\'t work. It doesn\'t work that way, you know?\nA: It\'s not a linear relationship.\nA: Uh, I don\'t know.\nA: This must be some kind of weird, weird kind of stuff.'}]","
+C: At that time, for the first round, did you have the cost?
+B: It\'s only for four bottles.
+C: Yeah, but just multiply lah.
+B: Yeah lah, but it doesn\'t work. It doesn\'t work that way, you know?
+A: It\'s not a linear relationship.","[""lah51"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: So, what was the reaction when they tried?\nB: Huh?\nC: When they tried...\nB: Of course they threatened lah, say ""Too bad lah, we all makan already.""\nA: They badmouth your business, is it?\nA: That\'s it, man.\nB: No lah, they won\'t be there.'}]","
+C: So, what was the reaction when they tried?
+B: Of course they threatened lah, say ""Too bad lah, we all makan already.""
+A: They badmouth your business, is it?
+","[""lah51"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, that\'s it lah, man.\nB: I\'m not going to stay back for the next trip.\nC: That\'s only the start, ah then.\nB: Ya lor, tomorrow.\nC: Aiyoh.\nA: So, you close already, what time do you close?\nB: Eleven.'}]","
+ 
+B: I\'m not going to drive for the next trip. This is so tiring
+C: I will drive tomorrow lor.
+","[""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Aiyoh.\nA: So you close one, what time do you close?\nB: Eleven.\nA: I\'ll go there lah.\nB: Actually, uh, Sunday Sunday night, if you all want to come down.\nC: Where is it?\nB: For dinner.\n\n(Cleaned version)\nC: Aiyoh.\nA: So you closing at what time?\nB: Eleven.\nA: I go there already.\nB: Actually, you all want to come down on Sunday night.\nC: Where got?\nB: For dinner only.'}]","
+C: Aiyoh.
+A: So you close one, what time do you close?
+B: Eleven.
+A: I\'ll go there lah.
+B: Actually, uh, Sunday Sunday night, if you all want to come down.
+C: Where is it?
+B: For dinner.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Then I\'ll be there.\nB: You know I ask her to jagah the stall there.\nC: You mean you\'re going to take turns, you\'re not going to be there around?\nB: You know I cannot lah.\nC: Sit around only what?\nB: Weekends are from twelve to twelve, afternoon till eleven in the evening, you know.\nA: That\'s quite long hours.\n\n(Note: ""jagah"" is the correct spelling of the colloquial Singlish word for ""take care of"" or ""look after"". The unclear words were not able to be deciphered.)'}]","
+B: Then I\'ll be there.
+B: You know I ask her to jagah the stall there.
+C: You mean you\'re going to take turns, you\'re not going to be there around?
+B: You know I cannot lah.","[""lah24""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: So which are the days that will be there?\nB: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.\nC: Ya, right.\nA: Actually, if you ask me honestly, the week, I mean the location over there is not that attractive.'}]","
+A: So which are the days that will be there?
+B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Who organised that?\nB: It\'s the, uh, the owners of this building lah. Don\'t know whether it\'s Leisure Drome or not.\n(Short exchange on a different topic between HT and D.)\nB: Cos I was telling her that, look, actually it\'s meant for two weeks, you see.'}]","
+C: Who organised that?
+B: It\'s the, uh, the owners of this building lah. Don\'t know whether it\'s Leisure Drome or not.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Eh.\nB: They would have that lah.\nA: Uhm.\nB: So, this one, this one, uh, my partner will say cannot lah. I mean, how can you sell jam with that?\nA: The fellow who trying to tell them, you\'re telling them that after eating it, you use it is it?'}]","
+B: So, this one, this one, uh, my partner will say cannot lah. I mean, how can you sell jam with that?
+A: The fellow who trying to tell them, you\'re telling them that after eating it, you use it is it?","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, tell me.\nB: So we\'re trying to do some promotion first lah.\nC: Um, I thought your friend is going to be selling some handicrafts what.\nB: Ya lah.\nC: Oh, is it?\nB: She said cannot lah.'}]","
+
+B: So we\'re trying to do some promotion for our handicrafts first lah.
+C: Um, I thought your friend is going to be selling some handicrafts what.
+B: No lah.
+C: Oh, is it?
+B: She said cannot lah.","[""lah51"", ""lah21"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: ""But you can\'t can\'t (mumble) lah, you got to got to sell it to somewhere else.""\nB: ""Ya.""\nA: ""Okay lah, we\'ll go there and buy a few bottles.""\nB: ""No lah, I will give you all lah if it can\'t sell lah.""\nA: ""Ya...""\nC: ""For example, compensate for today lah.""'}]","
+C: ""But you can\'t can\'t throw away lah, you got to got to sell it to somewhere else.""
+B: ""Ya.""
+A: ""Okay lah, we\'ll go there and buy a few bottles.""
+B: ""No lah, I will give you all lah if it can\'t sell.""
+A: ""Ya...""
+C: ""To compensate for today lah.""","[""lah21"", ""lah51"", ""lah21"", ""lah21"", ""lah21""]",,,7,6,FALSE
+"[{'role': 'user', 'content': '\nC: ""It\'s a handicap, right?""\n\nC: ""I normally late, so I should even out lah, average.""\n\nB: ""It\'s even worse because you drive.""\n\nC: ""No lah, I didn\'t drive there.""\n\nB: ""Huh?""\n\nC: ""I walked there.""'}]","
+C: ""It\'s a handicap, right?""
+
+C: ""I normally late, so I should even out lah, average.""
+
+B: ""It\'s even worse because you drive.""
+
+C: ""No lah, I didn\'t drive there.""
+
+B: ""Huh?""
+
+C: ""I walked there.""","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Huh.\nB: Have you gone back to work already or not?\nC: Under pressure, ah?\nA: Never mind lah, that day give yourself a break, can?\nA: Aiya, must have a holiday, can?\nA: How about three days?\nB: Excuse me, cannot even talk about holiday in front of him, my god!'}]","
+B: Huh.
+B: Have you gone back to work already or not?
+C: Under pressure, ah?
+A: Never mind lah, that day give yourself a break, can?
+A: Aiya, must have a holiday, can?
+A: How about three days?
+B: Excuse me, cannot even talk about holiday in front of him, my god!","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""That means no *unclear* word* you know. Group pressure, he cannot survive.""\n\nC: ""*Wah lau*. Afterwards, tell him want pressure lah. Let me sit on you.""\n\nA: ""So I\'ll see if I can finish my work by today ah. Half day *unclear* word*.""\n\n(Note: I have added appropriate punctuation and corrected some spelling errors while trying to retain the original Singlish syntax and meaning.)'}]","
+B: ""That means no work life balance you know. Group pressure, he cannot survive.""
+C: ""*Wah lau*. Afterwards, tell him want pressure lah. Let me sit on you.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eh you got whole of tomorrow, whole of Saturday sure or not?\nB: Sunday also can spare a few hours for dinner and friends what, you know?\nC: Can lah, can only right?\nC: No lah, okay lah.\nC: I thought the gathering suppose to be at his place, is it?\nB: If you want then it should be after this week lah.\nA: I mean, anyway we just wait in line, right?'}]","
+B: Eh you got whole of tomorrow, whole of Saturday sure or not?
+B: Sunday also can spare a few hours for dinner and friends what, you know?
+C: Can lah, can only right?
+C: No lah, okay lah.
+C: I thought the gathering suppose to be at his place, is it?
+B: If you want then it should be after this week lah.
+A: I mean, anyway we just wait in line, right?","[""lah21"", ""lah21"", ""lah21"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: You just go down to the Leisure Drome, okay?\nB: No problem lah.\nB: It doesn\'t mean that you cannot come to my place some other time, hor?\nC: Ya, anyway we can go to church later, lor.\nC: After the fourth service, hor.\nA: Okay lah, I got it.\nC: So when are we going, ah?'}]","
+A: You just go down to the Leisure Drome, okay?
+B: No problem lah.
+B: It doesn\'t mean that you cannot come to my place some other time, hor?
+C: Ya, anyway we can go to church later, lor.
+C: After the fourth service, hor.
+A: Okay lah, I got it.
+C: So when are we going, ah?","[""lah21"", ""lor33"", "" lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Okay.\nC: When are we go where?\nB: Got time, we can.\nA: Can lah, so we\'ll meet at around two to four.\nB: You mean which service?\nA: After the fourth service.\nA: I mean Lawrence Khong is very long-winded.'}]","
+B: Got time, we can.
+A: Can lah, so we\'ll meet at around two to four.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: I mean, Lawrence Khong very long-winded.\nA: The only way end four thirty-five, lucky.\nB: Five o\'clock.\nC: Probably four thirty lah.\nA: Four thirty, uh, four thirty.\nC: Four thirty is enough.\nA: So, by the time we go over, probably five past five.'}]","
+B: Five o\'clock.
+C: Probably four thirty lah.
+A: Four thirty, uh, four thirty.
+C: Four thirty is enough.
+A: So, by the time we go over, probably five past five.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: We can bowl after makan, your turn to pay after that, let\'s go.\nB: Ya, let\'s go bowl first lah.\nB: Then you can see whether you have improved your left-handed bowling, can throw the ball softly or not.\nC: Likely only.\nA: So you\'re going to close your shop and join us in the bowling alley is it?'}]","
+C: We can bowl after makan, your turn to pay after that, let\'s go.
+B: Ya, let\'s go bowl first lah.
+B: Then you can see whether you have improved your left-handed bowling, can throw the ball softly or not.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Likely only.\nA: So you\'re going to close your shop and join us in the bowling alley?\nB: Yeah.\nC: No lah, but your friend might be around.\nB: I\'ll ask her to be there lah.\nA: Oh, her?\nB: Yeah.'}]","
+A: So you\'re going to close your shop and join us in the bowling alley?
+B: Yeah.
+C: No lah, but your friend might be around.
+B: I\'ll ask her to be there lah.
+A: Oh, her?
+B: Yeah.","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: They give up their faith, Buddhism.\nB: But different from Zen Buddhism, right?\nB: Are they different?\nA: No lah, all Buddhism also don\'t take beef what.\nB: Neither do they take fish.\nB: Then they\'d have been all vegetarian, right?\nC: No lah, not that bad lah.'}]","
+A: They give up their faith, Buddhism.
+B: But different from Zen Buddhism, right?
+B: Are they different?
+A: No lah, all Buddhism also don\'t take beef what.
+B: Neither do they take fish.
+B: Then they\'d have been all vegetarian, right?
+C: No lah, not that bad lah.","[""lah21"", ""lah21"", "" lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: Fifteen is breakeven lah.\nB: Ya.\nC: Then the other fifteen is pure profit what?\nB: Ya lah, fifty percent leh.\nC: Fifty percent margin is it?'}]","
+C: I we sell 15, we breakeven, right?
+B: Ya.
+C: Then the other 15 is pure profit?
+B: Ya lah, fifty percent leh. That's a lot.
+","[""lah51"", ""leh21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, have you calculated your bottles and your rental already or not?\nB: Ya ya, everything already lah.\nA: Hah.\nB: Come on lah, Bizad.\nA: How would I know ah?\nB: I was racking my brains, trying to figure out how to call it, how to calculate a breakeven point.\nA: A, you should use your contribution margin and calculate that way lah, you know.'}]","
+A: Eh, have you calculated your bottles and your rental already or not?
+B: Ya ya, everything already lah.
+A: Hah.
+B: Come on lah, Bizad.
+A: How would I know ah?
+B: I was racking my brains, trying to figure out how to call it, how to calculate a breakeven point.
+A: A, you should use your contribution margin and calculate that way lah, you know.","[""lah24"", "" lah21"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: Costed in also I\'m sure not right.\nB: Huh, costed in?\nC: Labour too.\nB: Ya, about twenty, twenty, twenty cents extra lah. That means the actual raw material is only about eighty cents only.\n\nCleaned Output:\nC: Cost in also I\'m sure not right leh.\nB: Huh, cost in ah?\nC: Labour also got.\nB: Yah, around twenty-plus cents only lah. Meaning the actual raw material only cost around eighty cents only.'}]","
+C: Costed in also I\'m sure not right.
+B: Huh, costed in?
+C: Labour too.
+B: Ya, about 20 cents extra lah. That means the actual raw material is only about 80 cents only.","[""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, no lah. The...\nB: Luggage...\nA: For our trip leh.\nB: So I don\'t have to go and get it now, ah?\nA: No, no, not now, not now. Later on, okay?\nB: Alright.\nA: This morning, I got some presents for James and, uh, James and Clarence and Doctor Chong.'}]","
+A: Don\'t forget the luggage for our trip leh.
+B: Okay, I will remember","[""leh21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: No, no, no, I\'ve written already.\nB: Okay.\nA: I\'ve got the presents ready, and I\'ve written.\nB: Yeah, I\'ll fetch them in the afternoon, lah. Huh?\nB: I\'ll fetch in the afternoon.\nA: Do you have James\'s... uh, address?\nB: I, I\'ve got it, ya.'}]","
+A: I\'ve got the presents ready, and I\'ve written.
+B: Yeah, I\'ll fetch them in the afternoon, lah. Huh?
+B: I\'ll fetch in the afternoon.
+A: Do you have James\'s... uh, address?
+B: I, I\'ve got it, ya.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Some one decade ago.\nB: Uhm.\nA: Right.\nA: They must have shifted from Lorong J.\nB: Ya, the last time I saw them was some time ago lah.\nB: I saw them in Lorong J.\nA: Mrs. Chua rang this morning.'}]","
+A: Some one decade ago.
+B: Uhm.
+A: Right.
+A: They must have shifted from Lorong J.
+B: Ya, the last time I saw them was some time ago lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Get-together.\nB: I\'m sure there will be a message, uh.\nA: Ya.\nB: Sure somebody will be giving a short talk, lah.\nA: Uhm, uhm, uhm.\nB: Perhaps Vincent will be giving a short talk.\nA: Uhm, I don\'t know.'}]","
+A: Get-together.
+B: I\'m sure there will be a message, uh.
+A: Ya.
+B: Sure somebody will be giving a short talk, lah. Perhaps Vincent will be giving a short talk.
+A: Uhm, I don\'t know.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, which hospital was that?\nA: GH leh.\nB: Uhm...\nA: If we don\'t have any plans in the afternoon on Sunday, we might just drop by and visit him, you know?\nA: Wanna come?\nB: Won\'t it be too rushed, isn\'t it?\nA: We can go in the Sunday afternoon or even before going out in the evening lah.'}]","
+B: Eh, which hospital was that?
+A: GH leh.
+B: Uhm...
+A: If we don\'t have any plans in the afternoon on Sunday, we might just drop by and visit him, you know?
+A: Wanna come?
+B: Won\'t it be too rushed, isn\'t it?
+A: We can go in the Sunday afternoon or even before going out in the evening lah.","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, I don\'t know whether to bring up the matter to elders in his unit, uh, tomorrow evening.\n\nA: Uhm.\n\nB: I think it\'s not necessary, huh.\n\nA: Don\'t need lah.\n\nA: It doesn\'t really interest them.\n\nB: By the way, Aileen Hu\'s dinner is on for Tuesday.\n\nA: Uhm, uhm, where will it be?'}]","
+B: Ya, I don\'t know whether to bring up the matter to elders in his unit, uh, tomorrow evening. I think it\'s not necessary, huh.
+A: Don\'t need lah. It doesn\'t really interest them.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: ""About eleven something, lah.""\nB: ""Ya, eleven something.""\nB: ""How was the show?""\n\nA: ""I told you already, lor.""\nA: ""I saw two plays, lah.""\nB: ""Uhm...""\nA: ""Two plays, lah.""'}]","
+B: ""When was the show? 11pm, right? How was it?""
+
+A: ""I told you already lor. I saw two plays lah.""
+
+","[""lor33"", ""lah21""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: Bernard\'s story leh, you know this guy?\nA: He raped a woman then explain why he become like that.\nA: He always been oppress by... (unclear word) women one.\nB: One performer or two performers only ah?'}]","
+A: Bernard\'s story leh, you know this guy?
+A: He raped a woman then explain why he become like that.","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: One performer or two performers?\nA: Two, two.\nB: Two performers?\nA: Ya, they played up different roles lah.\nB: Good or not?\nB: Good acting.\nA: Ya ya, good acting.'}]","
+B: One performer or two performers?
+A: Two.
+B: Two performers?
+A: Ya, they played up different roles lah.
+B: How was the acting, good or not?
+A: Ya ya, good acting.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: It\'s all about making choices, one?\nB: Aiyah, no wonder.\nA: Making choices and playing by the rules, and things like that.\nA: You know, living by the rules and making choices, all that lah.\nB: Uhm, uhm, yeah.\nA: So...\nB: So, it\'s very short.'}]","
+A: It\'s all about making choices.
+B: I see.
+A: Making choices and playing by the rules, and things like that.
+A: You know, living by the rules and making choices, all that lah.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Space, right?\nA: Yeah, so you see the different spots there.\nB: You mean it\'s free admission or what?\nA: No, you got to pay lah.\nB: How do they collect anything?\nA: Oh, you pay for entry to the whole thing, you see.'}]","
+A: The space amusement ride, right? Yeah, it's over there.
+B: You mean it\'s free admission or what?
+A: No, you got to pay lah.
+","[""lah24""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, you pay for to enter the whole thing, you see.\nB: Where\'s the entrance?\nB: I mean, it\'s a whole park, you see.\nA: Oh, it\'s just at the building near the Black Box, lah.\nB: Uh huh.\nA: That building by the Black Box.\nB: So got people who swarm in without buying any tickets, ah?'}]","
+B: Where\'s the entrance?
+B: I mean, it\'s a whole park, you see.
+A: Oh, it\'s just at the building near the Black Box, lah.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Oh, I see.\nB: So you can go any night, is it?\nA: Yep, any night.\nB: With just fifteen dollars, can already lah.\nB: Worth it, isn\'t it?\nA: Ya.\nB: Any drinks also can, right?'}]","
+
+B: So you can go any night, is it?
+A: Yep, any night.
+B: With just fifteen dollars can already lah. Worth it, isn\'t it?
+","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Uh huh.\nB: Ya.\nA: Who are the ""si qian jing""?\nB: Oh, she can sing and dance lah.\nA: Oh.\nB: So, there was a film she made called ""um bo girl"".\n\n(Note: I\'m assuming ""si qian jing"" is a typo of ""sì qiān jīng"", which means ""four great classics"" in Mandarin. However, since the context suggests that B is referring to a person, I\'ll leave it unchanged.)\n\n(Note 2: ""Um bo girl"" is likely a mispronunciation or typo of ""Umbrella Girl"", but I\'ll leave it unchanged since it\'s not clear what movie B is referring to.)'}]","
+
+A: Who is ""si qian jin""?
+B: Oh, it's a Malaysian girl group.
+A: Oh, that one lah.
+B: Yeah that one. ","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, after we finished watching Haresh\'s play, we went to...\nB: Wah, how long was Haresh\'s play leh?\nA: One hour only lah. Quite long also.\nB: What was it about?\nA: Errr... it\'s about three friends. Wait, no lah, let me correct. Two sisters and their friend.'}]","
+A: After we finished watching Haresh\'s play, we went for dinner.
+B: Wah, how long was Haresh\'s play leh?
+A: One hour only lah. Quite long also.
+B: What was it about?
+A: Errr... it\'s about three friends. Wait, no lah, let me correct. Two sisters and their friend.","[""leh33"", ""lah21"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: So, the friend goes off to the Philippines to look for his real parents.\nB: Uhm.\nA: Then, the girl\'s sister moves out of the house because she says there are too many ghosts in the house.\nA: Too many, too many, too much burden leh, of the past.\nA: She wants to change lah.\nA: So, it\'s about that kind of thing leh.\nB: Was it in an open area or not?'}]","
+A: So, the friend goes off to the Philippines to look for his real parents.
+B: I see.
+A: Then, the girl\'s sister moves out of the house because she says there are too many ghosts in the house. Too many, too many, too much burden leh, of the past.
+B: So she wants to change lah.
+","[""leh33"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Ha.\nB: Very good.\nB: What did they play?\nA: They played their own music and other people\'s music, lor.\nB: Ya, I saw a rock band one night.\nB: Different types, uh.\nA: Yeah, yeah.'}]","
+B: What did they play?
+A: They played their own music and other people\'s music lor.","[""lor33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Ya lah, one night I saw a rock band.\nB: Different different types leh.\nA: Yeah yeah.\nA: Like those ones that I was playing on the CD that night lor.\nB: Uhm, but no got Oriental music leh.\nA: No no.\nB: Uhm.'}]","
+B: Ya lah, one night I saw a rock band.
+A: Like those ones that I was playing on the CD that night lor.
+B: Yeah, but don\'t have Oriental music leh.
+","[""lor33"", ""leh33""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: Ya, I think it\'s fun.\nA: There\'s a lot of fun, there\'s a lot of fun.\nB: Uhm.\nA: Very good lah.\nB: So the people who were trained are youngsters.\nA: Got some ang mohs.\nB: Got a lot of kwai lo, uh.'}]","
+A: Ya, I think it\'s fun.
+A: There\'s a lot of fun, there\'s a lot of fun.
+B: Uhm.
+A: Very good lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, no lah, there are more locals than ang mos.\nB: Huh?\nA: Then got some very yuppie types, you know? Followed by parents bringing their kiddies along.\nB: Kiddies?\nA: Ya, lor.'}]","
+B: Were there many tourists at Universal Studios Singapore?
+A: No leh, there are more locals than ang mos.
+B: Huh? Really?
+A: Then got families, you know? Followed by parents bringing their kids along.
+B: Kiddies?
+A: Ya, lor.","[""leh33"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, some of the plays are marked with an asterisk.\nB: Ah.\nA: Then they say these plays contain strong language and adult abuse. So to warn you lah, don\'t bring your children to watch these kinds of stuff.\nB: *laughs*\nB: Ya.'}]","
+A: Eh, some of the plays are marked with an asterisk.
+B: Ah.
+A: Then they say these plays contain strong language and adult abuse. So to warn you lah, don\'t bring your children to watch these kinds of stuff.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: The third, what, fourteen or something?\nB: But it clashes with the Film Fest, isn\'t it?\nA: Yeah, everything clashes with the Film Fest.\nA: Yeah, yeah, everything clashes with the Film Fest lah.\nA: Then just before the Film Fest lah.\nB: Uhm.\nA: At that European Community Film Fest. (Note: I\'m assuming ""European Community Film Fes"" is meant to be ""European Community Film Festival"".)'}]","
+A: The third, what, fourteen or something?
+B: But it clashes with the Film Fest, isn\'t it?
+A: Yeah, everything clashes with the Film Fest.
+A: Yeah, yeah, everything clashes with the Film Fest lah.
+A: Then just before the Film Fest lah.","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, so it really clashes ah?\nA: Uhm.\nB: I don\'t know why they don\'t space it out properly ah?\nA: Ya, don\'t know leh.\nB: Uhm.\nA: Got a lot of explanations, then June got Arts Fest.'}]","
+
+B: I don\'t know why they don\'t space the events out properly, there are a lot of timetable clashes
+A: Ya, don\'t know leh.","[""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: ""Eh, there\'s a lot of explanations, you know? And all that.""\n\nB: ""Ya, June got Arts Fest. Wow, this year got so many festivals lah!""\n\nB: ""Tiring, you know? Hor...""\n\nA: ""Ya, sometimes. But okay lah. I mean, it\'s probably the same crowd who go to Film Fest and Arts Fest.""'}]","
+A: ""There\'s a lot of explanations, you know? And all that.""
+
+B: ""Ya, June got Arts Fest. This year got so many festivals!""
+
+A: ""Ya, sometimes a bit tiring. But okay lah. I enjoy festivals overall.""","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nD: Oh, I see.\nC: Did he invite all the branch people?\nD: No, I\'m not so sure who he invited.\nC: I think he should, lah.\nD: Uhm...\nC: Because usually for weddings, for church weddings, the person can invite many people.\nD: Oh, you mean the whole company, ah?'}]","
+D: Oh, I see.
+C: Did he invite all the branch people?
+D: No, I\'m not so sure who he invited.
+C: I think he should, lah.
+D: Uhm...
+C: Because usually for weddings, for church weddings, the person can invite many people.
+D: Oh, you mean the whole company, ah?","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: ""Your relatives and your church friends.""\nD: ""Your church friends will take up maybe hundred over.""\nC: ""But if the church is big enough, it can include many people.""\nD: ""No lah, normally the church size is about a big one, could be.""\nC: ""A hundred, hundred?""\nD: ""Can can can take a thousand. Can take two thousand.""'}]","
+D: ""Your relatives and your church friends.""
+D: ""Your church friends will take up maybe hundred over.""
+C: ""But if the church is big enough, it can include many people.""
+D: ""No lah, normally the church size is about a big one, could be.""
+C: ""A hundred, hundred?""
+D: ""Can can can take a thousand. Can take two thousand.""","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: So, you still jog in MacRitchie these days?\nD: MacRitchie, about once a fortnight. But last week, I didn\'t go. Once a fortnight lah.\nC: What are you going to do tomorrow evening?\nD: Tomorrow evening.'}]","
+C: So, you still jog in MacRitchie these days?
+D: MacRitchie, about once a fortnight. But last week, I didn\'t go. Once a fortnight lah.
+C: What are you going to do tomorrow evening?
+D: Tomorrow evening.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: Tomorrow evening lah.\nD: There\'s a talk at the Singapore Indoor Stadium, you know?\nC: Eh, you going for the basketball tournament or not?\nD: Uhm, I think cannot lah.\nD: Not enough time because the basketball tournament will only finish at seven thirty.\nC: So then, you sure got time for the talk ah?\nD: Anyway, I am going for the talk lah.'}]","
+D: There\'s a talk at the Singapore Indoor Stadium, you know?
+C: Eh, you going for the basketball tournament or not?
+D: Uhm, I think cannot lah.
+D: Not enough time because the basketball tournament will only finish at seven thirty.
+C: So then, you sure got time for the talk ah?
+D: Anyway, I am going for the talk lah.","[""lah21"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, I don\'t need that lah.\nD: Aiyo, are you a member of the SDU or not?\nC: I thought I have already replied you about this question leh.\nD: Oh, okay lah, so never mind then.\nC: Aiyo, you so forgetful or what?\nD: Eh, uhm...'}]","
+D: Here is a free gift, take it!
+C: You're so kind, but no need lah.
+","[""lah24""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nD: Eh, one of my former campus friends.\nD: Because he wants to join some of the activities, but he wants some company.\nC: So, have you applied?\nD: Not yet lah.\nD: It\'s (unclear word).\nC: It\'s very near.\nC: You can go to the place where you can get the application form. It\'s very near this place, ah.'}]","
+D: Eh, one of my former campus friends.
+D: Because he wants to join some of the activities, but he wants some company.
+C: So, have you applied?
+D: Not yet lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: Hong Kong, no I am not also.\nC: So, have you planned where to go?\nC: I mean specifically, where you tour around in Hong Kong?\nD: Roughly lah, I got some advice from my friend.\nD: They pass me some guide books to take a look.\nC: Why don\'t you join the tour group?\nD: Uhm, tour group may be possible lah, but then we\'re thinking the dates may be a bit of a problem.'}]","
+D: Hong Kong, no I am not also.
+C: So, have you planned where to go?
+C: I mean specifically, where you tour around in Hong Kong?
+D: Roughly lah, I got some advice from my friend.
+D: They pass me some guide books to take a look.
+C: Why don\'t you join the tour group?
+D: Uhm, tour group may be possible lah, but then we\'re thinking the dates may be a bit of a problem.","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Eh, actually not bad this space.\nB: I think he not used to work in black box situation, so don\'t like the substitution also.\nA: Ya lor.\nA: Don\'t know lah, whatever.\nB: Because I think got show him some of the video tapes we done or show some substitution also.\nA: Ya lor, you know already, we should show him video tape.\nA: I go get already.'}]","
+B: Eh, actually not bad this space.
+B: I think he not used to work in black box situation, so don\'t like the substitution also.
+A: Ya lor.
+A: Don\'t know lah, whatever.
+B: Because I think got show him some of the video tapes we done or show some substitution also.
+A: Ya lor, you know already, we should show him video tape.
+A: I go get already.","[""lor33"", ""lah21"", ""lor33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Eh but because got my concern leh, I think he should change his mind about the Substation.\n\nA: Well, I don\'t want to participate in any thing lah. Change mind my business also not.\n\nB: Never mind lah, we just show him a range of tapes from the Drama Centre ones as well as the Substation ones lor.\n\nA: Okay lah.\n\nB: Like that right or not?\n\nA: Ya lah.'}]","
+B: Eh but because got my concern leh, I think he should change his mind about the Substation.
+
+A: Well, I don\'t want to participate in any thing lah. Change mind my business also not.
+
+B: Never mind lah, we just show him a range of tapes from the Drama Centre ones as well as the Substation ones lor.
+
+A: Okay lah.
+
+B: Like that right or not?
+
+A: Ya lah.","[""leh33"", ""lah21"", ""lah21"", ""lor33"", ""lah51"", ""lah51""]",,,7,6,FALSE
+"[{'role': 'user', 'content': '\nA: Well, I don\'t want to participate in any.\nA: Change mind leh, my word changing word.\nB: No lah, we just show, we just give him a range of tapes from the Drama Centre ones as well as the Substation ones lah.\nA: Okay lah.\nB: Right or not?\nA: Ya.\nB: And then he can have a look at them and see whether that a good idea or not.'}]","
+A: Well, I don\'t want to participate in any. Change his mind leh.
+B: No lah, we just show, we just give him a range of tapes from the Drama Centre ones as well as the Substation ones lah.
+A: Okay lah.
+B: Right or not?
+A: Ya.
+B: And then he can have a look at them and see whether that a good idea or not.","[""leh33"", ""lah21"", ""lah51"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, you sure you okay? You ask, you ask her to come here.\nB: Yah lor, I already ask her to come here.\nA: And then?\nB: And then we see how lah. She\'s supposed to buy two plants for me, you see. I\'m gonna wipe my front lights, they\'re missing.'}]","
+A: Eh, you sure you okay? You ask, you ask her to come here.
+B: Yah lor, I already ask her to come here.
+A: And then?
+B: And then we see how lah. She\'s supposed to buy two plants for me, you see. I\'m gonna wipe my front lights, they\'re missing.","[""lor33"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, because of Dickie, she come here already leh.\nB: Ta pau or not?\nA: Yaya, never mind what she buys, just come liao.\nB: No lah, no need lah.\nA: Aiyah, should we call her ask her to buy something and come?\nB: No lah, no need lah.'}]","
+
+A: Should we call her ask her to buy something and come?
+B: No lah, no need lah.","[""lah21"", ""lah21""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nB: Then can share cab lah. Or do you mean words like take MRT and walk?\nA: I\'ll be going to two places.\nB: Call me lah after you go to the doctor. You\'re going to Parklane, right?\nA: Ya.\nB: After you go there, you\'ll...'}]","
+B: Then can share cab lah. Or do you mean you going to take MRT and walk?
+A: I\'ll be going to two places.
+B: Call me lah after you go to the doctor.","[""lah51"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""Eh, no need to call him first, see whether he got time for you lah. If not, he got too many appointments already.\n\nA: ""Ya lah, okay.\n\nB: ""Then got problem what.\n\nB: ""Then I wait for you at Skoob Books later, you call me when you finish or what.\n\nA: ""Ya lah, okay.\n\nA: ""But then I also cannot tahan already, never going to get my things done.""'}]","
+B: ""Eh, no need to call him first, see whether he got time for you lah. If not, he got too many appointments already.
+
+A: ""Ya lah, okay.
+
+B: ""Then got problem what.
+
+B: ""Then I wait for you at Skoob Books later, you call me when you finish or what.
+
+A: ""Ya lah, okay.""","[""lah21"", ""lah51"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Ya.\nB: So, I said if the direction is good and the cast is good, then at least we can say, ""Ah, okay, it\'s the script."" This is the problem, but that\'s constructive, you see. So, ya lah, that\'s why.\nA: So now we just meet someone who is free for two weeks and who is good and who can just do it.\nB: Ya, but that\'s easier said than done.\nA: Tomorrow morning, lah.'}]","
+A: Ya.
+B: So, I said if the direction is good and the cast is good, then at least we can say, ""Ah, okay, it\'s the script."" This is the problem, but that\'s constructive, you see. So, ya lah, that\'s why.
+A: So now we just meet someone who is free for two weeks and who is good and who can just do it.
+B: Ya, but that\'s easier said than done.
+A: Tomorrow morning, lah.","[""lah51"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, what\'s happening tomorrow morning?\nA: About just... (unclear word)...\nB: Okay lah, never mind lah. Now I\'m very confused, right? Because it\'s like, do we find someone for her, or is Shoberth doing it or what?\nA: No, she said she\'ll go and talk to Shoberth and Beng Kiang. If Shoberth can\'t do it, then we\'ll find someone lah.\nB: Okay, so... (unclear word)...\nA: I told her, I said I will ask Kah Wai. She said no, it\'s not a role for Kah Wai. I said okay, then we just have to think of someone.\nB: Jowee.'}]","
+A: Eh, what\'s happening tomorrow morning?
+A: About just... (unclear word)...
+B: Okay lah, never mind lah. Now I\'m very confused, right? Because it\'s like, do we find someone for her, or is Shoberth doing it or what?
+A: No, she said she\'ll go and talk to Shoberth and Beng Kiang. If Shoberth can\'t do it, then we\'ll find someone lah.
+B: Okay, so... (unclear word)...
+A: I told her, I said I will ask Kah Wai. She said no, it\'s not a role for Kah Wai. I said okay, then we just have to think of someone.
+B: Jowee.","[""lah21"", ""lah21"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Jowee.\nA: Uh.\nB: Cos\'.\nA: Ah ya, actually it\'s something Jowee can do seriously. But we have to ask her lah. But I don\'t want, I rather do.\nB: I don\'t want another one of these ""I did you a favor, you owe me one"" things.\nA: Ya ya.\nB: How?'}]","
+A: Ah ya, actually it\'s something Jowee can do seriously. But we have to ask her lah. But I don\'t want, I rather do.
+B: I don\'t want another one of these ""I did you a favor, you owe me one"" things.
+A: Ya ya.
+B: How?","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: I don\'t know, I\'m not.\nA: It\'s there, it\'s not that I want it, but it\'s like...\n\nB: You, you don\'t really mind, even if...\nA: Ah, I won\'t be awfully upset, lah.\nB: Ya, uhm, ya.\nA: I\'ll just be sick, that\'s all.\nB: So long as you know that it\'s not life or death.'}]","
+A: I don\'t know, I\'m not.
+A: It\'s there, it\'s not that I want it, but it\'s like...
+
+B: You, you don\'t really mind, even if...
+A: Ah, I won\'t be awfully upset, lah.
+B: Ya, uhm, ya.
+A: I\'ll just be sick, that\'s all.
+B: So long as you know that it\'s not life or death.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Uh huh.\nA: Someone I know is dying, that\'s more painful.\nB: Oh.\nA: But if you are going to die yourself, it\'s okay lah.\nB: Uhm.\nA: It\'s not so bad.\nB: Uhm.'}]","
+
+A: Someone I know is dying, that\'s more painful.
+B: Oh.
+A: But if you are going to die yourself, it\'s okay lah. It\'s not so bad.
+","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, chicken pox. I very sian already because of the marks leave behind. Aiyo, so vain leh.\n\nB: Ya lah, that\'s it lah.\n\nA: Because I so vain, you know?\n\nB: For me, if I die, it\'s like... *tsk* very self-centered. But I don\'t think they can manage without me.'}]","
+A: I hate chicken pox. I very sian already because of the marks leave behind. 
+B: Aiyo, You are so vain leh. I would be more concerned about shingles.
+","[""leh21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: If I die, tsk aiyah.\nB: Uhm, uhm.\nA: You know I mean?\nA: Okay lah.\nA: Life is okay, you know.\nB: Uhm, uhm.\nA: But I\'m not crazy about life, you know what I mean.'}]","
+A: If I die, tsk aiyah. You know I mean?
+B: Huh? You don't care?
+A: Okay lah. Life is okay, you know. But I\'m not crazy about life, you know what I mean.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: I think ya, okay lah.\nA: A lot of emptiness, although there\'s a lot of fun and meaning.\nB: Uhm.\nA: Meaning in it also, you know? But actually, quite bad lah.\nB: Ya, I don\'t know.'}]","
+B: I think ya, okay lah.
+A: A lot of emptiness, although there\'s a lot of fun and meaning.
+B: Uhm.
+A: Meaning in it also, you know? But actually, quite bad lah.
+B: Ya, I don\'t know.","[""lah51"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: ""That\'s more painful to me than what I\'m probably experiencing, that\'s how I see it lah.""\nA: ""Ya.""\nB: ""At this point in time lah.""\nA: ""Actually, the pain is not so bad for me, you know.""'}]","
+B: ""That\'s more painful to me than what I\'m probably experiencing, that\'s how I see it lah.""
+A: ""Ya.""
+B: ""At this point in time lah.""
+A: ""Actually, the pain is not so bad for me, you know.""","[""lah51"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Ya, I think so.\nA: I think I\'m very vain leh.\nB: Ya, got.\nA: I hope to live through life classy one lah, you know.\nB: Ya lah, ya lah.'}]","
+B: Ya, I think so.
+A: I think I\'m very vain leh.
+B: Ya, got.
+A: I hope to live through life classy one lah, you know.
+B: Ya lah, ya lah.","[""leh21"", ""lah51"", ""lah51"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: So I had to go and see him, ah?\nB: Ya.\nA: Then now I\'m on this medication called Migral. (unclear word)\nB: No lah.\nB: Is it?\nA: It\'s very good. It takes away instantly.'}]","
+A: So I had to go and see him, ah?
+B: Ya.
+A: Then now I\'m on this medication called Migral. You got take before?
+B: No lah. How is it?
+A: It\'s very good. It takes away instantly.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Really?\nA: It\'s the rheumatism in the head, you know? After the rain, you might get it.\nB: Uh huh, ""Tao hong"" is something else lah.\nA: Yeah, no. It\'s like, uh, ""Cao Cao"" in Mandarin, right? That Chinese general.\n\n(Note: In this context, ""Tao hong"" refers to a type of traditional Chinese medicine, and ""Cao Cao"" is a famous Chinese general from the Three Kingdoms period.)'}]","
+B: Really?
+A: It\'s the rheumatism in the head, you know? After the rain, you might get it.
+B: Uh huh, ""Tao hong"" is something else lah.
+A: Yeah, no. It\'s like, uh, ""Cao Cao"" in Mandarin, right? That Chinese general.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Oh.\nA: Ya, I remember that story.\nA: So when I have migraine, I\'ll think about ""Tsao Tsao"".\nB: Oh ya lah.\nB: There was this friend of mine who used to go to the doctor and said, ""Oh I have migraine,"" and the doctor said, ""No, you have a headache.""\nB: You know what I mean, ah?\nA: Uhm.'}]","
+B: Oh.
+A: Ya, I remember that story.
+A: So when I have migraine, I\'ll think about ""Tsao Tsao"".
+B: Oh ya lah.
+B: There was this friend of mine who used to go to the doctor and said, ""Oh I have migraine,"" and the doctor said, ""No, you have a headache.""
+B: You know what I mean, ah?
+A: Uhm.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, I must say, these two girls, they brave the embarrassment lah.\nB: Ya lor!\nA: If I\'m the organizer, I will sure be terribly embarrassed.\nB: In fact, they should just call it off lah.\nA: Huh?\nB: They\'re not going to make a profit, you know.'}]","
+A: Eh, I must say, these two girls, they brave the embarrassment hor.
+B: Ya lor!
+A: If I\'m the organizer, I will sure be terribly embarrassed.
+B: In fact, they should just call it off lah.
+A: Huh?
+B: They\'re not going to make a profit, you know.","[""lor33"", ""lah21""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: Huh.\nA: Probably they should.\nB: Because they\'re not going to make a profit, ah?\nA: Now, for me, I don\'t mind lah. But used to (writing) papers.\nB: That\'s why.\nA: I\'ll have to (contact) the lady who helped me, with one of my team members who helped me with some transparencies.\nB: Uhm, uhm.'}]","
+A: Huh.
+A: Probably they should.
+B: Because they\'re not going to make a profit, ah?
+A: Now, for me, I don\'t mind lah. But used to (writing) papers.
+B: That\'s why.
+A: I\'ll have to (contact) the lady who helped me, with one of my team members who helped me with some transparencies.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: It\'s uh, it\'s crazy lah, you know?\nA: No growth already, what.\nA: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.\nA: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...\nB: That\'s why...'}]","
+B: It\'s uh, it\'s crazy lah, you know?
+A: No growth already, what.
+A: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.
+A: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...
+B: That\'s why...","[""lah21"", ""lah51"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: If I can afford and I can take out the money, I will. Because while we talk about possible slowdown, uh...\nA: But uh, in the longer term, we know it\'s going up also, once that over-supply is taken up.\n\nB: That\'s why...\nB: But I still think that this slowdown will come, lah.\n\nA: It will, lah.\nA: It will, of course. The question is the effect.'}]","
+B: But I still think that this slowdown will come, lah.
+A: It will, lah.
+A: It will, of course. The question is the effect.","[""lah21"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nB: Now, they can look into their own conservation problem and plan a conservation strategy lah.\nA: Ya, hor.\nB: You know, based on our lesson, right?\nA: Ya lah, ya. That\'s right. Right, right. I have been giving some data here and there.\nB: That\'s why I said, I have been...\nA: Like that lah, like KL also.\nB: That\'s why...'}]","
+B: Now, they can look into their own conservation problem and plan a conservation strategy lah.
+A: Ya, hor.
+B: You know, based on our lesson, right?
+A: Ya lah, ya. That\'s right. Right, right. I have been giving some data here and there.
+B: That\'s why I said, I have been...
+A: Like that lah, like KL also.
+B: That\'s why...","[""lah51"", ""lah51"", ""lah51""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Ya.\nA: In fact, they have a lot of good buildings.\nB: That\'s why.\nA: Unlike us, we were going at a very hot pace. Penang also. In fact, just before this, our KL office called and asked, ""Can you help in this, uh, just giving some info lah on conservation. Uh, how they should do it in Penang?"" I said, ""No, we\'re writing a paper for this. Send you a paper lah.""\nB: Uhm, ya.'}]","
+A: In fact, they have a lot of good buildings.
+B: That\'s why.
+A: Unlike us, we were going at a very hot pace. Penang also. In fact, just before this, our KL office called and asked, ""Can you help in this, uh, just giving some info lah on conservation. Uh, how they should do it in Penang?"" I said, ""No, we\'re writing a paper for this. Send you a paper lah.""","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: ""Eh, did you all tell him why or not?""\n\nC: ""So he said, \'Why not Hwee Bee?\'""\n\nA: ""Mr. Yeow said that...""\n\nC: ""No lah! Don\'t like that.""\n\nA: ""Okay, then ask him to join me in my room lah.""\n\nC: ""Siew Teng, why you so quiet? You on leave or what?""'}]","
+
+A: ""If Mr. Yeow doesn't want to contact me soon, I'll just pick Hwee Bee instead.""
+
+C: ""No lah! Don\'t like that.""
+
+A: ""Okay, then ask him to join me in my room lah.""","[""lah24"", ""lah51""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: ""Not so bad what?""\nA: ""Ha. *laughs*""\nC: ""I mean it\'s very cheap at this time lah. There\'s also another shop selling very nice things, you know, marcasite ah.""\nC: ""The other day when I went for high tea at Parrot\'s, uh...""\nA: ""Marco Polo.""'}]","
+C: ""Not so bad what?""
+A: ""Ha. *laughs*""
+C: ""I mean it\'s very cheap at this time lah. There\'s also another shop selling very nice things, you know, marcasite ah.""
+C: ""The other day when I went for high tea at Parrot\'s, uh...""
+A: ""Marco Polo.""","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: ""At the moment.""\n\nA: ""In thing I\'m not quite sure. What\'s in thing?""\n\nC: ""I mean like the clothes, what\'s what\'s in fashion lah.""\n\nA: ""Couldn\'t really identify any fashion. It\'s all the same sum.""\n\nA: ""Maybe that\'s the in thing now.""'}]","
+
+A: ""In thing I\'m not quite sure. What\'s in thing?""
+
+C: ""I mean like the clothes, what\'s what\'s in fashion lah.""
+
+A: ""Couldn\'t really identify any fashion. It\'s all the same sum.""
+
+A: ""Maybe that\'s the in thing now.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Helping Mui Sic, right?\nA: Ya, she\'s helping Mui Sic but not yet.\nA: She\'s just come back from Indonesia from her internship.\nA: She\'s crazy lah.\nA: Well, this is one girl who doesn\'t work for money, you know.\nB: I see.'}]","
+B: Helping Mui Sic, right?
+A: Ya, she\'s helping Mui Sic but not yet.
+A: She\'s just come back from Indonesia from her internship.
+A: She\'s crazy lah.
+A: Well, this is one girl who doesn\'t work for money, you know.
+B: I see.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: Is she very dark or not?\nA: Huh?\nB: Is she very dark or not?\nA: She\'s not very dark lah, but she knows she\'s very rugged.\nB: Ya, she is telling her friend be.\nA: So when is Joyce supposed to meet you?\nB: She was supposed to meet me hours ago.'}]","
+B: Is she very dark or not?
+A: She\'s not very dark lah, but she knows she\'s very rugged.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: I think a laptop is not powerful enough.\nB: When she needs an interface, I don\'t know what an interface is.\nA: Oh, an interface, I think it bridges two different systems, is it?\nB: Something like that lah.\nB: Provides a bridge or something like that, I donm\'t know.\nB: Her laptop is a Powerbook, hundred.\nB: Don\'t know.'}]","
+B: I think a laptop is not powerful enough.
+B: When she needs an interface, I don\'t know what an interface is.
+A: Oh, an interface, I think it bridges two different systems, is it?
+B: Something like that lah.
+B: Provides a bridge or something like that, I donm\'t know.
+B: Her laptop is a Powerbook, hundred.
+B: Don\'t know.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Ya.\nB: It\'s about time, right? I think we shall make a move.\nC: You know, Muslim laws lah. Which means that, for example, if anyone is caught drinking (unclear word),\nD: Uhm...\nC: He could be caned, what.\nD: Hor.'}]","
+A: Ya.
+B: It\'s about time, right? I think we shall make a move.
+C: You know, Muslim laws lah. Which means that, for example, if anyone is caught drinking, he could be caned, what.","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nD: They\'re going to make it state law is it?\nC: Ya, they\'re going to make it state law applicable to non-Muslims.\nC: And uhm, things like thieves or robbers would be, uh, amputated.\nD: I suppose it\'s alright lah, if they apply it. I mean, to non-Muslims also can lor.\nC: But they want to apply it to non-Muslims as well, unless non-Muslims have their own laws which prescribe punishment.'}]","
+D: They\'re going to make it state law is it?
+C: Ya, they\'re going to make it state law applicable to non-Muslims.
+C: And uhm, things like thieves or robbers would be, uh, amputated.
+D: I suppose it\'s alright lah, if they apply it. I mean, to non-Muslims also can lor.
+C: But they want to apply it to non-Muslims as well, unless non-Muslims have their own laws which prescribe punishment.","[""lah21"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: ""Eh, uh implemented by religious groups or implemented by the state, is it?""\n\nD: ""Ya but why got to be implemented by religious groups? What about people who are not part of the religion?""\n\nC: ""Well, that\'s the discussion now lah, whether it should include Muslims or non-Muslims. But you see, if it succeeds, it will...""\n\nD: ""Ya ya, I know. If it succeeds, it will very likely be implemented by the national government. At first, the nation said that it will not support such courses \'cos Malaysia is a multi-racial, multi-religious secular state. But later, it changed its opinion and said that it would conditionally support the people, as long as they apply to Muslims.""\n\nD: ""I think that\'s fair. I mean, it\'s fair for Muslims to have Muslim laws.""'}]","
+C: ""Eh, uh implemented by religious groups or implemented by the state, is it?""
+
+D: ""Ya but why got to be implemented by religious groups? What about people who are not part of the religion?""
+
+C: ""Well, that\'s the discussion now lah, whether it should include Muslims or non-Muslims. But you see, if it succeeds, it will...""
+
+D: ""Ya ya, I know. If it succeeds, it will very likely be implemented by the national government. At first, the nation said that it will not support such courses \'cos Malaysia is a multi-racial, multi-religious secular state. But later, it changed its opinion and said that it would conditionally support the people, as long as they apply to Muslims.""
+
+D: ""I think that\'s fair. I mean, it\'s fair for Muslims to have Muslim laws.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: Then I said, ""There\'s a machine over there.""\nA: ""Why don\'t you try it?""\nA: Then, he took out his money and says, ""Uhm, can you change for me?""\nA: ""So, I was so shocked lah, that I did it for him and gave him the money.""\nB: ""Which MRT station was this?""\nA: ""Dhoby Ghaut.""\nB: ""Oh, okay.""'}]","
+A: Then I said, ""There\'s a machine over there.""
+A: ""Why don\'t you try it?""
+A: Then, he took out his money and says, ""Uhm, can you change for me?""
+A: ""So, I was so shocked lah, that I did it for him and gave him the money.""
+B: ""Which MRT station was this?""
+A: ""Dhoby Ghaut.""
+B: ""Oh, okay.""","[""lah51""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: I\'m sure something\'s funny lah.\nA: Yes, it\'s like with those people leh.\nA: Are you kidding me or not?\nA: After I left, the last thing I want to do is to look at their faces again, you know?\nB: Don\'t go there lah.\nA: Ya lah.\nB: Uhm, maybe around 3.30 would be good for you?'}]","
+B: I\'m sure something\'s funny lah.
+A: Yes, it\'s like with those jokers leh.
+A: After I left, the last thing I want to do is to look at their faces again, you know?
+B: Don\'t go to this topic lah. Not nice.
+A: Ya lah.","[""lah21"", ""leh33"", ""lah21"", ""lah51""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nA: Aiyoh.\nB: Aiya, when can I call?\nB: Will you be at home or will you be... uhm, on campus?\nA: I\'ll be on campus, lah.\nB: Okay, if I call you at this number?\nA: Uh, ya.\nB: Okay, if I can get away tonight, I\'ll give you a call. But don\'t think it\'s very likely.'}]","
+B: Will you be at home or will you be... uhm, on campus?
+A: I\'ll be on campus, lah.
+B: Okay, if I call you at this number leh?","[""lah21"", ""leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nB: My results are coming out next week.\nA: I know, next Wednesday lah.\nB: Ya.\nA: Ya, don\'t worry about it lah.\nA: I mean, don\'t come down.\nA: I mean, if it makes you feel better, I\'ll look it up for you and call you.\nB: Oh, would you?'}]","
+B: My results are coming out next week.
+A: I know, next Wednesday lah.
+A: Don\'t worry about it lah.","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: No.\nB: Shucks, got to wait another half day.\nB: Okay, I\'ll wait for your phone call.\nA: Ya, I think ya lah. I\'m sure if I don\'t call you, Robin will beat me to it lah.\nB: Well, I\'ve already made him promise to call me, even before we took the exams. I didn\'t want to come down and look for you lah.\nA: Ya.'}]","
+A: No lah. I'm not that busy.
+B: Okay, I\'ll wait for your phone call lor.","[""lah21"", ""lor33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nB: Bye.\n\nA: Aye, haven\'t heard from you in a long while.\n\nC: Ya, I\'m doing a lot of things leh.\n\nA: Like what?\n\nC: I want to go and watch movie, lah.\n\nA: What movies did you watch?'}]","
+A: Hi, haven\'t heard from you in a long while.
+
+C: Ya, I\'m doing a lot of things lah.
+
+A: Like what?
+
+C: I busy with studies lor.","[""lah21"",""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, what movies you watch?\nC: Uhm, I go watch ""Much Ado About Nothing.""\nA: Wah, how was it?\nC: Okay lah, quite fun lah.\nA: How come?\nC: But quite cozy, you know.\nA: In what way?'}]","
+A: Eh, what movies you watch?
+C: Uhm, I go watch ""Much Ado About Nothing.""
+A: Wah, how was it?
+C: Okay lah, quite fun leh.
+A: How come?
+C: Quite nice lah I feel.
+A: In what way?","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: In what way?\nC: Uhm, it\'s not so Shakespearean, nah, but it is quite modern.\nA: And then?\nC: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.\nA: Ya.'}]","
+A: In what way?
+C: Uhm, it\'s not so Shakespearean lah, but it is quite modern.
+A: And then?
+C: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
+A: Ya.","[""lah21"", ""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: ""Eh, it\'s different from did you watch Hamlet leh.""\n\nA: ""Ya.""\n\nC: ""Ah, I didn\'t watch, you see. So from what I hear, it\'s different from Hamlet lah. Ah, not so Elizabethan, you know what I mean?""\n\nA: ""Ya, ya.""'}]","
+C: ""Eh Merchant of Venice play, it\'s different from Hamlet leh.""
+
+A: ""Ya.""
+
+C: ""Ah, I didn\'t watch, you see. So from what I hear, it\'s different from Hamlet lah. Ah, not so Elizabethan, you know what I mean?""
+
+A: ""Ya, ya.""","[""leh33"",""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: So you try to call as many as possible lor, see how?\nC: Ya.\nA: Who\'re your favourite actors in that movie ah?\nC: Favourite actors ah? Uhm, I think Denzel Washington lah.\nA: What did he act as? Act as?\nC: Uhm, the brother whose name is... Oh, Don Penrole.'}]","
+A: Who\'re your favourite actors in that movie ah?
+C: Favourite actors ah? Uhm, I think Denzel Washington lah.
+A: What did he act as? Act as?
+C: Uhm, the brother whose name is... Oh, Don Penrole.","[""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Okay.\nC: Ya lor. I went with Audrey. Ya lor, quite fun lah.\nA: Did Ting Keat go?\nC: Ya lor, Ting Keat went also.'}]","
+A: I think Universal Studios is quite fun leh
+C: Ya lor. I went with Audrey, quite fun lah.
+A: Did Ting Keat go?
+C: Ting Keat went also lah.","[""leh33"", ""lor33"",""lah21"", ""lah21""]",,,5,4,FALSE
+"[{'role': 'user', 'content': '\nC: Ya, Ting Keat went also.\nA: How did she like it?\nC: Ya, we were laughing and laughing all the time.\nC: Ya, then I was thinking of going to watch uhm another film, probably this week or next week lah.\nC: Uhm, but haven\'t decided on what to watch.\nA: Okay.\nC: Ya, have you watched any lately?'}]","
+C: Ya, Ting Keat went also.
+A: How did she like it?
+C: Ya, it was good we were laughing and laughing all the time leh.
+C: Ya, then I was thinking of going to watch uhm another film, probably this week or next week lah.","[""leh33"", ""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, but haven\'t decided on what to watch ah?\n\nA: Okay lah.\n\nC: Ya, have you watched any movies lately?\n\nA: Aiyo, I haven\'t. I\'ve been working so hard on my Masters, you know? Haven\'t had time at all.\n\nC: Wah, like that also can ah? How is it coming along?\n\nA: Eh, I was having a lot of problems with it. But now, it seems to be coming along fine leh. I think I\'ll be able to finish it by the deadline.'}]","
+C: Have you watched any movies lately?
+
+A: Aiyo, I haven\'t leh. I\'ve been working so hard on my Masters, you know? Haven\'t had time at all.
+
+C: Wah, like that also can? How is it coming along?
+
+A: Eh, I was having a lot of problems with it. But now, it seems to be coming along fine leh. I think I\'ll be able to finish it by the deadline.","[""leh33"", ""leh21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, I haven\'t been having time lah, I\'ve been working so hard on my Masters.\nC: Oh, how is it coming along?\nA: Uhm, I was having a lot of problems with it. But now, it seems to be coming along fine. I think I\'ll be able to finish lah by the deadline.\nC: So, what chapter you\'re on now?\nA: Uhm, finishing chapter two. I\'ll be starting on chapter three next week.'}]","
+A: Eh, I haven\'t been having time lah, I\'ve been working so hard on my Masters.
+C: Oh, how is it coming along?
+A: Uhm, I was having a lot of problems with it. But now, it seems to be coming along fine. I think I\'ll be able to finish by the deadline lah.","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, finishing chapter two.\nA: I\'ll be starting on chapter three next week.\nC: Oh, so have you passed up chapter two?\nA: No, I\'m passing it up today lah.\nC: Oh.\nA: Ya.\nC: Uh, first draft ah?'}]","
+A: I\'ll be starting on chapter three next week.
+C: Oh, so have you passed up chapter two?
+A: No, I\'m passing it up today lah.","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Oh.\nA: Ya.\nC: Eh, first draft ah?\nA: Uh yeah, first draft. But I don\'t think he\'ll give me much problems with it lah.\nC: Eh, how long was it?\nA: About eleven thousand words.\nC: Eleven thousand quite okay lah, uh.'}]","
+C: Eh, first draft ah?
+A: Uh yeah, first draft. But I don\'t think he\'ll give me much problems with it lah.
+C: Eh, how long was it?
+A: About eleven thousand words.
+C: Eleven thousand quite okay lah","[""lah21"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Oh, he passed it.\nA: He said it was okay.\nC: He said okay ah?\nA: And asked me to go on with the rest lah.\nC: Uh, that\'s means you\'re left with the third chapter lah.\nA: Ya, the... the third chapter is umm... Bessy Head. Then after that is Anita Desai.\nC: Oh.'}]","
+A: And asked me to go on with the rest lah.
+C: Uh, that\'s means you\'re left with the third chapter lor.","[""lah21"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: He said it was okay.\nC: He said okay ah?\nA: And asked me to go on with the rest lah.\nC: Uh, that\'s means you\'re left with the third chapter lah.\nA: Ya, the next chapter is Bessy Head, then after that is Anita Desai.\nC: Oh.\nA: So, two more chapters left.'}]","
+A: He said it was okay.
+A: And asked me to go on with the rest lah.
+A: Ya, the next chapter is Bessy Head, then after that is Anita Desai lor.","[""lah21"", ""lor33""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nA: Ya.\nC: I see, so how you gonna tackle Bessy Head and uhm, Anita Desai?\nA: I don\'t know lah. I think Bessy Head not much problem since I\'ve already done some work on her.\nC: Ah, you\'ve done a draft on her already?\nA: Yup, but for Anita Desai, I have to start reading from scratch. It\'ll probably take me about three days to finish.'}]","
+C: I see, so how you gonna tackle Bessy Head and Anita Desai leh?
+A: I don\'t know lah. I think Bessy Head not much problem since I\'ve already done some work on her.","[""leh33"", "" lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: It\'ll probably take me about three weeks lah.\nC: Have you read any of her works at all?\nA: Ya, I read all her books already. I just haven\'t read the critical readings lah.\nC: Ah hah, will that long or not?\nA: I think probably one week lah, and then another week to write, and then the third week to amend lah.\nA: It\'s not that impossible lah.'}]","
+A: It\'ll probably take me about three weeks lah.
+C: Have you read any of her works at all?
+A: Ya, I read all her books already. I just haven\'t read the critical readings lor.","[""lah21"", "" lor33""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nA: Ya, I read all her books already.\nA: I just haven\'t read the critical readings lah.\nC: Ah hah, will that long or not?\nA: I think probably one week lah, and then another week to write, and then the third week to amend lah.\nA: It\'s not that impossible lah.\nC: Now it\'s about September.\nC: It should be okay lah.'}]","
+A: Ya, I read all her books already.
+A: I just haven\'t read the critical readings lah.
+C: Cannot be like that leh. Must do it earlier..","[""lah21"", "" leh33""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nA: I just haven\'t read the critical readings, lah.\nC: Ah hah, will that long or not?\nA: I think probably one week, lah. And then another week to write, and then the third week to amend, lah.\nA: It\'s not that not impossible, lah.\nC: Now it\'s about September, lah.\nC: It should be okay, lah.\nYa.'}]","
+A: I just haven\'t read the critical readings lah.
+C: I think I probably need one week, lor.
+A: It\'s not that not impossible lah.Ya.","[""lah21"", "" lor33"", "" lah21""]",,,7,6,FALSE
+"[{'role': 'user', 'content': '\nA: I think probably one week lah, then another week to write, and then the third week to amend lah.\nA: It\'s not impossible lah.\nC: Now it\'s around September.\nC: It should be okay lah, ya.\nC: Now you should go out lah.\nA: Hah.'}]","
+A: I think probably one week lah, then another week to write, and then the third week to amend lor.
+A: It\'s not impossible lah.
+C: Now it\'s around September.
+C: It should be okay lah
+C: Now you should go out lor.","[""lah21"", "" lor33"", "" lah21"", ""lah21"", "" lor33""]",,,6,5,FALSE
+"[{'role': 'user', 'content': '\nC: Now it\'s around September.\nC: Should be okay lah.\nC: Ya.\nC: Now you should go out lah.\nA: Haha.\nA: Ya.'}]","
+C: Now it\'s around September. Want to meet?
+A: I don\'t think I can go out leh.
+C: Now you should go out lah.
+A: Ya.","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Shin Lan haven\'t. We\'ve been putting off all our appointments to meet.\nA: How come?\nC: A lot of work lah. Yeah, then I mean, she\'s been busy because her dad is like you know, coming and going, coming and going, you know.\nC: Then, they\'re trying to get a flat.\nA: Ya, where are they trying to get a flat?'}]","
+C: Shin Lan haven\'t. We\'ve been putting off all our appointments to meet.
+A: How come?
+C: A lot of work lah. Yeah, then I mean, she\'s been busy because her dad is like you know, coming and going, coming and going, you know.
+C: Then, they\'re trying to get a flat.
+A: Ya, where are they trying to get a flat leh?","[""lah21"", "" leh33""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nA: They haven\'t been successful.\nC: Actually, they book one already.\nA: And then?\nC: It\'s supposed to be ready in three years, lah. In fact, they have gotten the flat, but it\'s just not ready yet. Ya, and then, she\'s living on her own now since her auntie isn\'t around anymore. Gone, gone away, so she\'s there alone, ah.'}]","
+A: They haven\'t been successful.
+C: Actually, they book one already leh.
+A: And then?
+C: It\'s supposed to be ready in three years.","[""leh21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: In fact, actually they have gotten the flat already, but it\'s not ready yet.\nC: Ya, and then also, like, she is living on her own now, now that her auntie is not here anymore.\nC: Gone, gone away, so she\'s there alone, ah?\nC: Ya, and then I think also, like because she has her own commitments and all that, so we haven\'t been able to meet up, ah.\nC: Ya, so I don\'t know, but I haven\'t heard from Julie either.\nC: Ya, don\'t know what she\'s doing, ah.\nC: Julie is in NUS now, right?'}]","
+C: In fact, actually they have gotten the flat already, but it\'s not ready yet.
+C: Her auntie move away so she is living alone lor.
+C: Ya lah, and then I think also, like because she has her own commitments and all that, so we haven\'t been able to meet up lor","[""lor33"",""lah21"",""lor33""]",,,1,0,FALSE
+"[{'role': 'user', 'content': '\nC: ""Eh, gone already, so she\'s there alone, isn\'t it?\nC: ""Ya, and then I think also because she has her own commitments and all that, so we haven\'t been able to meet up, you know?\nC: ""Ya, so I don\'t know, but I haven\'t heard from Julie either.\nC: ""Ya, don\'t know what she\'s doing, isn\'t it?\nC: ""Julie is in NUS now, right?\nA: ""Ya.""\nC: ""You mean she\'s doing her first year or second year?""'}]","
+C: Ya lah, and then also, like, she is living on her own now, now that her auntie is not here anymore.
+C: I think she decided to be alone and don\'t want to meet us lah
+C: Ya lor, so I don\'t know, but I haven\'t heard from Julie either","[""lah51"",""lor33""]",,,1,0,FALSE
+"[{'role': 'user', 'content': '\nA: Eh, you mean you never see her at all ah?\nC: No lah, I haven\'t seen her at all. We were supposed to meet.\nA: I see, then what happened?\nC: She\'s in university, and I told her I might go down one day. But I think she must be quite busy.\nA: Ah, she\'s in Science right?\nC: Sorry?'}]","
+A: Eh, you mean you never see her at all ah?
+C: No lah, I haven\'t seen her at all. We were supposed to meet.
+A: I see, then what happened?","[""lah21""]",,,2,1,FALSE
+"[{'role': 'user', 'content': '\nC: Ya, she\'s in Science.\nC: Ya, is the Science Department quite far from the Arts Department?\nA: I\'m not sure. I haven\'t, I have never seen it lah.\nC: Oh, never mind lah. Actually, I haven\'t gone out much with my friends. But on my own, I\'ve gone out quite a bit.\nC: Uhm, you know I\'ve been sick as well, ya.\nA: Then, how is the Rottweiler?'}]","
+C: Ya, is the Science Department quite far from the Arts Department?
+A: I\'m not sure. I haven\'t seen it leh.
+C: Oh, never mind lah.","[""leh33"", ""lah21""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Eh, okay lah, but he seems to have some skin problem.\nA: How come?\nC: Don\'t know, he keeps biting and biting himself.\nC: Yah, I think he\'s allergic to something.\nC: Uhm, but he\'s good leh. Because like, having a big dog after a long time, we\'ve had only a small dog. Our other dog, you know, Pepsi, passed away.\nC: Ya, after Pepsi passed away, then we only had one dog. So I thought, since my mum is at home alone most of the time and none of us are around, my brother brought a Rottweiler lah.\nA: Ah, got it.'}]","
+C: Eh, okay lah, but he seems to have some skin problem.
+A: How come?
+C: Don\'t know, he keeps biting and biting himself.
+C: Yah, I think he\'s allergic to something leh.","[""lah21"", ""leh33""]",,,4,3,FALSE
+"[{'role': 'user', 'content': '\nA: How come?\n\nC: Don\'t know, he keeps biting and biting.\n\nC: Yeah, I think he is allergic to something lah.\n\nC: Uhm, but he\'s good lah. Because like having a big dog, you know? After a long time, we\'ve had just a small dog. And then our other dog, you know, Pepsi...\n\nA: Ya.\n\nC: Ya.'}]","
+A: How come leh?
+
+C: Don\'t know, he keeps biting and biting.
+
+C: Yeah, I think he is allergic to something lah.","[""leh33"", "" lah24""]",,,3,2,FALSE
+"[{'role': 'user', 'content': '\nC: Don\'t know, he keeps biting and biting.\nC: Ya, I think he\'s allergic to something lah.\nC: Uhm, but he\'s good lah. Because, like, having a big dog, you know? After a long time, we\'ve had just a small dog. Our other dog, you know, Pepsi.\nC: Ya, after Pepsi died, then we only had one dog. So, I thought, it seems my mother is at home alone, and none of us are around. So, my brother brought a Rottweiler lah.\nA: Ya.\nC: Ya.\nA: You mean it takes care of the house ah?'}]","
+C: Don\'t know, my dog keeps biting and biting.
+C: Ya, I think he's allergic to something lah.
+C: Uhm, but he\'s good lah. Because, like, having a big dog, you know? After a long time, we\'ve had just a small dog. Our other dog, you know, Pepsi.
+A: What is he allergic to leh?","[""lah21"", ""lah21"", ""leh33""]",,,4,3,FALSE
