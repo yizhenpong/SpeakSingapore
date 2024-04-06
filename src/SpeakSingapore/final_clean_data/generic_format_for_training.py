@@ -32,7 +32,7 @@ class GenericFormatForCleaning:
 if __name__ == "__main__":
    
     pd.set_option('display.max_columns', 10)
-    format = GenericFormatForCleaning("./src/SpeakSingapore/final_clean_data/aligned_labels/aligned_NUS_SMS.xlsx", "conversation", "output", "Sheet1")
+    format = GenericFormatForCleaning("./src/SpeakSingapore/final_clean_data/aligned_labels/aligned_NUS_SMS_v2.0.xlsx", "conversation", "yz_label", "Sheet1")
 
     
     out = format.run()
@@ -44,7 +44,7 @@ if __name__ == "__main__":
     
     out_combined = pd.concat([out, out_2])
 
-    out_combined.to_excel("./src/SpeakSingapore/final_clean_data/aligned_labels_formatted/final_dataset.xlsx")
+    out_combined.to_excel("./src/SpeakSingapore/final_clean_data/aligned_labels_formatted/final_dataset_v2.0.xlsx")
    
 
 
