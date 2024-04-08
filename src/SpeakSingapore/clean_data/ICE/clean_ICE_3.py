@@ -52,9 +52,7 @@ def run():
 
     final_series = pd.Series(list(map(format_prompt, ls)))
     final_series.to_csv(os.path.abspath('./src/SpeakSingapore/data/ICE/processed_step_3/ice_data.csv'), index=False)
-    '''
-    Manual edits follow this.
-    '''
+    
 
 
 def format_prompt(convo):
