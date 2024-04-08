@@ -38,7 +38,12 @@ def run():
 
         output = answer(
             client,
-            ls[i]
+            "The following is a conversation between one or more people, in Singlish, directly transcribed. \
+                Clean up the text as much as possible, converting it into proper Singlish text. \
+                    Ensure that your output is still in Singlish and retains its original syntax.\
+                         Below is an example. Note that in the example, the cleaned output adds punctuation, removes duplicate words.\nA: So you you try to call as many as possible lor see how\nYour cleaned output should be:\nA: So you try to call as many as possible lor, see how.\n\
+                            Now, with the example in mind, clean the following conversation below.\n"\
+                              + ls[i]
 
             ).content
         
@@ -56,6 +61,7 @@ def run():
 
 
 def format_prompt(convo):
+    # This part was in the end, unnecessary.
     formatted = [
         {
             "role" : "user",
