@@ -22,15 +22,21 @@ class GenericFormatForCleaning:
             text = text.replace(particle[:-2], particle, 1)
             split = text.split(particle)
             fin = fin + split[0] + particle
-            text = split[1]
+            try:
+                text = split[1]
+            except:
+                print(text)
+                raise Exception("ERROR") from None
             assert len(split) == 2
         return fin
 
     def run(self, outputcol="output") -> pd.DataFrame:
+
         self.df[outputcol] = self.df.apply(lambda row: self.replace_text(
             row[self.input_col_name], row[self.label_col_name]
             )
         , axis=1)
+
         return self.df
     
 
