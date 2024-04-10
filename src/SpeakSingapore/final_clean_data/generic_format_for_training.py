@@ -17,9 +17,14 @@ class GenericFormatForCleaning:
         self.df = df
 
     def replace_text(self, text, particles):
+        fin = ""
         for particle in particles:
             text = text.replace(particle[:-2], particle, 1)
-        return text
+            split = text.split(particle)
+            fin = fin + split[0] + particle
+            text = split[1]
+            assert len(split) == 2
+        return fin
 
     def run(self, outputcol="output") -> pd.DataFrame:
         self.df[outputcol] = self.df.apply(lambda row: self.replace_text(
