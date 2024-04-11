@@ -1,9 +1,9 @@
 import pandas as pd
 pd.set_option('display.max_columns', 500)
 
-df = pd.read_parquet("./src/SpeakSingapore/test_and_results/test.parquet")
+df = pd.read_parquet("./src/SpeakSingapore/test_and_results/test_set.parquet")
 
-rs = pd.read_parquet("./src/SpeakSingapore/test_and_results/test_result.parquet")
+rs = pd.read_parquet("./src/SpeakSingapore/test_and_results/test_results.parquet")
 
 print(df["output"]) # Expected output
 print(rs["results"]) # Actual output

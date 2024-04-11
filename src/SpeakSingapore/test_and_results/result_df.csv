@@ -1,8 +1,7 @@
 ,expected_output,actual_output
 0,"
 D: Here is a free gift, take it!
-C: You're so kind, but no need lah24.
-","
+C: You're so kind, but no need lah24","
 
 D: Here is a free gift, take it!
 C: You're so kind, but no need lah21.
@@ -12,18 +11,17 @@ C: You're so kind, but no need lah21.
 1,"
 A: Hi guys, I'm heading to the grocery store. Anything you want me to get?
 B: No need lah21
-A: Okay, then ask mum and papa leh33, see if they want anything, then message me again.","
+A: Okay, then ask mum and papa leh33","
 
 A: Hi guys, I'm heading to the grocery store. Anything you want me to get?
 B: No need lah21
-A: Okay, then ask mum and papa leh33, then message me again.
+A: Okay, then ask mum and papa leh33, see if they want anything, then message me again.
   [/INST]
 "
 2,"
 
 A: have you been using the cue cards app to study and memorise concepts?
-B: Of course got use lah51. It's so useful.
-A: Really, ok I will go try it out then","
+B: Of course got use lah51","
 
 
 A: have you been using the cue cards app to study and memorise concepts?
@@ -34,8 +32,7 @@ A: Really, ok I will go try it out then
 3,"
 
 A: Hey you want to watch the movie X man?
-B: Nah, I don't want to watch leh33, You want to go for dinner instead?
-A: Hmm, okay then let's go for dinner then","
+B: Nah, I don't want to watch leh33","
 
 
 A: Hey you want to watch the movie X man?
@@ -45,21 +42,17 @@ A: Hmm, okay then let's go for dinner then
 "
 4,"
 C: ""That\'s at Katong, right? Alkaff Mansion.""
-B: ""No lah21. It\'s at Telok Blangah Hill.""
-C: ""Oh, I thought it\'s in the Katong area.""
-","
+B: ""No lah21","
 
 C: ""That\'s at Katong, right? Alkaff Mansion.""
 B: ""No lah21. It\'s at Telok Blangah Hill.""
 C: ""Oh, I thought it\'s in the Katong area.""
-
   [/INST]
 "
 5,"
 B: You got lost? okay tell me your surroundings.
 A: On my right is like a mall
-B: The other side leh33?
-A: My other side is like, a multi-storey car-park.","
+B: The other side leh33","
 
 B: You got lost? okay tell me your surroundings.
 A: On my right is like a mall
@@ -69,19 +62,15 @@ A: My other side is like, a multi-storey car-park.
 "
 6,"
 A: How are the new interns?
-B: They\'re quite alright lah21. They work pretty hard lor33.
-","
+B: They\'re quite alright lah21. They work pretty hard lor33","
 
 A: How are the new interns?
-B: They\'re quite alright lah21. They work pretty hard lor33.
-
-  [/INST]
-"
+B: They\'re quite alright lah21. They work pretty hard lor33."
 7,"
 
 A: Hey, have you found a date for the upcoming dance?
 B: No, not yet, but I'm thinking of asking that cute guy from our chemistry class
-A: oo go ask him out soon leh33 or you go ask Titus lah21, I think he doesn't have a date and quite fine looking too","
+A: oo go ask him out soon leh33 or you go ask Titus lah21","
 
 
 A: Hey, have you found a date for the upcoming dance?
@@ -106,7 +95,7 @@ B: Wait wait wait, you are cutting until too short already leh33
 9,"
 A: It\'ll probably take me about three weeks lah21.
 C: Have you read any of her works at all?
-A: Ya, I read all her books already. I just haven\'t read the critical readings lor33.","
+A: Ya, I read all her books already. I just haven\'t read the critical readings lor33","
 
 A: It\'ll probably take me about three weeks lah21.
 C: Have you read any of her works at all?
@@ -116,10 +105,7 @@ A: Ya, I read all her books already. I just haven\'t read the critical readings 
 10,"
 A: He\'ll be most aghast.
 B: Why?
-A: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah21 you see.
-B: No, but I think as long as you go to a government clinic and you know that they are going to test for HIV, then you\'re...
-A: Then it\'s okay.
-B: You have no right already.","
+A: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah21","
 
 A: He\'ll be most aghast.
 B: Why?
@@ -132,8 +118,7 @@ B: You have no right already.
 11,"
 
 A: I am done with work, I'm so tired, and I need some fresh air
-B: Okay, then we go out walk walk lah21, I go fetch you
-A: okie, yay","
+B: Okay, then we go out walk walk lah21","
 
 
 A: I am done with work, I'm so tired, and I need some fresh air
@@ -144,8 +129,7 @@ A: okie, yay
 12,"
 B: There\'s a diskette for this type of piano.
 B: Uh, I don\'t know what kind of disk that is.
-A: I don\'t know lah21, but you should have.
-","
+A: I don\'t know lah21","
 
 B: There\'s a diskette for this type of piano.
 B: Uh, I don\'t know what kind of disk that is.
@@ -158,7 +142,7 @@ A: I don\'t know lah21, but you should have.
 A: Hey, do you wanna go check out the new mall in Clementi?
 B: Clementi? No way, it's so far leh33
 A: But it has a lot of cool stores and restaurants.
-B: I know, but I don't feel like going lah21. It's such a hassle to get there.","
+B: I know, but I don't feel like going lah21","
 
 
 A: Hey, do you wanna go check out the new mall in Clementi?
@@ -170,9 +154,7 @@ B: I know, but I don't feel like going lah21. It's such a hassle to get there.
 14,"
 
 A: Hi have you finished eating?
-B: Not yet, still eating lah21.
-A: Oh, there's free mcflurry back at dorm because some club is hosting an event, I am going back first
-B: Really? wait for me, I'm almost done liao","
+B: Not yet, still eating lah21","
 
 
 A: Hi have you finished eating?
@@ -182,28 +164,26 @@ B: Really? wait for me, I'm almost done liao
   [/INST]
 "
 15,"
-B: I think ya, okay lah2151.
+B: I think ya, okay lah51.
 A: A lot of emptiness, although there\'s a lot of fun and meaning.
 B: Uhm.
-A: Meaning in it also, you know? But actually, quite bad lah.
-B: Ya, I don\'t know.","
+A: Meaning in it also, you know? But actually, quite bad lah21","
 
 B: I think ya, okay lah21.
 A: A lot of emptiness, although there\'s a lot of fun and meaning.
 B: Uhm.
-A: Meaning in it also, you know? But actually, quite bad lah.
+A: Meaning in it also, you know? But actually, quite bad lah21.
 B: Ya, I don\'t know.
   [/INST]
 "
 16,"
-G: The commitment is four hours leh3333.
-H: So for Class A, got one presenter, Class B also got one presenter is it?
-G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh.
-","
-
 G: The commitment is four hours leh33.
 H: So for Class A, got one presenter, Class B also got one presenter is it?
-G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh.
+G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh33","
+
+G: The commitment is four hours leh21.
+H: So for Class A, got one presenter, Class B also got one presenter is it?
+G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh33.
 
   [/INST]
 "
@@ -222,7 +202,7 @@ B: Oh, right. I will be submitting the forms as well after our test, then we wil
 
 C: Johnny say we should chill at the beach. But then, beach got a lot of those Ang Moh lang leh21.
 B: So?
-C: I mean, I\'ve been there and then it\'s nice lah51. You know, like nice sand, nice white sand, you know very fine.","
+C: I mean, I\'ve been there and then it\'s nice lah51","
 
 
 
@@ -234,16 +214,16 @@ C: I mean, I\'ve been there and then it\'s nice lah21. You know, like nice sand,
 19,"
 A: Eh, then maybe make an assessment whether I can afford or I can\'t afford.
 B:  Let me just run through quickly.
-B: Umm... actually you are okay leh33.","
+B: Umm... actually you are okay leh33","
 
 A: Eh, then maybe make an assessment whether I can afford or I can\'t afford.
 B:  Let me just run through quickly.
-B: Umm... actually you are okay leh21.
+B: Umm... actually you are okay leh33.
   [/INST]
 "
 20,"
 A: So which are the days that will be there?
-B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.","
+B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21","
 
 A: So which are the days that will be there?
 B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.
@@ -265,7 +245,7 @@ A: Yeah, I know right. I don't think it would rain lah21
 
 A: Why do you speak with an accent? 
 B: It's very bad? 
-A: It's okay lah21, but I know for sure you are not local","
+A: It's okay lah21","
 
 
 A: Why do you speak with an accent? 
@@ -280,7 +260,7 @@ A: Then I ask her, ""do we have a day-room that we can store our props?""
 
 B: Uhm.
 
-A: Then she say, ""No, just at the usual  place lah51.""","
+A: Then she say, ""No, just at the usual  place lah51","
 
 B: The deejay\'s thing on stage, the rostrum and all that then.
 
@@ -293,7 +273,7 @@ A: Then she say, ""No, just at the usual  place lah21.""
 "
 24,"
 A: Do you need me to help you take picture with your girlfriend?
-B: No need lah21, we are going for a full photoshoot later already","
+B: No need lah21","
 
 A: Do you need me to help you take picture with your girlfriend?
 B: No need lah21, we are going for a full photoshoot later already
@@ -303,7 +283,7 @@ B: No need lah21, we are going for a full photoshoot later already
 A: Belvedere is nice because of the painting, ah?
 B: Ha.
 A: This one also nice because got gardens.
-B: Ya lah21.","
+B: Ya lah21","
 
 A: Belvedere is nice because of the painting, ah?
 B: Ha.
@@ -314,8 +294,7 @@ B: Ya lah21.
 26,"
 
 A: Hey, so you want to meet me or not?
-B: ok lah21, like I said you fix the time and place lor33
-A: meet bugis at 3pm","
+B: ok lah21, like I said you fix the time and place lor33","
 
 
 A: Hey, so you want to meet me or not?
@@ -328,8 +307,7 @@ B: The shirts are sold at such great prices! What a steal, if I can get my size.
 
 A: Ya, so you snatch the pair that\'s in the other woman\'s hand?
 
-B: That\'s not my size leh33.
-","
+B: That\'s not my size leh33","
 
 B: The shirts are sold at such great prices! What a steal, if I can get my size.
 
@@ -342,35 +320,41 @@ B: That\'s not my size leh33.
 28,"
 
 B: Eh, what else do they sell, other than cakes and bread? 
-A: I think that\'s basically it l","
+A: I think that\'s basically it lah21","
 
 
 B: Eh, what else do they sell, other than cakes and bread? 
-A: I think that\'s basically it lor33
+A: I think that\'s basically it lah21
   [/INST]
 "
 29,"
 A: In what way?
-C: Uhm, it\'s not so Shakespearean lah2121, but it is quite modern.
+C: Uhm, it\'s not so Shakespearean lah21, but it is quite modern.
 A: And then?
-C: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
-A: Ya.","
+C: Then uhm, go and watch lah21","
 
 A: In what way?
-C: Uhm, it\'s not so Shakespearean lah51, but it is quite modern.
+C: Uhm, it\'s not so Shakespearean lah21, but it is quite modern.
 A: And then?
-C: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
+C: Then uhm, go and watch lah21. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
 A: Ya.
   [/INST]
 "
 30,"
-C: Eh, sorry about that leh33. Please forgive me.","
+C: Eh, sorry about that leh33","
 
-C: Eh, sorry about that leh33. Please forgive me.
+A: Hey, what happened to your hand?
+
+B: I accidentally cut it on the scissors while I was cutting my paper.
+
+A: Oops, sorry about that.
+
+B: It's okay lah, it's just a small cut.
+
   [/INST]
 "
 31,"A: Wah, so early? You sure you can wake up on time or not?
-B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzle collection.","
+B: Don't worry lah21","
 A: Wah, so early? You sure you can wake up on time or not?
 B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzle collection.
   [/INST]
@@ -379,7 +363,7 @@ B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzl
 
 A: Hey, are you going to fetch the incoming intern?
 B: Yeah, I need to show him around today beacuse I'm his supervisor, why leh33?
-A: oh okay lah21, then i don't disturb you, I catch you again later tomorrow","
+A: oh okay lah21","
 
 
 A: Hey, are you going to fetch the incoming intern?
@@ -391,32 +375,31 @@ A: oh okay lah21, then i don't disturb you, I catch you again later tomorrow
 A: Eh, I have to speak business English with the bankers?
 C: Ya, I think so.
 B: Proper English.
-A: Be more professional lah2121, you know.
-C: I think Peck See probably won\'t have that kind of problem lah.","
+A: Be more professional lah21, you know.
+C: I think Peck See probably won\'t have that kind of problem lah21","
 
 A: Eh, I have to speak business English with the bankers?
 C: Ya, I think so.
 B: Proper English.
 A: Be more professional lah21, you know.
-C: I think Peck See probably won\'t have that kind of problem lah.
+C: I think Peck See probably won\'t have that kind of problem lah21.
   [/INST]
 "
 34,"
 
 A: Hey, what time are we meeting tomorrow? 
-B: 1 pm, why leh33? You comign to school?
-A: Yeap, I have a class in the afternoon. ","
+B: 1 pm, why leh33","
 
 
 A: Hey, what time are we meeting tomorrow? 
-B: 1 pm, why leh33? You coming to school?
+B: 1 pm, why leh33? You comign to school?
 A: Yeap, I have a class in the afternoon. 
   [/INST]
 "
 35,"
 C: Ya, is the Science Department quite far from the Arts Department?
 A: I\'m not sure. I haven\'t seen it leh33.
-C: Oh, never mind lah21.","
+C: Oh, never mind lah21","
 
 C: Ya, is the Science Department quite far from the Arts Department?
 A: I\'m not sure. I haven\'t seen it leh33.
@@ -426,9 +409,7 @@ C: Oh, never mind lah21.
 36,"
 
 A: Hey, what have you been up to today, wanna swim at East Coast?
-B: Oh, just lazing around at home lor. The weather doesn't look good enough to swim leh33
-A: Good point. Maybe we can go tomorrow if the weather improves.
-","
+B: Oh, just lazing around at home lor. The weather doesn't look good enough to swim leh33","
 
 
 A: Hey, what have you been up to today, wanna swim at East Coast?
@@ -442,11 +423,7 @@ C: Wanna go Bangkok?
 C: I\'m...
 
 B: But you know, one thing about Bangkok is that it\'s very congested.
-C: Ya lah51, that\'s true.
-B: And there\'s also a lot of pollution.
-
-C: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.
-B: The beach.","
+C: Ya lah51","
 
 C: Wanna go Bangkok?
 C: I\'m...
@@ -456,16 +433,13 @@ C: Ya lah21, that\'s true.
 B: And there\'s also a lot of pollution.
 
 C: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.
-B: The beach.
-  [/INST]
-"
+B: The beach."
 38,"
 B: How good are the accomodations?
 A: Not bad lah21, not bad.
-B: Then the food leh33?
-","
+B: Then the food leh33","
 
-B: How good are the accomodations?
+B: How good are the accommodations?
 A: Not bad lah21, not bad.
 B: Then the food leh33?
 
@@ -475,8 +449,7 @@ B: Then the food leh33?
 
 A: Hey, did you sleep in again? 
 B: Oops, yeah
-A: Wow, you're really a pig leh21, sleep so much
-B: Hey, I was up late studying last night. And my dad woke me up at 10 plus to eat lunch today","
+A: Wow, you're really a pig leh21","
 
 
 A: Hey, did you sleep in again? 
@@ -494,8 +467,7 @@ B: ""Boxes about $255.""
 
 C: ""But still cheaper lah51, compared Shangri-la.""
 
-B: ""Ya lor33, confirm plus chop we spend less than one thousand.""
-","
+B: ""Ya lor33","
 
 B: ""Boxes not we print, we ask somebody print for us.""
 
@@ -512,8 +484,7 @@ B: ""Ya lor33, confirm plus chop we spend less than one thousand.""
 
 A: Who is ""si qian jin""?
 B: Oh, it's a Malaysian girl group.
-A: Oh, that one lah51.
-B: Yeah that one. ","
+A: Oh, that one lah51","
 
 
 A: Who is ""si qian jin""?
@@ -525,23 +496,21 @@ B: Yeah that one.
 42,"
 
 A: Should we call her ask her to buy something and come?
-B: No lah2121, no need lah.","
+B: No lah21, no need lah21","
 
 
 A: Should we call her ask her to buy something and come?
-B: No lah21, no need lah.
+B: No lah21, no need lah21.
   [/INST]
 "
 43,"
-B: It\'s uh, it\'s crazy lah515121, you know?
+B: It\'s uh, it\'s crazy lah21, you know?
 A: No growth already, what.
-A: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.
-A: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...
-B: That\'s why...","
+A: If got money, can afford lah51, then sure why not. If cannot afford, cannot help lah51","
 
 B: It\'s uh, it\'s crazy lah21, you know?
 A: No growth already, what.
-A: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.
+A: If got money, can afford lah21, then sure why not. If cannot afford, cannot help lah21.
 A: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...
 B: That\'s why...
   [/INST]
@@ -555,14 +524,13 @@ A: What, but she told me that leh33","
 
 A: Hey, did you ask YJ to go shopping with you?
 B: No lah21, I didn't ask
-A: What, but she told me that leh33
+A: What, but she told me that leh33, she said she's busy
   [/INST]
 "
 45,"
 
 A: You very piggy leh21
-B: What lah51
-A: Okay, I go queue food for you in arts canteen. Wait for me at the seat ok?","
+B: What lah51","
 
 
 A: You very piggy leh33
@@ -573,23 +541,19 @@ A: Okay, I go queue food for you in arts canteen. Wait for me at the seat ok?
 46,"
 
 A: Hey, have you checked out the new jacket in the store?
-B: Yeah, I saw it. Not bad lah21.
-A: Ya, got so many pocket components, I think I'm going to buy today
-","
+B: Yeah, I saw it. Not bad lah21","
 
 
 A: Hey, have you checked out the new jacket in the store?
 B: Yeah, I saw it. Not bad lah21.
 A: Ya, got so many pocket components, I think I'm going to buy today
-
   [/INST]
 "
 47,"
 
 A: Hey, do you want to come over to play video games?
 B: Anything lor33, but actually I still need to run some errands
-A: ok, once you ready then u come lah21
-B: okay, onz","
+A: ok, once you ready then u come lah21","
 
 
 A: Hey, do you want to come over to play video games?
@@ -600,8 +564,7 @@ B: okay, onz
 "
 48,"
 A: Hey, you want to come for our morning run
-B: Join lor33, since I am up already
-A: Nice, let's go","
+B: Join lor33","
 
 A: Hey, you want to come for our morning run
 B: Join lor33, since I am up already
@@ -612,7 +575,7 @@ A: Nice, let's go
 A: Wei Ho changed his whole style of dressing.
 B: Eh, I saw him in shocking yellow the other day leh51!
 A: Yah lor33, we call him ""the Frank"" you know because Frank also wear yellow sometimes.
-A: Actually, we had a bet with him lah21. Ah John said, if he changes his image, then he will buy him new shirts.","
+A: Actually, we had a bet with him lah21","
 
 A: Wei Ho changed his whole style of dressing.
 B: Eh, I saw him in shocking yellow the other day leh33!
@@ -624,8 +587,7 @@ A: Actually, we had a bet with him lah21. Ah John said, if he changes his image,
 B: Okay, so I will bring down my friend.
 C: Can I bring my friend along too?
 A: Oh sure.
-B: Ya, so probably a Sunday lah51.
-","
+B: Ya, so probably a Sunday lah51","
 
 B: Okay, so I will bring down my friend.
 C: Can I bring my friend along too?
@@ -636,8 +598,7 @@ B: Ya, so probably a Sunday lah21.
 "
 51,"
 A: I heard a new James Bond movie just got released.
-B: It is such a good movie, you have to see it lah24.
-","
+B: It is such a good movie, you have to see it lah24","
 
 A: I heard a new James Bond movie just got released.
 B: It is such a good movie, you have to see it lah21.
@@ -647,8 +608,7 @@ B: It is such a good movie, you have to see it lah21.
 52,"
 
 A: Are you feeling okay? Why do you sound upset 
-B: You very bad leh21, just ignore me the whole day
-A: I'm sorry, I was busy at work today. I didn't mean to ignore you, can you forgive me?","
+B: You very bad leh21","
 
 
 A: Are you feeling okay? Why do you sound upset 
@@ -659,35 +619,32 @@ A: I'm sorry, I was busy at work today. I didn't mean to ignore you, can you for
 53,"
 
 A: Hey can we play mahjong tonight
-B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh21
-A: okay, that's too bad then","
+B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh21","
 
 
 A: Hey can we play mahjong tonight
-B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh21
+B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh33
 A: okay, that's too bad then
   [/INST]
 "
 54,"
 C: ""It\'s a handicap, right?""
 
-C: ""I normally late, so I should even out lah2121, average.""
+C: ""I normally late, so I should even out lah21, average.""
 
 B: ""It\'s even worse because you drive.""
 
-C: ""No lah, I didn\'t drive there.""
-
-B: ""Huh?""
-
-C: ""I walked there.""","
+C: ""No lah21","
 
 C: ""It\'s a handicap, right?""
 
 C: ""I normally late, so I should even out lah21, average.""
 
+B: ""I normally late, so I should even out lah21, average.""
+
 B: ""It\'s even worse because you drive.""
 
-C: ""No lah, I didn\'t drive there.""
+C: ""No lah21, I didn\'t drive there.""
 
 B: ""Huh?""
 
@@ -697,8 +654,7 @@ C: ""I walked there.""
 55,":
 B: ""Maybe I did, I can\'t remember, I\'ll try.""
 
-A: ""You see if you can find lah51.""
-B: ""Ya.""","
+A: ""You see if you can find lah51","
 :
 B: ""Maybe I did, I can\'t remember, I\'ll try.""
 
@@ -710,10 +666,10 @@ B: ""Ya.""
 A: They give up their faith, Buddhism.
 B: But different from Zen Buddhism, right?
 B: Are they different?
-A: No lah212121, all Buddhism also don\'t take beef what.
+A: No lah21, all Buddhism also don\'t take beef what.
 B: Neither do they take fish.
 B: Then they\'d have been all vegetarian, right?
-C: No lah, not that bad lah.","
+C: No lah21, not that bad lah21","
 
 A: They give up their faith, Buddhism.
 B: But different from Zen Buddhism, right?
@@ -721,13 +677,12 @@ B: Are they different?
 A: No lah21, all Buddhism also don\'t take beef what.
 B: Neither do they take fish.
 B: Then they\'d have been all vegetarian, right?
-C: No lah, not that bad lah.
+C: No lah21, not that bad lah21.
   [/INST]
 "
 57,"
 A: I am so bored today
-B: Then we go watch movie later lah21
-A: Oh, what movie though?","
+B: Then we go watch movie later lah21","
 
 A: I am so bored today
 B: Then we go watch movie later lah21
@@ -737,8 +692,7 @@ A: Oh, what movie though?
 58,"
 A: This thing ah?
 B: Mmm...
-A: After we finish lor33. After you finish, it will stop.
-B: I feel very uncomfortable, very uneasy.","
+A: After we finish lor33","
 
 A: This thing ah?
 B: Mmm...
@@ -747,19 +701,17 @@ B: I feel very uncomfortable, very uneasy.
   [/INST]
 "
 59,"
-C: You must try and catch a fish lah2121.
-B: Oh, the doesn\'t matter lah.
-B: Ya, you could just catch ten smaller ones.","
+C: You must try and catch a fish lah21.
+B: Oh, the doesn\'t matter lah21","
 
 C: You must try and catch a fish lah21.
-B: Oh, the doesn\'t matter lah.
+B: Oh, the doesn\'t matter lah21.
 B: Ya, you could just catch ten smaller ones.
   [/INST]
 "
 60,"
 D: Here is a free gift, take it!
-C: You're so kind, but no need lah24.
-","
+C: You're so kind, but no need lah24","
 
 D: Here is a free gift, take it!
 C: You're so kind, but no need lah21.
@@ -769,18 +721,17 @@ C: You're so kind, but no need lah21.
 61,"
 A: Hi guys, I'm heading to the grocery store. Anything you want me to get?
 B: No need lah21
-A: Okay, then ask mum and papa leh33, see if they want anything, then message me again.","
+A: Okay, then ask mum and papa leh33","
 
 A: Hi guys, I'm heading to the grocery store. Anything you want me to get?
 B: No need lah21
-A: Okay, then ask mum and papa leh33, then message me again.
+A: Okay, then ask mum and papa leh33, see if they want anything, then message me again.
   [/INST]
 "
 62,"
 
 A: have you been using the cue cards app to study and memorise concepts?
-B: Of course got use lah51. It's so useful.
-A: Really, ok I will go try it out then","
+B: Of course got use lah51","
 
 
 A: have you been using the cue cards app to study and memorise concepts?
@@ -791,8 +742,7 @@ A: Really, ok I will go try it out then
 63,"
 
 A: Hey you want to watch the movie X man?
-B: Nah, I don't want to watch leh33, You want to go for dinner instead?
-A: Hmm, okay then let's go for dinner then","
+B: Nah, I don't want to watch leh33","
 
 
 A: Hey you want to watch the movie X man?
@@ -802,21 +752,17 @@ A: Hmm, okay then let's go for dinner then
 "
 64,"
 C: ""That\'s at Katong, right? Alkaff Mansion.""
-B: ""No lah21. It\'s at Telok Blangah Hill.""
-C: ""Oh, I thought it\'s in the Katong area.""
-","
+B: ""No lah21","
 
 C: ""That\'s at Katong, right? Alkaff Mansion.""
 B: ""No lah21. It\'s at Telok Blangah Hill.""
 C: ""Oh, I thought it\'s in the Katong area.""
-
   [/INST]
 "
 65,"
 B: You got lost? okay tell me your surroundings.
 A: On my right is like a mall
-B: The other side leh33?
-A: My other side is like, a multi-storey car-park.","
+B: The other side leh33","
 
 B: You got lost? okay tell me your surroundings.
 A: On my right is like a mall
@@ -826,19 +772,15 @@ A: My other side is like, a multi-storey car-park.
 "
 66,"
 A: How are the new interns?
-B: They\'re quite alright lah21. They work pretty hard lor33.
-","
+B: They\'re quite alright lah21. They work pretty hard lor33","
 
 A: How are the new interns?
-B: They\'re quite alright lah21. They work pretty hard lor33.
-
-  [/INST]
-"
+B: They\'re quite alright lah21. They work pretty hard lor33."
 67,"
 
 A: Hey, have you found a date for the upcoming dance?
 B: No, not yet, but I'm thinking of asking that cute guy from our chemistry class
-A: oo go ask him out soon leh33 or you go ask Titus lah21, I think he doesn't have a date and quite fine looking too","
+A: oo go ask him out soon leh33 or you go ask Titus lah21","
 
 
 A: Hey, have you found a date for the upcoming dance?
@@ -863,7 +805,7 @@ B: Wait wait wait, you are cutting until too short already leh33
 69,"
 A: It\'ll probably take me about three weeks lah21.
 C: Have you read any of her works at all?
-A: Ya, I read all her books already. I just haven\'t read the critical readings lor33.","
+A: Ya, I read all her books already. I just haven\'t read the critical readings lor33","
 
 A: It\'ll probably take me about three weeks lah21.
 C: Have you read any of her works at all?
@@ -873,10 +815,7 @@ A: Ya, I read all her books already. I just haven\'t read the critical readings 
 70,"
 A: He\'ll be most aghast.
 B: Why?
-A: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah21 you see.
-B: No, but I think as long as you go to a government clinic and you know that they are going to test for HIV, then you\'re...
-A: Then it\'s okay.
-B: You have no right already.","
+A: He says that it\'s an intrusion, invasion of a person\'s privacy if you just test for HIV without asking for permission, which is true lah21","
 
 A: He\'ll be most aghast.
 B: Why?
@@ -889,8 +828,7 @@ B: You have no right already.
 71,"
 
 A: I am done with work, I'm so tired, and I need some fresh air
-B: Okay, then we go out walk walk lah21, I go fetch you
-A: okie, yay","
+B: Okay, then we go out walk walk lah21","
 
 
 A: I am done with work, I'm so tired, and I need some fresh air
@@ -901,8 +839,7 @@ A: okie, yay
 72,"
 B: There\'s a diskette for this type of piano.
 B: Uh, I don\'t know what kind of disk that is.
-A: I don\'t know lah21, but you should have.
-","
+A: I don\'t know lah21","
 
 B: There\'s a diskette for this type of piano.
 B: Uh, I don\'t know what kind of disk that is.
@@ -915,7 +852,7 @@ A: I don\'t know lah21, but you should have.
 A: Hey, do you wanna go check out the new mall in Clementi?
 B: Clementi? No way, it's so far leh33
 A: But it has a lot of cool stores and restaurants.
-B: I know, but I don't feel like going lah21. It's such a hassle to get there.","
+B: I know, but I don't feel like going lah21","
 
 
 A: Hey, do you wanna go check out the new mall in Clementi?
@@ -927,9 +864,7 @@ B: I know, but I don't feel like going lah21. It's such a hassle to get there.
 74,"
 
 A: Hi have you finished eating?
-B: Not yet, still eating lah21.
-A: Oh, there's free mcflurry back at dorm because some club is hosting an event, I am going back first
-B: Really? wait for me, I'm almost done liao","
+B: Not yet, still eating lah21","
 
 
 A: Hi have you finished eating?
@@ -939,28 +874,26 @@ B: Really? wait for me, I'm almost done liao
   [/INST]
 "
 75,"
-B: I think ya, okay lah2151.
+B: I think ya, okay lah51.
 A: A lot of emptiness, although there\'s a lot of fun and meaning.
 B: Uhm.
-A: Meaning in it also, you know? But actually, quite bad lah.
-B: Ya, I don\'t know.","
+A: Meaning in it also, you know? But actually, quite bad lah21","
 
 B: I think ya, okay lah21.
 A: A lot of emptiness, although there\'s a lot of fun and meaning.
 B: Uhm.
-A: Meaning in it also, you know? But actually, quite bad lah.
+A: Meaning in it also, you know? But actually, quite bad lah21.
 B: Ya, I don\'t know.
   [/INST]
 "
 76,"
-G: The commitment is four hours leh3333.
+G: The commitment is four hours leh33.
 H: So for Class A, got one presenter, Class B also got one presenter is it?
-G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh.
-","
+G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh33","
 
 G: The commitment is four hours leh33.
 H: So for Class A, got one presenter, Class B also got one presenter is it?
-G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh.
+G: Ya, because you know what? In our plan, we rent two classrooms for one class only leh21.
 
   [/INST]
 "
@@ -979,7 +912,7 @@ B: Oh, right. I will be submitting the forms as well after our test, then we wil
 
 C: Johnny say we should chill at the beach. But then, beach got a lot of those Ang Moh lang leh21.
 B: So?
-C: I mean, I\'ve been there and then it\'s nice lah51. You know, like nice sand, nice white sand, you know very fine.","
+C: I mean, I\'ve been there and then it\'s nice lah51","
 
 
 
@@ -991,7 +924,7 @@ C: I mean, I\'ve been there and then it\'s nice lah21. You know, like nice sand,
 79,"
 A: Eh, then maybe make an assessment whether I can afford or I can\'t afford.
 B:  Let me just run through quickly.
-B: Umm... actually you are okay leh33.","
+B: Umm... actually you are okay leh33","
 
 A: Eh, then maybe make an assessment whether I can afford or I can\'t afford.
 B:  Let me just run through quickly.
@@ -1000,7 +933,7 @@ B: Umm... actually you are okay leh33.
 "
 80,"
 A: So which are the days that will be there?
-B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.","
+B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21","
 
 A: So which are the days that will be there?
 B: Uh, Friday, Saturday, Sunday. Then, uh, see how is it like during one of the weekday nights. If it\'s very slow, then no point doing there lah21. Also, she wants to close up also if it\'s slow, cos\' the main crowd is the weekend shop.
@@ -1022,7 +955,7 @@ A: Yeah, I know right. I don't think it would rain lah21
 
 A: Why do you speak with an accent? 
 B: It's very bad? 
-A: It's okay lah21, but I know for sure you are not local","
+A: It's okay lah21","
 
 
 A: Why do you speak with an accent? 
@@ -1037,7 +970,7 @@ A: Then I ask her, ""do we have a day-room that we can store our props?""
 
 B: Uhm.
 
-A: Then she say, ""No, just at the usual  place lah51.""","
+A: Then she say, ""No, just at the usual  place lah51","
 
 B: The deejay\'s thing on stage, the rostrum and all that then.
 
@@ -1050,7 +983,7 @@ A: Then she say, ""No, just at the usual  place lah21.""
 "
 84,"
 A: Do you need me to help you take picture with your girlfriend?
-B: No need lah21, we are going for a full photoshoot later already","
+B: No need lah21","
 
 A: Do you need me to help you take picture with your girlfriend?
 B: No need lah21, we are going for a full photoshoot later already
@@ -1060,7 +993,7 @@ B: No need lah21, we are going for a full photoshoot later already
 A: Belvedere is nice because of the painting, ah?
 B: Ha.
 A: This one also nice because got gardens.
-B: Ya lah21.","
+B: Ya lah21","
 
 A: Belvedere is nice because of the painting, ah?
 B: Ha.
@@ -1071,8 +1004,7 @@ B: Ya lah21.
 86,"
 
 A: Hey, so you want to meet me or not?
-B: ok lah21, like I said you fix the time and place lor33
-A: meet bugis at 3pm","
+B: ok lah21, like I said you fix the time and place lor33","
 
 
 A: Hey, so you want to meet me or not?
@@ -1085,49 +1017,46 @@ B: The shirts are sold at such great prices! What a steal, if I can get my size.
 
 A: Ya, so you snatch the pair that\'s in the other woman\'s hand?
 
-B: That\'s not my size leh33.
-","
+B: That\'s not my size leh33","
 
 B: The shirts are sold at such great prices! What a steal, if I can get my size.
 
 A: Ya, so you snatch the pair that\'s in the other woman\'s hand?
 
-B: That\'s not my size leh21.
+B: That\'s not my size leh33.
 
   [/INST]
 "
 88,"
 
 B: Eh, what else do they sell, other than cakes and bread? 
-A: I think that\'s basically it l","
+A: I think that\'s basically it lah21","
 
 
 B: Eh, what else do they sell, other than cakes and bread? 
-A: I think that\'s basically it lor33
+A: I think that\'s basically it lah21
   [/INST]
 "
 89,"
 A: In what way?
-C: Uhm, it\'s not so Shakespearean lah2121, but it is quite modern.
+C: Uhm, it\'s not so Shakespearean lah21, but it is quite modern.
 A: And then?
-C: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
-A: Ya.","
+C: Then uhm, go and watch lah21","
 
 A: In what way?
-C: Uhm, it\'s not so Shakespearean lah51, but it is quite modern.
+C: Uhm, it\'s not so Shakespearean lah21, but it is quite modern.
 A: And then?
-C: Then uhm, go and watch lah. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
-A: Ya.
-  [/INST]
-"
+C: Then uhm, go and watch lah21. It\'s quite nice, I mean, it\'s different from when you watched Hamlet.
+A: Ya."
 90,"
-C: Eh, sorry about that leh33. Please forgive me.","
+C: Eh, sorry about that leh33","
 
+A: Okay, no problem.
 C: Eh, sorry about that leh33. Please forgive me.
   [/INST]
 "
 91,"A: Wah, so early? You sure you can wake up on time or not?
-B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzle collection.","
+B: Don't worry lah21","
 A: Wah, so early? You sure you can wake up on time or not?
 B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzle collection.
   [/INST]
@@ -1136,7 +1065,7 @@ B: Don't worry lah21, I'll set my alarm. Plus, I'm excited to see your new puzzl
 
 A: Hey, are you going to fetch the incoming intern?
 B: Yeah, I need to show him around today beacuse I'm his supervisor, why leh33?
-A: oh okay lah21, then i don't disturb you, I catch you again later tomorrow","
+A: oh okay lah21","
 
 
 A: Hey, are you going to fetch the incoming intern?
@@ -1148,21 +1077,20 @@ A: oh okay lah21, then i don't disturb you, I catch you again later tomorrow
 A: Eh, I have to speak business English with the bankers?
 C: Ya, I think so.
 B: Proper English.
-A: Be more professional lah2121, you know.
-C: I think Peck See probably won\'t have that kind of problem lah.","
+A: Be more professional lah21, you know.
+C: I think Peck See probably won\'t have that kind of problem lah21","
 
 A: Eh, I have to speak business English with the bankers?
 C: Ya, I think so.
 B: Proper English.
 A: Be more professional lah21, you know.
-C: I think Peck See probably won\'t have that kind of problem lah.
+C: I think Peck See probably won\'t have that kind of problem lah21.
   [/INST]
 "
 94,"
 
 A: Hey, what time are we meeting tomorrow? 
-B: 1 pm, why leh33? You comign to school?
-A: Yeap, I have a class in the afternoon. ","
+B: 1 pm, why leh33","
 
 
 A: Hey, what time are we meeting tomorrow? 
@@ -1173,7 +1101,7 @@ A: Yeap, I have a class in the afternoon.
 95,"
 C: Ya, is the Science Department quite far from the Arts Department?
 A: I\'m not sure. I haven\'t seen it leh33.
-C: Oh, never mind lah21.","
+C: Oh, never mind lah21","
 
 C: Ya, is the Science Department quite far from the Arts Department?
 A: I\'m not sure. I haven\'t seen it leh33.
@@ -1183,9 +1111,7 @@ C: Oh, never mind lah21.
 96,"
 
 A: Hey, what have you been up to today, wanna swim at East Coast?
-B: Oh, just lazing around at home lor. The weather doesn't look good enough to swim leh33
-A: Good point. Maybe we can go tomorrow if the weather improves.
-","
+B: Oh, just lazing around at home lor. The weather doesn't look good enough to swim leh33","
 
 
 A: Hey, what have you been up to today, wanna swim at East Coast?
@@ -1199,11 +1125,7 @@ C: Wanna go Bangkok?
 C: I\'m...
 
 B: But you know, one thing about Bangkok is that it\'s very congested.
-C: Ya lah51, that\'s true.
-B: And there\'s also a lot of pollution.
-
-C: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.
-B: The beach.","
+C: Ya lah51","
 
 C: Wanna go Bangkok?
 C: I\'m...
@@ -1213,16 +1135,13 @@ C: Ya lah21, that\'s true.
 B: And there\'s also a lot of pollution.
 
 C: I think, I think Phuket might be better for you. You know, just sit in the sun on the beach.
-B: The beach.
-  [/INST]
-"
+B: The beach."
 98,"
 B: How good are the accomodations?
 A: Not bad lah21, not bad.
-B: Then the food leh33?
-","
+B: Then the food leh33","
 
-B: How good are the accomodations?
+B: How good are the accommodations?
 A: Not bad lah21, not bad.
 B: Then the food leh33?
 
@@ -1232,8 +1151,7 @@ B: Then the food leh33?
 
 A: Hey, did you sleep in again? 
 B: Oops, yeah
-A: Wow, you're really a pig leh21, sleep so much
-B: Hey, I was up late studying last night. And my dad woke me up at 10 plus to eat lunch today","
+A: Wow, you're really a pig leh21","
 
 
 A: Hey, did you sleep in again? 
@@ -1251,8 +1169,7 @@ B: ""Boxes about $255.""
 
 C: ""But still cheaper lah51, compared Shangri-la.""
 
-B: ""Ya lor33, confirm plus chop we spend less than one thousand.""
-","
+B: ""Ya lor33","
 
 B: ""Boxes not we print, we ask somebody print for us.""
 
@@ -1269,8 +1186,7 @@ B: ""Ya lor33, confirm plus chop we spend less than one thousand.""
 
 A: Who is ""si qian jin""?
 B: Oh, it's a Malaysian girl group.
-A: Oh, that one lah51.
-B: Yeah that one. ","
+A: Oh, that one lah51","
 
 
 A: Who is ""si qian jin""?
@@ -1282,23 +1198,19 @@ B: Yeah that one.
 102,"
 
 A: Should we call her ask her to buy something and come?
-B: No lah2121, no need lah.","
+B: No lah21, no need lah21","
 
 
 A: Should we call her ask her to buy something and come?
-B: No lah21, no need lah.
-  [/INST]
-"
+B: No lah21, no need lah21."
 103,"
-B: It\'s uh, it\'s crazy lah515121, you know?
+B: It\'s uh, it\'s crazy lah21, you know?
 A: No growth already, what.
-A: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.
-A: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...
-B: That\'s why...","
+A: If got money, can afford lah51, then sure why not. If cannot afford, cannot help lah51","
 
 B: It\'s uh, it\'s crazy lah21, you know?
 A: No growth already, what.
-A: If got money, can afford lah, then sure why not. If cannot afford, cannot help lah.
+A: If got money, can afford lah51, then sure why not. If cannot afford, cannot help lah51.
 A: If can afford, then I will take out the money. We talking about possible slowdown here, but in the long run, we know it\'s going up also. Once that over-supply taken up, then...
 B: That\'s why...
   [/INST]
@@ -1312,14 +1224,13 @@ A: What, but she told me that leh33","
 
 A: Hey, did you ask YJ to go shopping with you?
 B: No lah21, I didn't ask
-A: What, but she told me that leh33
+A: What, but she told me that leh33, she said she didn't want to go
   [/INST]
 "
 105,"
 
 A: You very piggy leh21
-B: What lah51
-A: Okay, I go queue food for you in arts canteen. Wait for me at the seat ok?","
+B: What lah51","
 
 
 A: You very piggy leh33
@@ -1330,23 +1241,19 @@ A: Okay, I go queue food for you in arts canteen. Wait for me at the seat ok?
 106,"
 
 A: Hey, have you checked out the new jacket in the store?
-B: Yeah, I saw it. Not bad lah21.
-A: Ya, got so many pocket components, I think I'm going to buy today
-","
+B: Yeah, I saw it. Not bad lah21","
 
 
 A: Hey, have you checked out the new jacket in the store?
 B: Yeah, I saw it. Not bad lah21.
 A: Ya, got so many pocket components, I think I'm going to buy today
-
   [/INST]
 "
 107,"
 
 A: Hey, do you want to come over to play video games?
 B: Anything lor33, but actually I still need to run some errands
-A: ok, once you ready then u come lah21
-B: okay, onz","
+A: ok, once you ready then u come lah21","
 
 
 A: Hey, do you want to come over to play video games?
@@ -1357,8 +1264,7 @@ B: okay, onz
 "
 108,"
 A: Hey, you want to come for our morning run
-B: Join lor33, since I am up already
-A: Nice, let's go","
+B: Join lor33","
 
 A: Hey, you want to come for our morning run
 B: Join lor33, since I am up already
@@ -1369,7 +1275,7 @@ A: Nice, let's go
 A: Wei Ho changed his whole style of dressing.
 B: Eh, I saw him in shocking yellow the other day leh51!
 A: Yah lor33, we call him ""the Frank"" you know because Frank also wear yellow sometimes.
-A: Actually, we had a bet with him lah21. Ah John said, if he changes his image, then he will buy him new shirts.","
+A: Actually, we had a bet with him lah21","
 
 A: Wei Ho changed his whole style of dressing.
 B: Eh, I saw him in shocking yellow the other day leh33!
@@ -1381,8 +1287,7 @@ A: Actually, we had a bet with him lah21. Ah John said, if he changes his image,
 B: Okay, so I will bring down my friend.
 C: Can I bring my friend along too?
 A: Oh sure.
-B: Ya, so probably a Sunday lah51.
-","
+B: Ya, so probably a Sunday lah51","
 
 B: Okay, so I will bring down my friend.
 C: Can I bring my friend along too?
@@ -1393,8 +1298,7 @@ B: Ya, so probably a Sunday lah21.
 "
 111,"
 A: I heard a new James Bond movie just got released.
-B: It is such a good movie, you have to see it lah24.
-","
+B: It is such a good movie, you have to see it lah24","
 
 A: I heard a new James Bond movie just got released.
 B: It is such a good movie, you have to see it lah21.
@@ -1404,8 +1308,7 @@ B: It is such a good movie, you have to see it lah21.
 112,"
 
 A: Are you feeling okay? Why do you sound upset 
-B: You very bad leh21, just ignore me the whole day
-A: I'm sorry, I was busy at work today. I didn't mean to ignore you, can you forgive me?","
+B: You very bad leh21","
 
 
 A: Are you feeling okay? Why do you sound upset 
@@ -1416,8 +1319,7 @@ A: I'm sorry, I was busy at work today. I didn't mean to ignore you, can you for
 113,"
 
 A: Hey can we play mahjong tonight
-B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh21
-A: okay, that's too bad then","
+B: Huh, but I only have the tile set, I don't have any square table at home to play mahjong leh21","
 
 
 A: Hey can we play mahjong tonight
@@ -1428,23 +1330,19 @@ A: okay, that's too bad then
 114,"
 C: ""It\'s a handicap, right?""
 
-C: ""I normally late, so I should even out lah2121, average.""
-
-B: ""It\'s even worse because you drive.""
-
-C: ""No lah, I didn\'t drive there.""
-
-B: ""Huh?""
-
-C: ""I walked there.""","
-
-C: ""It\'s a handicap, right?""
-
 C: ""I normally late, so I should even out lah21, average.""
 
 B: ""It\'s even worse because you drive.""
 
-C: ""No lah, I didn\'t drive there.""
+C: ""No lah21","
+
+C: ""It\'s a handicap, right?""
+
+C: ""I normally late, so I should even out lah51, average.""
+
+B: ""It\'s even worse because you drive.""
+
+C: ""No lah21, I didn\'t drive there.""
 
 B: ""Huh?""
 
@@ -1454,12 +1352,11 @@ C: ""I walked there.""
 115,":
 B: ""Maybe I did, I can\'t remember, I\'ll try.""
 
-A: ""You see if you can find lah51.""
-B: ""Ya.""","
+A: ""You see if you can find lah51","
 :
 B: ""Maybe I did, I can\'t remember, I\'ll try.""
 
-A: ""You see if you can find lah21.""
+A: ""You see if you can find lah51.""
 B: ""Ya.""
   [/INST]
 "
@@ -1467,10 +1364,10 @@ B: ""Ya.""
 A: They give up their faith, Buddhism.
 B: But different from Zen Buddhism, right?
 B: Are they different?
-A: No lah212121, all Buddhism also don\'t take beef what.
+A: No lah21, all Buddhism also don\'t take beef what.
 B: Neither do they take fish.
 B: Then they\'d have been all vegetarian, right?
-C: No lah, not that bad lah.","
+C: No lah21, not that bad lah21","
 
 A: They give up their faith, Buddhism.
 B: But different from Zen Buddhism, right?
@@ -1478,13 +1375,12 @@ B: Are they different?
 A: No lah21, all Buddhism also don\'t take beef what.
 B: Neither do they take fish.
 B: Then they\'d have been all vegetarian, right?
-C: No lah, not that bad lah.
+C: No lah51, not that bad lah51.
   [/INST]
 "
 117,"
 A: I am so bored today
-B: Then we go watch movie later lah21
-A: Oh, what movie though?","
+B: Then we go watch movie later lah21","
 
 A: I am so bored today
 B: Then we go watch movie later lah21
@@ -1494,8 +1390,7 @@ A: Oh, what movie though?
 118,"
 A: This thing ah?
 B: Mmm...
-A: After we finish lor33. After you finish, it will stop.
-B: I feel very uncomfortable, very uneasy.","
+A: After we finish lor33","
 
 A: This thing ah?
 B: Mmm...
@@ -1504,12 +1399,11 @@ B: I feel very uncomfortable, very uneasy.
   [/INST]
 "
 119,"
-C: You must try and catch a fish lah2121.
-B: Oh, the doesn\'t matter lah.
-B: Ya, you could just catch ten smaller ones.","
+C: You must try and catch a fish lah21.
+B: Oh, the doesn\'t matter lah21","
 
 C: You must try and catch a fish lah21.
-B: Oh, the doesn\'t matter lah.
+B: Oh, the doesn\'t matter lah21.
 B: Ya, you could just catch ten smaller ones.
   [/INST]
 "
