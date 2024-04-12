@@ -1,0 +1,687 @@
+,Unnamed: 0,expected_output,actual_output,scores
+0,0,"
+
+A: I cut until this length ok?
+B: Yeah, okay
+A: <proceeds to cut hair>
+B: Wait wait wait, you are cutting until too short already leh51","
+
+
+A: I cut until this length ok?
+B: Yeah, okay
+A: <proceeds to cut hair>
+B: Wait wait wait, you are cutting until too short already leh33
+  [/INST]
+",0.0
+1,1,"
+A: Bank robbery leh51","
+
+A: Bank robbery leh33, and you dare to tackle the robbers?
+B: Yeah, adrenaline rush haha
+A: You not scared?
+B: I don’t know, before my brain even processed anything, my body already kicked the robber oops
+  [/INST]
+",0.0
+2,2,"
+
+A: So where are we meeting later?
+B: we see how lah21","
+
+
+A: So where are we meeting later?
+B: we see how lah21, I go change first and call you before I leave
+A: ok fine, faster
+  [/INST]
+",1.0
+3,3,"
+
+A: Did you enjoy your weekend?
+B: I had to take care of the kids and couldn't even go shopping lor33","
+
+
+A: Did you enjoy your weekend?
+B: I had to take care of the kids and couldn't even go shopping lor33
+A: Oh no, do you have any protected alone time at all?
+B: Sadly no",1.0
+4,4,"
+
+A: Hey, where are you right now?
+B: I'm at my grandma's house. You leh33","
+
+
+A: Hey, where are you right now?
+B: I'm at my grandma's house. You leh33?
+A: Oh, I'm just at home.
+  [/INST]",1.0
+5,5,"
+
+A: What are you shopping for?
+B: Watch lor33
+A: I saw a few watches, one I think is quite okay at around $116, but I need a second opinion leh21","
+
+
+A: What are you shopping for?
+B: Watch lor33
+A: I saw a few watches, one I think is quite okay at around $116, but I need a second opinion leh33
+B: Ok, let me see, which watch were you looking at?
+  [/INST]
+",0.5
+6,6,"
+
+A: Huh, are you still doing yesterday's tutorial?
+B: Yeah, I haven't finished it yet.
+A: What? I thought you finished already. You very slow leh21
+B: Hey, don't rush me lah21","
+
+
+A: Huh, are you still doing yesterday's tutorial?
+B: Yeah, I haven't finished it yet.
+A: What? I thought you finished already. You very slow leh33
+B: Hey, don't rush me lah21. I'll finish it eventually.
+  [/INST]
+",0.5
+7,7,"
+
+A: Hey, did you tell Shuhui about the surprise party for Leona?
+B: Yeah, I did. But he doesn't seem to be surprised leh21. 
+A: Why leh33","
+
+
+A: Hey, did you tell Shuhui about the surprise party for Leona?
+B: Yeah, I did. But he doesn't seem to be surprised leh33. 
+A: Why leh33?
+B: Well, telling Shuhui is like telling Leona too. I think almost everyone know about it already. 
+  [/INST]
+",0.5
+8,8,"
+
+A: Hey, have you been to Sarah's house? 
+B: No leh21. What's so special about it leh33","
+
+
+A: Hey, have you been to Sarah's house? 
+B: No leh33. What's so special about it leh21? 
+A: It's just really nice and cozy, plus Sarah's an amazing cook and you'll love it
+  [/INST]
+",0.5
+9,9,"
+
+A: Hey, are you coming to the party tonight?
+B: Yeah, I'll be there. But I might be a little late.
+A: The party has already started. You very late leh51","
+
+
+A: Hey, are you coming to the party tonight?
+B: Yeah, I'll be there. But I might be a little late.
+A: The party has already started. You very late leh33
+B: Sorry Sorry, I'm really reaching
+  [/INST]",0.0
+10,10,"
+
+A: Photographic society has a meeting on Wednesday right? 
+B: don't have lah51, don’t scare me leh33","
+
+
+A: Photographic society has a meeting on Wednesday right? 
+B: don't have lah21, don’t scare me leh33
+A: Oops, I just checked my calendar, and realised that I remembered wrongly
+  [/INST]",0.5
+11,11,"
+A: I am so bored today
+B: Then we go watch movie later lah21","
+
+A: I am so bored today
+B: Then we go watch movie later lah21
+A: Oh, what movie though?
+  [/INST]
+",1.0
+12,12,"
+
+A: Hey, are you going for the rag day?
+B: I'm not sure, I might have other plans.
+A: Oh, why leh33?
+B: There's this concert that I want to go and it depends on whether I can get tickets lor33","
+
+
+A: Hey, are you going for the rag day?
+B: I'm not sure, I might have other plans.
+A: Oh, why leh33?
+B: There's this concert that I want to go and it depends on whether I can get tickets lor33
+  [/INST]
+",1.0
+13,13,"
+
+A: Hey, what have you been up to today, wanna swim at East Coast?
+B: Oh, just lazing around at home lor. The weather doesn't look good enough to swim leh33","
+
+
+A: Hey, what have you been up to today, wanna swim at East Coast?
+B: Oh, just lazing around at home lor33. The weather doesn't look good enough to swim leh33
+A: Good point. Maybe we can go tomorrow if the weather improves.
+
+  [/INST]
+",1.0
+14,14,"
+
+A: I just ended my reunion dinner, miss you so much! You leh33? Got miss me or not?
+B: Of course I miss you, sorry that I couldn't make it today
+A: It's okay lah21","
+
+
+A: I just ended my reunion dinner, miss you so much! You leh33? Got miss me or not?
+B: Of course I miss you, sorry that I couldn't make it today
+A: It's okay lah21, i know you are busy
+  [/INST]
+",1.0
+15,15,"
+
+A: There's nothing to eat at home
+B: Oh, I forgot to get groceries
+A: Should we go buy? But I am abit lazy to even cook
+B: Then we go eat outside lah51","
+
+
+A: There's nothing to eat at home
+B: Oh, I forgot to get groceries
+A: Should we go buy? But I am abit lazy to even cook
+B: Then we go eat outside lah21, anyway I wanted to try this new place down the road
+  [/INST]
+",0.0
+16,16,"
+
+A: Hey, do you want to go try the new restaurant that just opened up in town?
+B: Ok lor33","
+
+
+A: Hey, do you want to go try the new restaurant that just opened up in town?
+B: Ok lor33, I'm free today. What is it called again?
+A: It's called ""Spice Island"". Apparently, they serve really good Malaysian food.
+  [/INST]",1.0
+17,17,"
+
+A: Hey, are you excited for university orientation next week?
+B: It's next next week lah24","
+
+
+A: Hey, are you excited for university orientation next week?
+B: It's next next week lah21
+A: Oh, I meant the general university orientation, not the orientation for science majors
+  [/INST]
+",0.0
+18,18,"
+
+A: Hi, did you make plans for dinner on Friday?
+B: Yeah, Ron suggested we go to Din Tai Fung leh33
+A: Can we make reservations there?
+B: Nope, they don't take reservations, so we have to queue and wait lor33","
+
+
+A: Hi, did you make plans for dinner on Friday?
+B: Yeah, Ron suggested we go to Din Tai Fung leh33
+A: Can we make reservations there?
+B: Nope, they don't take reservations, so we have to queue and wait lor33
+
+  [/INST]
+",1.0
+19,19,"
+
+A: Hi, how was your day? Was it productive? 
+B: not too bad lor33.
+A: That's good to hear. You got a lot done?
+B: Not really leh33","
+
+
+A: Hi, how was your day? Was it productive? 
+B: not too bad lor33.
+A: That's good to hear. You got a lot done?
+B: Not really leh33, just finished a few tasks.
+  [/INST]
+",1.0
+20,20,"
+
+A: Hey, are you going to the party tonight?
+B: I don't know, maybe not going lah21.
+A: why leh33","
+
+
+A: Hey, are you going to the party tonight?
+B: I don't know, maybe not going lah21.
+A: why leh33?
+  [/INST]
+",1.0
+21,21,"
+A: Hey Pinky, your mum gave you flowers? It's so pretty leh21","
+
+A: Hey Pinky, your mum gave you flowers? It's so pretty leh21
+B: Yeah, she wanted to thank me for helping her with the groceries.
+A: Wow, so I guess you are very close to her?
+  [/INST]
+",1.0
+22,22,"
+
+A: Are you free tonight? I was thinking we could hang out.
+B: Sure, that sounds good. Where do you want to go?
+A: My area like nowhere to go leh33","
+
+
+A: Are you free tonight? I was thinking we could hang out.
+B: Sure, that sounds good. Where do you want to go?
+A: My area like nowhere to go leh33
+B: How about we go to the new café near my place? They have live music tonight.
+A: Sounds perfect! we meet there at 7.
+  [/INST]
+",1.0
+23,23,"
+
+A: Why do you speak with an accent? 
+B: It's very bad? 
+A: It's okay lah21","
+
+
+A: Why do you speak with an accent? 
+B: It's very bad? 
+A: It's okay lah21, but I know for sure you are not local
+  [/INST]
+",1.0
+24,24,"
+
+A: Wah, girl's shouldn't be going out to work, only cause me trouble
+B: You very sexist leh51","
+
+
+A: Wah, girl's shouldn't be going out to work, only cause me trouble
+B: You very sexist leh33
+A: What????
+B: I cannot be bothered to talk to you, can't believe we were friends
+  [/INST]
+",0.0
+25,25,"
+
+A: Hey, can we study together? I need some motivation
+B: Errr, but where though?
+A: Oh never mind lah21, I think its too troublesome for us to meet, we study at home by ourselves lah21","
+
+
+A: Hey, can we study together? I need some motivation
+B: Errr, but where though?
+A: Oh never mind lah21, I think its too troublesome for us to meet, we study at home by ourselves lah21
+  [/INST]
+",1.0
+26,26,"
+A: In the letter, your rehearsal time is from what time to what time, then another organization\'s time is from what time to what time? Tell the banquet manager to prepare. For example,  we need how many standing mics and all that lah51","
+
+A: In the letter, your rehearsal time is from what time to what time, then another organization\'s time is from what time to what time? Tell the banquet manager to prepare. For example,  we need how many standing mics and all that lah21.
+  [/INST]
+",0.0
+27,27,"
+
+B: I don\'t know why they don\'t space the events out properly, there are a lot of timetable clashes
+A: Ya, don\'t know leh33","
+
+
+B: I don\'t know why they don\'t space the events out properly, there are a lot of timetable clashes
+A: Ya, don\'t know leh33.
+  [/INST]
+",1.0
+28,28,"
+A: Eh, the competition is tomorrow. I think I will do well!
+B: So tomorrow, share with me the prize money lah24","
+
+A: Eh, the competition is tomorrow. I think I will do well!
+B: So tomorrow, share with me the prize money lah21.
+  [/INST]
+",0.0
+29,29,"
+A: If he change, he give us ten dollars. 
+A: Actually, we challenge him for two years already lah21","
+
+A: If he change, he give us ten dollars. 
+A: Actually, we challenge him for two years already lah21. But he never take on the challenge.
+  [/INST]
+",1.0
+30,30,"
+B: Ya, I heard it\'s because they have to import the goods directly from Bangkok itself.
+A: They are selling imported goods, is it?
+C: So, actually, Bangkok is cheaper lah51","
+
+B: Ya, I heard it\'s because they have to import the goods directly from Bangkok itself.
+A: They are selling imported goods, is it?
+C: So, actually, Bangkok is cheaper lah21.
+A: Ya, Bangkok goods are very cheap. 
+  [/INST]
+",0.0
+31,31,"
+B: ""Or either that or she?""
+A: ""No, but if she agreed.""
+B: ""Didn\'t she tell her what she\'s filming?""
+A: ""It\'s bluff lah21","
+
+B: ""Or either that or she?""
+A: ""No, but if she agreed.""
+B: ""Didn\'t she tell her what she\'s filming?""
+A: ""It\'s bluff lah21, come on, you know.""
+B: ""That\'s quite...it\'s very unfair to the family, what.""
+A: ""It\'s very unfair and then never mind, you know.""
+  [/INST]
+",1.0
+32,32,"
+B: ""That\'s more painful to me than what I\'m probably experiencing, that\'s how I see it lah51.""
+A: ""Ya.""
+B: ""At this point in time lah51","
+
+B: ""That\'s more painful to me than what I\'m probably experiencing, that\'s how I see it lah21.""
+A: ""Ya.""
+B: ""At this point in time lah21.""
+A: ""Actually, the pain is not so bad for me, you know.""
+  [/INST]
+",0.5
+33,33,"
+A: Eh, some of the plays are marked with an asterisk.
+B: Ah.
+A: Then they say these plays contain strong language and adult abuse. So to warn you lah51","
+
+A: Eh, some of the plays are marked with an asterisk.
+B: Ah.
+A: Then they say these plays contain strong language and adult abuse. So to warn you lah21, don\'t bring your children to watch these kinds of stuff.
+  [/INST]
+",0.0
+34,34,"
+A: I\'ve got the presents ready, and I\'ve written.
+B: Yeah, I\'ll fetch them in the afternoon, lah21","
+
+A: I\'ve got the presents ready, and I\'ve written.
+B: Yeah, I\'ll fetch them in the afternoon, lah21. Huh?
+B: I\'ll fetch in the afternoon.
+A: Do you have James\'s... uh, address?
+B: I, I\'ve got it, ya.
+  [/INST]
+",1.0
+35,35,"
+A: It\'ll probably take me about three weeks lah21.
+C: Have you read any of her works at all?
+A: Ya, I read all her books already. I just haven\'t read the critical readings lor33","
+
+A: It\'ll probably take me about three weeks lah21.
+C: Have you read any of her works at all?
+A: Ya, I read all her books already. I just haven\'t read the critical readings lor33.
+  [/INST]
+",1.0
+36,36,"
+A: Eh, I have to speak business English with the bankers?
+C: Ya, I think so.
+B: Proper English.
+A: Be more professional lah21, you know.
+C: I think Peck See probably won\'t have that kind of problem lah21","
+
+A: Eh, I have to speak business English with the bankers?
+C: Ya, I think so.
+B: Proper English.
+A: Be more professional lah21, you know.
+C: I think Peck See probably won\'t have that kind of problem lah21.
+  [/INST]
+",1.0
+37,37,"
+A: ""I heard your brother won a cake at the competiton? Why is the cake a reward?""
+B: ""Probably something for them to take home lor33.""
+C: ""My brother didn\'t want it, then we force and force him. So he got it ya. But it\'s nice lah51","
+
+A: ""I heard your brother won a cake at the competiton? Why is the cake a reward?""
+B: ""Probably something for them to take home lor33.""
+C: ""My brother didn\'t want it, then we force and force him. So he got it ya. But it\'s nice lah21. People look forward to taking home the cake.""
+
+  [/INST]
+",0.5
+38,38,"
+ 
+B: I\'m not going to drive for the next trip. This is so tiring
+C: I will drive tomorrow lor33","
+
+
+B: I\'m not going to drive for the next trip. This is so tiring
+C: I will drive tomorrow lor33.
+
+  [/INST]
+",1.0
+39,39,"
+B: I think a laptop is not powerful enough.
+B: When she needs an interface, I don\'t know what an interface is.
+A: Oh, an interface, I think it bridges two different systems, is it?
+B: Something like that lah21","
+
+B: I think a laptop is not powerful enough.
+B: When she needs an interface, I don\'t know what an interface is.
+A: Oh, an interface, I think it bridges two different systems, is it?
+B: Something like that lah21.
+B: Provides a bridge or something like that, I don\'t know.
+B: Her laptop is a Powerbook, hundred.
+B: Don\'t know.
+  [/INST]
+",1.0
+40,40,"
+B: So, if that’s the case, then I would suggest: is to reduce it back to the point again. It’s five, meaning, what I said earlier was that head office imposed 200,000 on your account. But I’m looking at maybe a gradual basis, what about 5,000 per month? Can you manage that for now?
+
+So every month, we reduce by 5,000 lah51","
+
+B: So, if that’s the case, then I would suggest: is to reduce it back to the point again. It’s five, meaning, what I said earlier was that head office imposed 200,000 on your account. But I’m looking at maybe a gradual basis, what about 5,000 per month? Can you manage that for now?
+
+So every month, we reduce by 5,000 lah21.
+  [/INST]
+",0.0
+41,41,"
+B: I\'m sure something\'s funny lah21.
+A: Yes, it\'s like with those jokers leh33.
+A: After I left, the last thing I want to do is to look at their faces again, you know?
+B: Don\'t go to this topic lah21. Not nice.
+A: Ya lah51","
+
+B: I\'m sure something\'s funny lah21.
+A: Yes, it\'s like with those jokers leh33.
+A: After I left, the last thing I want to do is to look at their faces again, you know?
+B: Don\'t go to this topic lah21. Not nice.
+A: Ya lah21.
+  [/INST]
+",0.75
+42,42,"
+A: I\'ll be starting on chapter three next week.
+C: Oh, so have you passed up chapter two?
+A: No, I\'m passing it up today lah21","
+
+A: I\'ll be starting on chapter three next week.
+C: Oh, so have you passed up chapter two?
+A: No, I\'m passing it up today lah21.
+  [/INST]
+",1.0
+43,43,"
+A: ""There\'s a lot of explanations, you know? And all that.""
+
+B: ""Ya, June got Arts Fest. This year got so many festivals!""
+
+A: ""Ya, sometimes a bit tiring. But okay lah21","
+
+A: ""There\'s a lot of explanations, you know? And all that.""
+
+B: ""Ya, June got Arts Fest. This year got so many festivals!""
+
+A: ""Ya, sometimes a bit tiring. But okay lah21. I enjoy festivals overall.""
+  [/INST]
+",1.0
+44,44,"
+C: ""That\'s at Katong, right? Alkaff Mansion.""
+B: ""No lah21","
+
+C: ""That\'s at Katong, right? Alkaff Mansion.""
+B: ""No lah21. It\'s at Telok Blangah Hill.""
+C: ""Oh, I thought it\'s in the Katong area.""
+
+  [/INST]
+",1.0
+45,45,"
+
+B: So we\'re trying to do some promotion for our handicrafts first lah51.
+C: Um, I thought your friend is going to be selling some handicrafts what.
+B: No lah21.
+C: Oh, is it?
+B: She said cannot lah21","
+
+
+B: So we\'re trying to do some promotion for our handicrafts first lah21.
+C: Um, I thought your friend is going to be selling some handicrafts what.
+B: No lah21.
+C: Oh, is it?
+B: She said cannot lah21.
+  [/INST]
+",0.667
+46,46,"
+B: I think ya, okay lah51.
+A: A lot of emptiness, although there\'s a lot of fun and meaning.
+B: Uhm.
+A: Meaning in it also, you know? But actually, quite bad lah21","
+
+B: I think ya, okay lah21.
+A: A lot of emptiness, although there\'s a lot of fun and meaning.
+B: Uhm.
+A: Meaning in it also, you know? But actually, quite bad lah21.
+B: Ya, I don\'t know.
+  [/INST]
+",0.5
+47,47,"
+
+
+C: So, what do we do during the tour? 
+B: Explore the caves lah51","
+
+
+
+C: So, what do we do during the tour? 
+B: Explore the caves lah21.
+  [/INST]
+",0.0
+48,48,"
+A: Eh, but my business already so bad leh33. I really got this serious cash flow problem, and all my factory\'s facilities already stretched until almost max out liao. How can you all come and tell me need to reduce my OD line some more?
+
+A: I really don\'t know leh33...
+
+B: Uh, but you see, what we can do is understand your problem. But we really hope Mr Tan, you can understand our position also lah51","
+
+A: Eh, but my business already so bad leh33. I really got this serious cash flow problem, and all my factory\'s facilities already stretched until almost max out liao. How can you all come and tell me need to reduce my OD line some more?
+
+A: I really don\'t know leh21...
+
+B: Uh, but you see, what we can do is understand your problem. But we really hope Mr Tan, you can understand our position also lah21.
+  [/INST]
+",0.333
+49,49,"
+
+B: I wonder who will get the first prize leh33.
+A: Yah lor33","
+
+
+B: I wonder who will get the first prize leh33.
+A: Yah lor33, last time Sandra got it.
+  [/INST]",1.0
+50,50,"
+B: Is she very dark or not?
+A: She\'s not very dark lah21","
+
+B: Is she very dark or not?
+A: She\'s not very dark lah21, but she knows she\'s very rugged.
+  [/INST]
+",1.0
+51,51,"
+
+
+A:  I\'m supposed to present a talk, and it\'s so nerve-racking that I don\'t want that anymore.
+
+B: But why leh33","
+
+
+
+A:  I\'m supposed to present a talk, and it\'s so nerve-racking that I don\'t want that anymore.
+
+B: But why leh33? This company is very famous, you know?
+
+  [/INST]
+",1.0
+52,52,"
+A: Then we\'ll go without a car, is it?
+B: Ya, until the COE comes down.
+B: You have to walk to the main road lah21.
+A: Ah, then take the MRT. You can also take the bus, but it\'s a lot of inconvenience lah51","
+
+A: Then we\'ll go without a car, is it?
+B: Ya, until the COE comes down.
+B: You have to walk to the main road lah21.
+A: Ah, then take the MRT. You can also take the bus, but it\'s a lot of inconvenience lah21.
+  [/INST]
+",0.5
+53,53,"
+A: Miss P, how many days are we spending in Austria leh33?
+D: Calculate lah51","
+
+A: Miss P, how many days are we spending in Austria leh33?
+D: Calculate lah21, got itinerary right there what.
+  [/INST]
+",0.5
+54,54,"
+A: Uhm, nice to know that I\'m not alone in this.
+B: All of us, we\'re business... uh, private organizations. We\'re not spared, but we have to be prudent.
+B: We have to protect the interests of our shareholders, depositors, and all that lah51","
+
+A: Uhm, nice to know that I\'m not alone in this.
+B: All of us, we\'re business... uh, private organizations. We\'re not spared, but we have to be prudent.
+B: We have to protect the interests of our shareholders, depositors, and all that lah21. But never mind, let\'s see how it goes.
+
+  [/INST]
+",0.0
+55,55,"
+A: Do they see beyond \'A\' levels?
+A: I mean, what do they see beyond \'A\' levels?
+B: University, which they can\'t get into.
+A: Ya lah51","
+
+A: Do they see beyond \'A\' levels?
+A: I mean, what do they see beyond \'A\' levels?
+B: University, which they can\'t get into.
+A: Ya lah21, be realistic.
+  [/INST]
+",0.0
+56,56,"
+C: Don\'t know, my dog keeps biting and biting.
+C: Ya, I think he's allergic to something lah21.
+C: Uhm, but he\'s good lah21. Because, like, having a big dog, you know? After a long time, we\'ve had just a small dog. Our other dog, you know, Pepsi.
+A: What is he allergic to leh33","
+
+C: Don\'t know, my dog keeps biting and biting.
+C: Ya, I think he's allergic to something lah21.
+C: Uhm, but he\'s good lah21. Because, like, having a big dog, you know? After a long time, we\'ve had just a small dog. Our other dog, you know, Pepsi.
+A: What is he allergic to leh33?
+  [/INST]
+",1.0
+57,57,"A: There are many churches that allow us to book, but some only allow us to book three months in advance. That is so confusing!
+B: So, you have to make your list lah51","
+A: There are many churches that allow us to book, but some only allow us to book three months in advance. That is so confusing!
+B: So, you have to make your list lah21, which one allows you to book, which one can convey the order.
+  [/INST]
+",0.0
+58,58,"
+B: Ya.
+A: Only $2, it\'s worth.
+B: That\'s excluding drinks, ah?
+A: Ya lah51","
+
+B: Ya.
+A: Only $2, it\'s worth.
+B: That\'s excluding drinks, ah?
+A: Ya lah21, no drinks one. 
+  [/INST]
+",0.0
+59,59,"
+B: You think Indonesia would be of any help if they really win over the elections and a more stable government is in place?
+A: Uh, I think it\'s going to take time lah21, with all the violence going around there. I think it\'s still going to take years, even when a stable government is elected.
+B: Well, that\'s very sad man. I mean, as bankers, we always hear these kinds of comments that make us jittery. Anyway, thanks for allowing us to come by to visit you today. We just want to come up to update you on our annual exercises lah21","
+
+B: You think Indonesia would be of any help if they really win over the elections and a more stable government is in place?
+A: Uh, I think it\'s going to take time lah21, with all the violence going around there. I think it\'s still going to take years, even when a stable government is elected.
+B: Well, that\'s very sad man. I mean, as bankers, we always hear these kinds of comments that make us jittery. Anyway, thanks for allowing us to come by to visit you today. We just want to come up to update you on our annual exercises lah21.
+  [/INST]
+",1.0
